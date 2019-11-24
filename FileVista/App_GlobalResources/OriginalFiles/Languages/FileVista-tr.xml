@@ -1,0 +1,914 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<Language version="2.0">
+  <Head>
+    <FirstAuthor>
+      <Name></Name>
+      <Email></Email>
+    </FirstAuthor>
+    <LastTranslator>
+      <Name></Name>
+      <Email></Email>
+    </LastTranslator>
+    <CreationDate></CreationDate>
+    <RevisionDate>2019-07-10 10:21:11Z</RevisionDate>
+  </Head>
+  <Body>
+    <EntryGroup key="">
+      <Entry key="500">
+        <Value>{0}'ya hoşgeldiniz</Value>
+      </Entry>
+      <Entry key="501">
+        <Value>Lütfen kimlik bilginizi giriniz:</Value>
+      </Entry>
+      <Entry key="502">
+        <Value>Kullanıcı Adı:</Value>
+      </Entry>
+      <Entry key="503">
+        <Value>Şifre:</Value>
+      </Entry>
+      <Entry key="504">
+        <Value>Giriş</Value>
+      </Entry>
+      <Entry key="505">
+        <Value>Giriş başarısız:</Value>
+      </Entry>
+      <Entry key="Label.DisplayLanguage">
+        <Value>{NotTranslated}</Value>
+      </Entry>
+      <Entry key="Label.FormatLanguage">
+        <Value>{NotTranslated}</Value>
+      </Entry>
+      <Entry key="506">
+        <Value>Kullanıcılar</Value>
+      </Entry>
+      <Entry key="507">
+        <Value>Gruplar</Value>
+      </Entry>
+      <Entry key="508">
+        <Value>Kök Klasörler</Value>
+      </Entry>
+      <Entry key="509">
+        <Value>İsim</Value>
+      </Entry>
+      <Entry key="510">
+        <Value>Tam İsim</Value>
+      </Entry>
+      <Entry key="511">
+        <Value>Giriş Sayısı</Value>
+      </Entry>
+      <Entry key="512">
+        <Value>Son Giriş Zamanı</Value>
+      </Entry>
+      <Entry key="513">
+        <Value>Oluşturulma Tarihi</Value>
+      </Entry>
+      <Entry key="514">
+        <Value>Değiştirilme Tarihi</Value>
+      </Entry>
+      <Entry key="515">
+        <Value>Üyeler</Value>
+      </Entry>
+      <Entry key="516">
+        <Value>Yol</Value>
+      </Entry>
+      <Entry key="517">
+        <Value>Yönetici silinemez!</Value>
+      </Entry>
+      <Entry key="518">
+        <Value>Demo modunda bir kök klasör silinemez!</Value>
+      </Entry>
+      <Entry key="519">
+        <Value>Demo modunda yönetici ismi değiştirilemez!</Value>
+      </Entry>
+      <Entry key="520">
+        <Value>Aynı isimde bir kullanıcı ya da grup zaten tanımlı!</Value>
+      </Entry>
+      <Entry key="521">
+        <Value>Demo modunda bir kök klasörün ismi değiştirilemez!</Value>
+      </Entry>
+      <Entry key="522">
+        <Value>Aynı isimde bir kök klasör zaten tanımlı!</Value>
+      </Entry>
+      <Entry key="523">
+        <Value>Geçersiz kullanıcı adı ya da şifre!</Value>
+      </Entry>
+      <Entry key="525">
+        <Value>Lütfen yönetici ile irtibata geçiniz.</Value>
+      </Entry>
+      <Entry key="526">
+        <Value>Bu kullanıcı için giriş yasaklanmış!</Value>
+      </Entry>
+      <Entry key="527">
+        <Value>{0} kullanıcı</Value>
+      </Entry>
+      <Entry key="528">
+        <Value>{0} grup</Value>
+      </Entry>
+      <Entry key="529">
+        <Value>{0} kök klasör</Value>
+      </Entry>
+      <Entry key="530">
+        <Value>Klasör Gezinmeye Geri Dön</Value>
+      </Entry>
+      <Entry key="531">
+        <Value>Lisans Bilgisi</Value>
+      </Entry>
+      <Entry key="FileVista.Action.Logout">
+        <Value>Çıkış</Value>
+      </Entry>
+      <Entry key="533">
+        <Value>Yeni Kullanıcı</Value>
+      </Entry>
+      <Entry key="534">
+        <Value>Tazele</Value>
+      </Entry>
+      <Entry key="535">
+        <Value>Hepsini Seç</Value>
+      </Entry>
+      <Entry key="536">
+        <Value>Seçimi Çevir</Value>
+      </Entry>
+      <Entry key="537">
+        <Value>Sil</Value>
+      </Entry>
+      <Entry key="538">
+        <Value>İsim Değiştir</Value>
+      </Entry>
+      <Entry key="539">
+        <Value>Özellikler</Value>
+      </Entry>
+      <Entry key="540">
+        <Value>Yeni Grup</Value>
+      </Entry>
+      <Entry key="541">
+        <Value>Yeni Kök Klasör</Value>
+      </Entry>
+      <Entry key="542">
+        <Value>İşlemler</Value>
+      </Entry>
+      <Entry key="543">
+        <Value>XML bilgisini alırken bir problem ile karşılaşıldı:</Value>
+      </Entry>
+      <Entry key="544">
+        <Value>Bir hata oluştu:</Value>
+      </Entry>
+      <Entry key="545">
+        <Value>Kullanıcı Düzenle</Value>
+      </Entry>
+      <Entry key="546">
+        <Value>Grup Düzenle</Value>
+      </Entry>
+      <Entry key="547">
+        <Value>Klasör Düzenle</Value>
+      </Entry>
+      <Entry key="548">
+        <Value>'{0}' isimli nesneyi silmek istediğinize emin misiniz?</Value>
+      </Entry>
+      <Entry key="549">
+        <Value>Nesne için yeni bir isim giriniz:</Value>
+      </Entry>
+      <Entry key="FileVista.Action.Administration">
+        <Value>Yönetim</Value>
+      </Entry>
+      <Entry key="551">
+        <Value>Tamam</Value>
+      </Entry>
+      <Entry key="552">
+        <Value>İptal</Value>
+      </Entry>
+      <Entry key="553">
+        <Value>Bilgi Girişi</Value>
+      </Entry>
+      <Entry key="554">
+        <Value>Oturum zamanaşımına uğradı, lütfen yeniden giriş yapınız.</Value>
+      </Entry>
+      <Entry key="555">
+        <Value>Bu sayfayı görüntüleme yetkiniz yok!</Value>
+      </Entry>
+      <Entry key="556">
+        <Value>İsim:</Value>
+      </Entry>
+      <Entry key="557">
+        <Value>Açıklama</Value>
+      </Entry>
+      <Entry key="558">
+        <Value>Üye kullanıcılar:</Value>
+      </Entry>
+      <Entry key="559">
+        <Value>Yetkiler</Value>
+      </Entry>
+      <Entry key="560">
+        <Value>Kullanıcı Seç</Value>
+      </Entry>
+      <Entry key="561">
+        <Value>Arama kriteri:</Value>
+      </Entry>
+      <Entry key="562">
+        <Value>Arama sonuçları:</Value>
+      </Entry>
+      <Entry key="563">
+        <Value>Ekle</Value>
+      </Entry>
+      <Entry key="564">
+        <Value>Çıkar</Value>
+      </Entry>
+      <Entry key="565">
+        <Value>Seç</Value>
+      </Entry>
+      <Entry key="566">
+        <Value>Şimdi Bul</Value>
+      </Entry>
+      <Entry key="567">
+        <Value>Grup Yöneticisi</Value>
+      </Entry>
+      <Entry key="568">
+        <Value>Lütfen 'İsim' alanını doldurunuz!</Value>
+      </Entry>
+      <Entry key="569">
+        <Value>Yol:</Value>
+      </Entry>
+      <Entry key="570">
+        <Value>Gruplar veya kullanıcılar:</Value>
+      </Entry>
+      <Entry key="571">
+        <Value>Kota</Value>
+      </Entry>
+      <Entry key="572">
+        <Value>Kullanıcı veya Grup Seç</Value>
+      </Entry>
+      <Entry key="573">
+        <Value>Aranacak:</Value>
+      </Entry>
+      <Entry key="574">
+        <Value>Hepsi</Value>
+      </Entry>
+      <Entry key="FileVista.Permission.ListSubfolders">
+        <Value>Alt klasör listele</Value>
+      </Entry>
+      <Entry key="FileVista.Permission.ListFiles">
+        <Value>Dosya listele</Value>
+      </Entry>
+      <Entry key="FileVista.Permission.Create">
+        <Value>Oluştur</Value>
+      </Entry>
+      <Entry key="FileVista.Permission.Delete">
+        <Value>Sil</Value>
+      </Entry>
+      <Entry key="FileVista.Permission.Rename">
+        <Value>İsim Değiştir</Value>
+      </Entry>
+      <Entry key="FileVista.Permission.Edit">
+        <Value>Düzenle</Value>
+      </Entry>
+      <Entry key="FileVista.Permission.Upload">
+        <Value>Gönder</Value>
+      </Entry>
+      <Entry key="FileVista.Permission.Download">
+        <Value>İndir</Value>
+      </Entry>
+      <Entry key="FileVista.Permission.Compress">
+        <Value>Zip oluştur</Value>
+      </Entry>
+      <Entry key="FileVista.Permission.Extract">
+        <Value>Zip aç</Value>
+      </Entry>
+      <Entry key="FileVista.Permission.Cut">
+        <Value>Kes</Value>
+      </Entry>
+      <Entry key="FileVista.Permission.Copy">
+        <Value>Kopyala</Value>
+      </Entry>
+      <Entry key="FileVista.Permission.Paste">
+        <Value>Yapıştır</Value>
+      </Entry>
+      <Entry key="FileVista.Permission.Preview">
+        <Value>{NotTranslated}</Value>
+      </Entry>
+      <Entry key="FileVista.Permission.Print">
+        <Value>{NotTranslated}</Value>
+      </Entry>
+      <Entry key="FileVista.Permission.CreatePublicLink">
+        <Value>Genel bağlantı oluştur</Value>
+      </Entry>
+      <Entry key="588">
+        <Value>Sınırsız disk</Value>
+      </Entry>
+      <Entry key="589">
+        <Value>Disk kullanımını sınırla</Value>
+      </Entry>
+      <Entry key="590">
+        <Value>Lütfen 'Yol' alanını doldurunuz!</Value>
+      </Entry>
+      <Entry key="591">
+        <Value>Demo modunda bir kök klasör oluşturamazsınız!</Value>
+      </Entry>
+      <Entry key="Message.Error.FeatureTests">
+        <Value>{NotTranslated}</Value>
+      </Entry>
+      <Entry key="593">
+        <Value>Kullanıcı adı:</Value>
+      </Entry>
+      <Entry key="594">
+        <Value>Tam isim:</Value>
+      </Entry>
+      <Entry key="595">
+        <Value>E-posta:</Value>
+      </Entry>
+      <Entry key="596">
+        <Value>Şifre (Tekrar):</Value>
+      </Entry>
+      <Entry key="597">
+        <Value>Şifre zamanaşımına uğramasın</Value>
+      </Entry>
+      <Entry key="598">
+        <Value>Kullanıcı şifresini değiştiremesin</Value>
+      </Entry>
+      <Entry key="599">
+        <Value>Kullanıcı bir sonraki girişte şifresini değiştirsin</Value>
+      </Entry>
+      <Entry key="600">
+        <Value>Kullanıcı girişini yasakla</Value>
+      </Entry>
+      <Entry key="601">
+        <Value>Kullanıcı kilitlenmiş</Value>
+      </Entry>
+      <Entry key="602">
+        <Value>Şifreyi değiştir</Value>
+      </Entry>
+      <Entry key="603">
+        <Value>Lütfen 'Kullanıcı adı' alanını doldurunuz!</Value>
+      </Entry>
+      <Entry key="604">
+        <Value>E-posta adresi yanlış yazılmış!</Value>
+      </Entry>
+      <Entry key="605">
+        <Value>Şifreler uyuşmuyor!</Value>
+      </Entry>
+      <Entry key="606">
+        <Value>Lütfen 'Şifre' alanını doldurunuz!</Value>
+      </Entry>
+      <Entry key="607">
+        <Value>Demo modunda yöneticiyi güncelleyemezsiniz!</Value>
+      </Entry>
+      <Entry key="608">
+        <Value>Lisansınız daha fazla kullanıcı eklenmesine izin vermiyor!</Value>
+      </Entry>
+      <Entry key="609">
+        <Value>Lisans sahibi:</Value>
+      </Entry>
+      <Entry key="610">
+        <Value>Lisans türü:</Value>
+      </Entry>
+      <Entry key="611">
+        <Value>Satın alma tarihi:</Value>
+      </Entry>
+      <Entry key="612">
+        <Value>Yeni bir lisans kodu uygula</Value>
+      </Entry>
+      <Entry key="613">
+        <Value>Lisansınızı yükseltmek ister misiniz?</Value>
+      </Entry>
+      <Entry key="614">
+        <Value>Bu lisans kodu geçersiz!</Value>
+      </Entry>
+      <Entry key="615">
+        <Value>Olaylar</Value>
+      </Entry>
+      <Entry key="616">
+        <Value>Tür</Value>
+      </Entry>
+      <Entry key="617">
+        <Value>Tarih</Value>
+      </Entry>
+      <Entry key="618">
+        <Value>Zaman</Value>
+      </Entry>
+      <Entry key="619">
+        <Value>Kullanıcı</Value>
+      </Entry>
+      <Entry key="FileVista.Event.Login">
+        <Value>Giriş</Value>
+      </Entry>
+      <Entry key="FileVista.Event.Logout">
+        <Value>Çıkış</Value>
+      </Entry>
+      <Entry key="FileVista.Event.Failure">
+        <Value>Hata</Value>
+      </Entry>
+      <Entry key="FileVista.Event.Browse">
+        <Value>Gezinme</Value>
+      </Entry>
+      <Entry key="FileVista.Event.Create">
+        <Value>Oluşturma</Value>
+      </Entry>
+      <Entry key="FileVista.Event.Delete">
+        <Value>Silme</Value>
+      </Entry>
+      <Entry key="FileVista.Event.Rename">
+        <Value>İsim Değiştirme</Value>
+      </Entry>
+      <Entry key="FileVista.Event.Copy">
+        <Value>Kopyalama</Value>
+      </Entry>
+      <Entry key="FileVista.Event.Move">
+        <Value>Taşıma</Value>
+      </Entry>
+      <Entry key="FileVista.Event.Compress">
+        <Value>Zip Oluşturma</Value>
+      </Entry>
+      <Entry key="FileVista.Event.Extract">
+        <Value>Zip Açma</Value>
+      </Entry>
+      <Entry key="FileVista.Event.Upload">
+        <Value>Dosya Gönderme</Value>
+      </Entry>
+      <Entry key="FileVista.Event.Download">
+        <Value>Dosya İndirme</Value>
+      </Entry>
+      <Entry key="FileVista.Event.Preview">
+        <Value>{NotTranslated}</Value>
+      </Entry>
+      <Entry key="FileVista.Event.PublicLink">
+        <Value>{NotTranslated}</Value>
+      </Entry>
+      <Entry key="FileVista.EventSet.All">
+        <Value>{NotTranslated}</Value>
+      </Entry>
+      <Entry key="633">
+        <Value>Kendi kullanıcı hesabınızı silemezsiniz!</Value>
+      </Entry>
+      <Entry key="634">
+        <Value>Kullanıcı başka üyelikleri bulunduğu için silinmedi. Sadece bu gruptaki üyeliği kaldırıldı.</Value>
+      </Entry>
+      <Entry key="635">
+        <Value>{0} olay</Value>
+      </Entry>
+      <Entry key="636">
+        <Value>Program Ayarları</Value>
+      </Entry>
+      <Entry key="637">
+        <Value>Olay türleri</Value>
+      </Entry>
+      <Entry key="639">
+        <Value>Olayları Kaydet</Value>
+      </Entry>
+      <Entry key="640">
+        <Value>Demo modunda ayarları kaydedemezsiniz!</Value>
+      </Entry>
+      <Entry key="641">
+        <Value>Kayıt boyutu</Value>
+      </Entry>
+      <Entry key="642">
+        <Value>Maksimum kayıt boyutu:</Value>
+      </Entry>
+      <Entry key="643">
+        <Value>Maksimum kayıt boyutuna ulaşıldığında:</Value>
+      </Entry>
+      <Entry key="644">
+        <Value>{0} günden eski olayları sil</Value>
+      </Entry>
+      <Entry key="645">
+        <Value>Süz</Value>
+      </Entry>
+      <Entry key="646">
+        <Value>Olay Özellikleri</Value>
+      </Entry>
+      <Entry key="647">
+        <Value>Tarih Aralığı</Value>
+      </Entry>
+      <Entry key="648">
+        <Value>Kaydı Temizle</Value>
+      </Entry>
+      <Entry key="649">
+        <Value>Olay kaydını temizlemek istediğinize emin misiniz?</Value>
+      </Entry>
+      <Entry key="FileVista.Action.UserSettings">
+        <Value>Kullanıcı Ayarları</Value>
+      </Entry>
+      <Entry key="652">
+        <Value>Beni hatırla</Value>
+      </Entry>
+      <Entry key="653">
+        <Value>Birçok başarısız girişten dolayı kullanıcı kilitlenmiştir!</Value>
+      </Entry>
+      <Entry key="654">
+        <Value>{0} günden sonra şifreler zamanaşımına uğrayacaktır</Value>
+      </Entry>
+      <Entry key="655">
+        <Value>Kullanıcılar {0} başarısız girişten sonra kilitlenecektir</Value>
+      </Entry>
+      <Entry key="656">
+        <Value>Erişim Denetimi</Value>
+      </Entry>
+      <Entry key="657">
+        <Value>Üst klasörden devral</Value>
+      </Entry>
+      <Entry key="658">
+        <Value>Dosya türleri</Value>
+      </Entry>
+      <Entry key="659">
+        <Value>Herhangi bir tür</Value>
+      </Entry>
+      <Entry key="660">
+        <Value>Sadece bu türler:</Value>
+      </Entry>
+      <Entry key="661">
+        <Value>Yönetici grubu en az bir yönetici içermeli!</Value>
+      </Entry>
+      <Entry key="662">
+        <Value>Yönetici grubu silinemez!</Value>
+      </Entry>
+      <Entry key="663">
+        <Value>Yöneticinin ismi değiştirilemez!</Value>
+      </Entry>
+      <Entry key="664">
+        <Value>Dil</Value>
+      </Entry>
+      <Entry key="665">
+        <Value>Bildirimler</Value>
+      </Entry>
+      <Entry key="666">
+        <Value>{0} Olay Bildirimi - {1}</Value>
+      </Entry>
+      <Entry key="667">
+        <Value>Sizin ({0}) bildirim almanız için kayıtlı olduğunuz bir klasörde bir olay oluştu. Olay detayları aşağıda listelenmiştir.</Value>
+      </Entry>
+      <Entry key="668">
+        <Value>Dosya gönderme metodları</Value>
+      </Entry>
+      <Entry key="669">
+        <Value>Dosya uzantılarını göster</Value>
+      </Entry>
+      <Entry key="670">
+        <Value>Sistem dosya tür açıklamalarını göster</Value>
+      </Entry>
+      <Entry key="671">
+        <Value>Gizli dosya ve klasörleri göster</Value>
+      </Entry>
+      <Entry key="672">
+        <Value>Sistem dosya ve klasörlerini göster</Value>
+      </Entry>
+      <Entry key="673">
+        <Value>Klasör genişletilebilme kontrolünü kapat</Value>
+      </Entry>
+      <Entry key="674">
+        <Value>Oluşturulan zip dosyaları için  maksimum boyut</Value>
+      </Entry>
+      <Entry key="675">
+        <Value>Geçiçi dosya konumu</Value>
+      </Entry>
+      <Entry key="676">
+        <Value>Genel</Value>
+      </Entry>
+      <Entry key="677">
+        <Value>Klasör Gezinme</Value>
+      </Entry>
+      <Entry key="678">
+        <Value>Olay Kaydetme</Value>
+      </Entry>
+      <Entry key="679">
+        <Value>Eposta</Value>
+      </Entry>
+      <Entry key="680">
+        <Value>Geçiçi dosya konumu fiziksel olarak mevcut değil veya yazma izni yok!</Value>
+      </Entry>
+      <Entry key="681">
+        <Value>Eposta bildirimleri gönder</Value>
+      </Entry>
+      <Entry key="682">
+        <Value>Gönderen eposta adresi</Value>
+      </Entry>
+      <Entry key="FileVista.Label.SmtpHost">
+        <Value>SMTP adresi</Value>
+      </Entry>
+      <Entry key="FileVista.Label.SmtpPort">
+        <Value>SMTP bağlantı noktası</Value>
+      </Entry>
+      <Entry key="FileVista.Label.SmtpAuthentication">
+        <Value>SMTP kimlik denetimi</Value>
+      </Entry>
+      <Entry key="686">
+        <Value>Anonim</Value>
+      </Entry>
+      <Entry key="687">
+        <Value>Windows kimliğini kullan</Value>
+      </Entry>
+      <Entry key="688">
+        <Value>Aşağıdaki kimliği kullan</Value>
+      </Entry>
+      <Entry key="689">
+        <Value>SSL kullan</Value>
+      </Entry>
+      <Entry key="FileVista.Action.TestEmail">
+        <Value>Eposta Sına</Value>
+      </Entry>
+      <Entry key="692">
+        <Value>Bağlanan dosyayı tarayıcıda aç</Value>
+      </Entry>
+      <Entry key="693">
+        <Value>Bağlantı {0} gün içinde zamanaşımına uğrasın</Value>
+      </Entry>
+      <Entry key="694">
+        <Value>Bağlantı sadece {0} kere açılabilir</Value>
+      </Entry>
+      <Entry key="695">
+        <Value>Bağlantıyı şifre ile koru</Value>
+      </Entry>
+      <Entry key="696">
+        <Value>Bağlantıda özel isim kullan</Value>
+      </Entry>
+      <Entry key="697">
+        <Value>Gelişmiş</Value>
+      </Entry>
+      <Entry key="FileVista.Label.Create">
+        <Value>Oluştur</Value>
+      </Entry>
+      <Entry key="FileVista.Label.Update">
+        <Value>Güncelle</Value>
+      </Entry>
+      <Entry key="700">
+        <Value>Sına</Value>
+      </Entry>
+      <Entry key="701">
+        <Value>Eposta</Value>
+      </Entry>
+      <Entry key="703">
+        <Value>Daha fazla bilgi için lütfen bağlantı sahibi ile iletişime geçiniz.</Value>
+      </Entry>
+      <Entry key="704">
+        <Value>Bağlantı bulunamadı</Value>
+      </Entry>
+      <Entry key="705">
+        <Value>Talep ettiğiniz bağlantı bulunamıyor ya da artık tanımlı değil. Bağlantı sahibi bağlantıyı silmiş olabilir.</Value>
+      </Entry>
+      <Entry key="706">
+        <Value>Kaynak bulunamadı</Value>
+      </Entry>
+      <Entry key="707">
+        <Value>Bağlantı ile ilişkilendirilen kaynak bulunamıyor ya da artık mevcut değil. Bağlantı sahibi ilişkilendirilen kaynağı silmiş veya taşımış olabilir.</Value>
+      </Entry>
+      <Entry key="708">
+        <Value>Bağlantı zamanaşımına uğramış</Value>
+      </Entry>
+      <Entry key="709">
+        <Value>Talep ettiğiniz bağlantı, bağlantı sahibinin koyduğu süre sınırı dolayısıyla zamanaşımına uğramış.</Value>
+      </Entry>
+      <Entry key="710">
+        <Value>Bağlantı açma sınırına ulaşmış</Value>
+      </Entry>
+      <Entry key="711">
+        <Value>Talep ettiğiniz bağlantı, bağlantı sahibinin koyduğu maksimum açma sınırına ulaşmış.</Value>
+      </Entry>
+      <Entry key="712">
+        <Value>Bağlantı devre dışı</Value>
+      </Entry>
+      <Entry key="713">
+        <Value>Talep ettiğiniz bağlantı, bağlantı sahibi tarafından devre dışı bırakılmış.</Value>
+      </Entry>
+      <Entry key="714">
+        <Value>Şifre gerekiyor</Value>
+      </Entry>
+      <Entry key="715">
+        <Value>Talep ettiğiniz bağlantı, bağlantı sahibinin koyduğu bir şifre ile korunuyor.</Value>
+      </Entry>
+      <Entry key="716">
+        <Value>Lütfen bağlantı sahibi tarafından size verilen şifreyi girin.</Value>
+      </Entry>
+      <Entry key="717">
+        <Value>Geçersiz şifre!</Value>
+      </Entry>
+      <Entry key="718">
+        <Value>Anonim Kullanıcı</Value>
+      </Entry>
+      <Entry key="720">
+        <Value>Deneme lisans modu (5 kullanıcı) - {0} gün kaldı</Value>
+      </Entry>
+      <Entry key="721">
+        <Value>Satınalınmış lisans modu</Value>
+      </Entry>
+      <Entry key="722">
+        <Value>Yeni lisans satınal</Value>
+      </Entry>
+      <Entry key="723">
+        <Value>Mevcut lisansı yükselt</Value>
+      </Entry>
+      <Entry key="724">
+        <Value>Bağlantılar için aşağıdaki adresi kullan</Value>
+      </Entry>
+      <Entry key="725">
+        <Value>Üye sayısını kısıtla</Value>
+      </Entry>
+      <Entry key="726">
+        <Value>Grup ayarları daha fazla üye eklenmesine izin vermiyor!</Value>
+      </Entry>
+      <Entry key="FileVista.Label.LoggedInAs">
+        <Value>{0} olarak giriş yapıldı</Value>
+      </Entry>
+      <Entry key="FileVista.Label.SectionUnavailable">
+        <Value>Bu bölüme ulaşılamıyor.</Value>
+      </Entry>
+      <Entry key="FileVista.Label.SectionEmpty">
+        <Value>Bu bölüm boş.</Value>
+      </Entry>
+      <Entry key="FileVista.Action.Connect">
+        <Value>Bağlan</Value>
+      </Entry>
+      <Entry key="FileVista.Label.Filtered">
+        <Value>Süzüldü</Value>
+      </Entry>
+      <Entry key="FileVista.Label.Allow">
+        <Value>{NotTranslated}</Value>
+      </Entry>
+      <Entry key="FileVista.Label.Deny">
+        <Value>{NotTranslated}</Value>
+      </Entry>
+      <Entry key="FileVista.Label.Notify">
+        <Value>{NotTranslated}</Value>
+      </Entry>
+      <Entry key="FileVista.Label.DoNotNotify">
+        <Value>{NotTranslated}</Value>
+      </Entry>
+      <Entry key="FileVista.PermissionSet.Full">
+        <Value>{NotTranslated}</Value>
+      </Entry>
+      <Entry key="FileVista.PermissionSet.Read">
+        <Value>{NotTranslated}</Value>
+      </Entry>
+      <Entry key="FileVista.NotificationSet.OnAll">
+        <Value>{NotTranslated}</Value>
+      </Entry>
+      <Entry key="FileVista.Notification.OnFailure">
+        <Value>{NotTranslated}</Value>
+      </Entry>
+      <Entry key="FileVista.Notification.OnBrowse">
+        <Value>{NotTranslated}</Value>
+      </Entry>
+      <Entry key="FileVista.Notification.OnCreate">
+        <Value>{NotTranslated}</Value>
+      </Entry>
+      <Entry key="FileVista.Notification.OnDelete">
+        <Value>{NotTranslated}</Value>
+      </Entry>
+      <Entry key="FileVista.Notification.OnRename">
+        <Value>{NotTranslated}</Value>
+      </Entry>
+      <Entry key="FileVista.Notification.OnCopy">
+        <Value>{NotTranslated}</Value>
+      </Entry>
+      <Entry key="FileVista.Notification.OnMove">
+        <Value>{NotTranslated}</Value>
+      </Entry>
+      <Entry key="FileVista.Notification.OnCompress">
+        <Value>{NotTranslated}</Value>
+      </Entry>
+      <Entry key="FileVista.Notification.OnExtract">
+        <Value>{NotTranslated}</Value>
+      </Entry>
+      <Entry key="FileVista.Notification.OnUpload">
+        <Value>{NotTranslated}</Value>
+      </Entry>
+      <Entry key="FileVista.Notification.OnDownload">
+        <Value>{NotTranslated}</Value>
+      </Entry>
+      <Entry key="FileVista.Notification.OnPreview">
+        <Value>{NotTranslated}</Value>
+      </Entry>
+      <Entry key="FileVista.Prompt.AddFileType">
+        <Value>{NotTranslated}</Value>
+      </Entry>
+      <Entry key="FileVista.Error.InvalidFileType">
+        <Value>{NotTranslated}</Value>
+      </Entry>
+      <Entry key="FileVista.Prompt.RemoveInheritance">
+        <Value>{NotTranslated}</Value>
+      </Entry>
+      <Entry key="FileVista.Label.IncludePathInLink">
+        <Value>{NotTranslated}</Value>
+      </Entry>
+      <Entry key="FileVista.Label.NameInLink">
+        <Value>{NotTranslated}</Value>
+      </Entry>
+      <Entry key="FileVista.Label.Delete">
+        <Value>{NotTranslated}</Value>
+      </Entry>
+      <Entry key="FileVista.Label.PublicLink">
+        <Value>{NotTranslated}</Value>
+      </Entry>
+      <Entry key="FileVista.Label.PublicLinks">
+        <Value>{NotTranslated}</Value>
+      </Entry>
+      <Entry key="FileVista.Label.LinkedItem">
+        <Value>{NotTranslated}</Value>
+      </Entry>
+      <Entry key="FileVista.Label.HitCount">
+        <Value>{NotTranslated}</Value>
+      </Entry>
+      <Entry key="FileVista.Label.LastHitTime">
+        <Value>{NotTranslated}</Value>
+      </Entry>
+      <Entry key="FileVista.Label.Expiration">
+        <Value>{NotTranslated}</Value>
+      </Entry>
+      <Entry key="FileVista.Label.HitLimit">
+        <Value>{NotTranslated}</Value>
+      </Entry>
+      <Entry key="FileVista.Label.CreatedBy">
+        <Value>{NotTranslated}</Value>
+      </Entry>
+      <Entry key="FileVista.Label.PublicLinksCount">
+        <Value>{NotTranslated}</Value>
+      </Entry>
+      <Entry key="FileVista.Label.Expired">
+        <Value>{NotTranslated}</Value>
+      </Entry>
+      <Entry key="FileVista.Label.NotExpired">
+        <Value>{NotTranslated}</Value>
+      </Entry>
+      <Entry key="FileVista.Label.Reached">
+        <Value>{NotTranslated}</Value>
+      </Entry>
+      <Entry key="FileVista.Label.NotReached">
+        <Value>{NotTranslated}</Value>
+      </Entry>
+      <Entry key="FileVista.Label.Close">
+        <Value>{NotTranslated}</Value>
+      </Entry>
+      <Entry key="Label.Share.Verb">
+        <Value>{NotTranslated}</Value>
+      </Entry>
+      <Entry key="Label.CreatePublicLink">
+        <Value>{NotTranslated}</Value>
+      </Entry>
+      <Entry key="Label.ManagePublicLinks">
+        <Value>{NotTranslated}</Value>
+      </Entry>
+      <Entry key="Label.PublicLinksFor">
+        <Value>{NotTranslated}</Value>
+      </Entry>
+      <Entry key="Label.NewPublicLink">
+        <Value>{NotTranslated}</Value>
+      </Entry>
+      <Entry key="Label.EditPublicLink">
+        <Value>{NotTranslated}</Value>
+      </Entry>
+      <Entry key="FileVista.Label.EmailDeliveryMethod">
+        <Value>{NotTranslated}</Value>
+      </Entry>
+      <Entry key="FileVista.Label.SmtpServer">
+        <Value>{NotTranslated}</Value>
+      </Entry>
+      <Entry key="FileVista.Label.SpecifiedPickupDirectory">
+        <Value>{NotTranslated}</Value>
+      </Entry>
+      <Entry key="FileVista.Label.PickupDirectoryFromIis">
+        <Value>{NotTranslated}</Value>
+      </Entry>
+      <Entry key="FileVista.Label.PickupDirectoryLocation">
+        <Value>{NotTranslated}</Value>
+      </Entry>
+      <Entry key="FileVista.Action.Up">
+        <Value>{NotTranslated}</Value>
+      </Entry>
+      <Entry key="FileVista.Action.Down">
+        <Value>{NotTranslated}</Value>
+      </Entry>
+      <Entry key="Label.ViewLayout">
+        <Value>{NotTranslated}</Value>
+      </Entry>
+      <Entry key="Label.DownloadWithChunkedTransferThreshold">
+        <Value>{NotTranslated}</Value>
+      </Entry>
+      <Entry key="Label.ImportUsers">
+        <Value>{NotTranslated}</Value>
+      </Entry>
+      <Entry key="Label.DownloadOnDoubleClick">
+        <Value>{NotTranslated}</Value>
+      </Entry>
+      <Entry key="Label.ExcludedExtensionsForPreview">
+        <Value>{NotTranslated}</Value>
+      </Entry>
+      <Entry key="Label.MaximumPublicLinkAge">
+        <Value>{NotTranslated}</Value>
+      </Entry>
+      <Entry key="Label.MaximumPublicLinkHits">
+        <Value>{NotTranslated}</Value>
+      </Entry>
+      <Entry key="Label.Days">
+        <Value>{NotTranslated}</Value>
+      </Entry>
+      <Entry key="Message.LinkHasExpiredPolicy">
+        <Value>{NotTranslated}</Value>
+      </Entry>
+      <Entry key="Message.LinkLimitReachedPolicy">
+        <Value>{NotTranslated}</Value>
+      </Entry>
+      <Entry key="Message.ContactAdministrator">
+        <Value>{NotTranslated}</Value>
+      </Entry>
+      <Entry key="Label.About">
+        <Value>{NotTranslated}</Value>
+      </Entry>
+    </EntryGroup>
+  </Body>
+</Language>

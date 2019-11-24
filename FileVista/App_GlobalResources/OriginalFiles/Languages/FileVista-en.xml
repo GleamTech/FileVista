@@ -1,0 +1,954 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<!--
+
+<Entry key="Label.Test">
+  <Value>Translated text</Value>
+  <Tag>Optional tag1</Tag>
+  <Tag>Optional tag2</Tag>
+  <Comment>Optional comment</Comment>
+</Entry>
+
+No <Value> element or <Value> element like in below formats, indicate missing translation:
+  <Value />
+  <Value>{NotTranslated}</Value>
+
+For single words: 
+Labels are short and precise descriptors of the purpose of a UI element. 
+These can be very difficult to translate at times, especially if they are single words,
+and if the word used in English can be interpreted as either a noun or imperative verb.
+Same words for noun and verb:
+http://www.enchantedlearning.com/wordlist/nounandverb.shtml
+  Label.View.Noun
+  Label.View.Verb
+      
+The informational message is usually composed of full sentences, 
+and conveys information or requests an action of the user. 
+Since these tend to be longer than labels, they tend to be slightly easier to translate.
+  Message.EmptyFolder
+  Message.Error.InvalidFileName
+  Message.Confirm.DeleteFile
+  Message.Prompt.RenameItem
+
+-->
+
+<Language version="2.0">
+  <Head>
+    <FirstAuthor>
+      <Name>GleamTech</Name>
+      <Email>support@gleamtech.com</Email>
+    </FirstAuthor>
+    <LastTranslator>
+      <Name>GleamTech</Name>
+      <Email>support@gleamtech.com</Email>
+    </LastTranslator>
+    <CreationDate></CreationDate>
+    <RevisionDate>2019-07-10 10:21:10Z</RevisionDate>
+  </Head>
+  <Body>
+    <EntryGroup key="">
+      <Entry key="500">
+        <Value>Welcome to {0}</Value>
+      </Entry>
+      <Entry key="501">
+        <Value>Please enter your credentials:</Value>
+      </Entry>
+      <Entry key="502">
+        <Value>User name:</Value>
+      </Entry>
+      <Entry key="503">
+        <Value>Password:</Value>
+      </Entry>
+      <Entry key="504">
+        <Value>Login</Value>
+      </Entry>
+      <Entry key="505">
+        <Value>Login failed:</Value>
+      </Entry>
+      <Entry key="Label.DisplayLanguage">
+        <Value>Display language</Value>
+      </Entry>
+      <Entry key="Label.FormatLanguage">
+        <Value>Format language</Value>
+      </Entry>
+      <Entry key="506">
+        <Value>Users</Value>
+      </Entry>
+      <Entry key="507">
+        <Value>Groups</Value>
+      </Entry>
+      <Entry key="508">
+        <Value>Root Folders</Value>
+      </Entry>
+      <Entry key="509">
+        <Value>Name</Value>
+      </Entry>
+      <Entry key="510">
+        <Value>Full Name</Value>
+      </Entry>
+      <Entry key="511">
+        <Value>Login Count</Value>
+      </Entry>
+      <Entry key="512">
+        <Value>Last Login Time</Value>
+      </Entry>
+      <Entry key="513">
+        <Value>Date Created</Value>
+      </Entry>
+      <Entry key="514">
+        <Value>Date Modified</Value>
+      </Entry>
+      <Entry key="515">
+        <Value>Members</Value>
+      </Entry>
+      <Entry key="516">
+        <Value>Location</Value>
+      </Entry>
+      <Entry key="517">
+        <Value>Cannot delete a user which is member of the Administrators group!</Value>
+      </Entry>
+      <Entry key="518">
+        <Value>You can not delete a root folder in Demo Mode!</Value>
+      </Entry>
+      <Entry key="519">
+        <Value>You can not rename administrator in Demo Mode!</Value>
+      </Entry>
+      <Entry key="520">
+        <Value>User or group with this name already exists!</Value>
+      </Entry>
+      <Entry key="521">
+        <Value>You can not rename a root folder in Demo Mode!</Value>
+      </Entry>
+      <Entry key="522">
+        <Value>Root folder with this name already exists!</Value>
+      </Entry>
+      <Entry key="523">
+        <Value>Invalid user name or password!</Value>
+      </Entry>
+      <Entry key="525">
+        <Value>Please contact the administrator.</Value>
+      </Entry>
+      <Entry key="526">
+        <Value>This user is disabled!</Value>
+      </Entry>
+      <Entry key="527">
+        <Value>{0} users</Value>
+      </Entry>
+      <Entry key="528">
+        <Value>{0} groups</Value>
+      </Entry>
+      <Entry key="529">
+        <Value>{0} root folders</Value>
+      </Entry>
+      <Entry key="530">
+        <Value>Back to Folder Browsing</Value>
+      </Entry>
+      <Entry key="531">
+        <Value>License Information</Value>
+      </Entry>
+      <Entry key="FileVista.Action.Logout">
+        <Value>Log out</Value>
+      </Entry>
+      <Entry key="533">
+        <Value>New User</Value>
+      </Entry>
+      <Entry key="534">
+        <Value>Refresh</Value>
+      </Entry>
+      <Entry key="535">
+        <Value>Select All</Value>
+      </Entry>
+      <Entry key="536">
+        <Value>Invert Selection</Value>
+      </Entry>
+      <Entry key="537">
+        <Value>Delete</Value>
+      </Entry>
+      <Entry key="538">
+        <Value>Rename</Value>
+      </Entry>
+      <Entry key="539">
+        <Value>Properties</Value>
+      </Entry>
+      <Entry key="540">
+        <Value>New Group</Value>
+      </Entry>
+      <Entry key="541">
+        <Value>New Root Folder</Value>
+      </Entry>
+      <Entry key="542">
+        <Value>Tasks</Value>
+      </Entry>
+      <Entry key="543">
+        <Value>There was a problem retrieving the XML data:</Value>
+      </Entry>
+      <Entry key="544">
+        <Value>An error occured:</Value>
+      </Entry>
+      <Entry key="545">
+        <Value>Edit User</Value>
+      </Entry>
+      <Entry key="546">
+        <Value>Edit Group</Value>
+      </Entry>
+      <Entry key="547">
+        <Value>Edit Root Folder</Value>
+      </Entry>
+      <Entry key="548">
+        <Value>Are you sure you want to delete '{0}'?</Value>
+      </Entry>
+      <Entry key="549">
+        <Value>Enter a new name for the item:</Value>
+      </Entry>
+      <Entry key="FileVista.Action.Administration">
+        <Value>Administration</Value>
+      </Entry>
+      <Entry key="551">
+        <Value>OK</Value>
+      </Entry>
+      <Entry key="552">
+        <Value>Cancel</Value>
+      </Entry>
+      <Entry key="553">
+        <Value>Prompt</Value>
+      </Entry>
+      <Entry key="554">
+        <Value>Session has expired, please login again.</Value>
+      </Entry>
+      <Entry key="555">
+        <Value>You are not allowed to view this page!</Value>
+      </Entry>
+      <Entry key="556">
+        <Value>Name:</Value>
+      </Entry>
+      <Entry key="557">
+        <Value>Description</Value>
+      </Entry>
+      <Entry key="558">
+        <Value>Member users:</Value>
+      </Entry>
+      <Entry key="559">
+        <Value>Permissions</Value>
+      </Entry>
+      <Entry key="560">
+        <Value>Select users</Value>
+      </Entry>
+      <Entry key="561">
+        <Value>Search criteria:</Value>
+      </Entry>
+      <Entry key="562">
+        <Value>Search results:</Value>
+      </Entry>
+      <Entry key="563">
+        <Value>Add</Value>
+      </Entry>
+      <Entry key="564">
+        <Value>Remove</Value>
+      </Entry>
+      <Entry key="565">
+        <Value>Select</Value>
+      </Entry>
+      <Entry key="566">
+        <Value>Find Now</Value>
+      </Entry>
+      <Entry key="567">
+        <Value>Group Manager</Value>
+      </Entry>
+      <Entry key="568">
+        <Value>Please fill in 'Name' field!</Value>
+      </Entry>
+      <Entry key="569">
+        <Value>Location:</Value>
+      </Entry>
+      <Entry key="570">
+        <Value>Groups or users:</Value>
+      </Entry>
+      <Entry key="571">
+        <Value>Quota</Value>
+      </Entry>
+      <Entry key="572">
+        <Value>Select groups or users</Value>
+      </Entry>
+      <Entry key="573">
+        <Value>Search for:</Value>
+      </Entry>
+      <Entry key="574">
+        <Value>All</Value>
+      </Entry>
+      <Entry key="FileVista.Permission.ListSubfolders">
+        <Value>List subfolders</Value>
+      </Entry>
+      <Entry key="FileVista.Permission.ListFiles">
+        <Value>List files</Value>
+      </Entry>
+      <Entry key="FileVista.Permission.Create">
+        <Value>Create</Value>
+      </Entry>
+      <Entry key="FileVista.Permission.Delete">
+        <Value>Delete</Value>
+      </Entry>
+      <Entry key="FileVista.Permission.Rename">
+        <Value>Rename</Value>
+      </Entry>
+      <Entry key="FileVista.Permission.Edit">
+        <Value>Edit</Value>
+      </Entry>
+      <Entry key="FileVista.Permission.Upload">
+        <Value>Upload</Value>
+      </Entry>
+      <Entry key="FileVista.Permission.Download">
+        <Value>Download</Value>
+      </Entry>
+      <Entry key="FileVista.Permission.Compress">
+        <Value>Compress</Value>
+      </Entry>
+      <Entry key="FileVista.Permission.Extract">
+        <Value>Extract</Value>
+      </Entry>
+      <Entry key="FileVista.Permission.Cut">
+        <Value>Cut</Value>
+      </Entry>
+      <Entry key="FileVista.Permission.Copy">
+        <Value>Copy</Value>
+      </Entry>
+      <Entry key="FileVista.Permission.Paste">
+        <Value>Paste</Value>
+      </Entry>
+      <Entry key="FileVista.Permission.Preview">
+        <Value>Preview</Value>
+      </Entry>
+      <Entry key="FileVista.Permission.Print">
+        <Value>Print</Value>
+      </Entry>
+      <Entry key="FileVista.Permission.CreatePublicLink">
+        <Value>Create public link</Value>
+      </Entry>
+      <Entry key="588">
+        <Value>Do not limit disk usage</Value>
+      </Entry>
+      <Entry key="589">
+        <Value>Limit disk space to</Value>
+      </Entry>
+      <Entry key="590">
+        <Value>Please fill in 'Location' field!</Value>
+      </Entry>
+      <Entry key="591">
+        <Value>You can not create a Root Folder in Demo Mode!</Value>
+      </Entry>
+      <Entry key="Message.Error.FeatureTests">
+        <Value>You can not edit "Feature Tests" root folder in Demo Mode!</Value>
+      </Entry>
+      <Entry key="593">
+        <Value>User name:</Value>
+      </Entry>
+      <Entry key="594">
+        <Value>Full name:</Value>
+      </Entry>
+      <Entry key="595">
+        <Value>Email:</Value>
+      </Entry>
+      <Entry key="596">
+        <Value>Confirm Password:</Value>
+      </Entry>
+      <Entry key="597">
+        <Value>Password never expires</Value>
+      </Entry>
+      <Entry key="598">
+        <Value>User cannot change password</Value>
+      </Entry>
+      <Entry key="599">
+        <Value>User must change password at next login</Value>
+      </Entry>
+      <Entry key="600">
+        <Value>Account is disabled</Value>
+      </Entry>
+      <Entry key="601">
+        <Value>Account is locked out</Value>
+      </Entry>
+      <Entry key="602">
+        <Value>Change password</Value>
+      </Entry>
+      <Entry key="603">
+        <Value>Please fill in 'User name' field!</Value>
+      </Entry>
+      <Entry key="604">
+        <Value>Email is in wrong format!</Value>
+      </Entry>
+      <Entry key="605">
+        <Value>Passwords don't match!</Value>
+      </Entry>
+      <Entry key="606">
+        <Value>Please fill in 'Password' field!</Value>
+      </Entry>
+      <Entry key="607">
+        <Value>You can not update Administrator user in Demo Mode!</Value>
+      </Entry>
+      <Entry key="608">
+        <Value>License does not allow more users to be added!</Value>
+      </Entry>
+      <Entry key="609">
+        <Value>Licensed to:</Value>
+      </Entry>
+      <Entry key="610">
+        <Value>License type:</Value>
+      </Entry>
+      <Entry key="611">
+        <Value>Purchase date:</Value>
+      </Entry>
+      <Entry key="612">
+        <Value>Apply a new license key</Value>
+      </Entry>
+      <Entry key="613">
+        <Value>Would you like to upgrade your license?</Value>
+      </Entry>
+      <Entry key="614">
+        <Value>This license key is not valid!</Value>
+      </Entry>
+      <Entry key="615">
+        <Value>Events</Value>
+      </Entry>
+      <Entry key="616">
+        <Value>Type</Value>
+      </Entry>
+      <Entry key="617">
+        <Value>Date</Value>
+      </Entry>
+      <Entry key="618">
+        <Value>Time</Value>
+      </Entry>
+      <Entry key="619">
+        <Value>User</Value>
+      </Entry>
+      <Entry key="FileVista.Event.Login">
+        <Value>Login</Value>
+      </Entry>
+      <Entry key="FileVista.Event.Logout">
+        <Value>Logout</Value>
+      </Entry>
+      <Entry key="FileVista.Event.Failure">
+        <Value>Failure</Value>
+      </Entry>
+      <Entry key="FileVista.Event.Browse">
+        <Value>Browse</Value>
+      </Entry>
+      <Entry key="FileVista.Event.Create">
+        <Value>Create</Value>
+      </Entry>
+      <Entry key="FileVista.Event.Delete">
+        <Value>Delete</Value>
+      </Entry>
+      <Entry key="FileVista.Event.Rename">
+        <Value>Rename</Value>
+      </Entry>
+      <Entry key="FileVista.Event.Copy">
+        <Value>Copy</Value>
+      </Entry>
+      <Entry key="FileVista.Event.Move">
+        <Value>Move</Value>
+      </Entry>
+      <Entry key="FileVista.Event.Compress">
+        <Value>Compress</Value>
+      </Entry>
+      <Entry key="FileVista.Event.Extract">
+        <Value>Extract</Value>
+      </Entry>
+      <Entry key="FileVista.Event.Upload">
+        <Value>Upload</Value>
+      </Entry>
+      <Entry key="FileVista.Event.Download">
+        <Value>Download</Value>
+      </Entry>
+      <Entry key="FileVista.Event.Preview">
+        <Value>Preview</Value>
+      </Entry>
+      <Entry key="FileVista.Event.PublicLink">
+        <Value>Public Link</Value>
+      </Entry>
+      <Entry key="FileVista.EventSet.All">
+        <Value>All</Value>
+      </Entry>
+      <Entry key="633">
+        <Value>You cannot delete your own account!</Value>
+      </Entry>
+      <Entry key="634">
+        <Value>User is not deleted because of other memberships. Only membership of this group is removed.</Value>
+      </Entry>
+      <Entry key="635">
+        <Value>{0} events</Value>
+      </Entry>
+      <Entry key="636">
+        <Value>Application Settings</Value>
+      </Entry>
+      <Entry key="637">
+        <Value>Event types</Value>
+      </Entry>
+      <Entry key="639">
+        <Value>Log Events</Value>
+      </Entry>
+      <Entry key="640">
+        <Value>You can not save settings in Demo Mode!</Value>
+      </Entry>
+      <Entry key="641">
+        <Value>Log size</Value>
+      </Entry>
+      <Entry key="642">
+        <Value>Maximum log size:</Value>
+      </Entry>
+      <Entry key="643">
+        <Value>When maximum log size is reached:</Value>
+      </Entry>
+      <Entry key="644">
+        <Value>Delete events older than {0} days</Value>
+      </Entry>
+      <Entry key="645">
+        <Value>Filter</Value>
+      </Entry>
+      <Entry key="646">
+        <Value>Event Properties</Value>
+      </Entry>
+      <Entry key="647">
+        <Value>Date Range</Value>
+      </Entry>
+      <Entry key="648">
+        <Value>Clear Log</Value>
+      </Entry>
+      <Entry key="649">
+        <Value>Are you sure you want to clear event log?</Value>
+      </Entry>
+      <Entry key="FileVista.Action.UserSettings">
+        <Value>User Settings</Value>
+      </Entry>
+      <Entry key="652">
+        <Value>Remember me</Value>
+      </Entry>
+      <Entry key="653">
+        <Value>User is locked out for too many invalid login attempts!</Value>
+      </Entry>
+      <Entry key="654">
+        <Value>Passwords will expire after {0} days</Value>
+      </Entry>
+      <Entry key="655">
+        <Value>Users will be locked out after {0} invalid login attempts</Value>
+      </Entry>
+      <Entry key="656">
+        <Value>Access Control for</Value>
+      </Entry>
+      <Entry key="657">
+        <Value>Inherit from parent</Value>
+      </Entry>
+      <Entry key="658">
+        <Value>File types</Value>
+      </Entry>
+      <Entry key="659">
+        <Value>Do not restrict file types</Value>
+      </Entry>
+      <Entry key="660">
+        <Value>Restrict file types</Value>
+      </Entry>
+      <Entry key="661">
+        <Value>Administrators group should contain at least one administrator!</Value>
+      </Entry>
+      <Entry key="662">
+        <Value>Administrators group can not be deleted!</Value>
+      </Entry>
+      <Entry key="663">
+        <Value>Cannot rename a user which is member of the Administrators group!</Value>
+      </Entry>
+      <Entry key="664">
+        <Value>Language</Value>
+      </Entry>
+      <Entry key="665">
+        <Value>Notifications</Value>
+      </Entry>
+      <Entry key="666">
+        <Value>{0} Event Notification - {1}</Value>
+      </Entry>
+      <Entry key="667">
+        <Value>An event has occured in a folder that you ({0}) were set to receive notifications from. The event details are listed below.</Value>
+      </Entry>
+      <Entry key="668">
+        <Value>Upload methods</Value>
+      </Entry>
+      <Entry key="669">
+        <Value>Show file extensions</Value>
+      </Entry>
+      <Entry key="670">
+        <Value>Show system type descriptions</Value>
+      </Entry>
+      <Entry key="671">
+        <Value>Show hidden files and folders</Value>
+      </Entry>
+      <Entry key="672">
+        <Value>Show system files and folders</Value>
+      </Entry>
+      <Entry key="673">
+        <Value>Disable folder expandable check</Value>
+      </Entry>
+      <Entry key="674">
+        <Value>Maximum allowed size to compress (per action)</Value>
+      </Entry>
+      <Entry key="675">
+        <Value>Temporary files location</Value>
+      </Entry>
+      <Entry key="676">
+        <Value>General</Value>
+      </Entry>
+      <Entry key="677">
+        <Value>Folder Browsing</Value>
+      </Entry>
+      <Entry key="678">
+        <Value>Logging</Value>
+      </Entry>
+      <Entry key="679">
+        <Value>Email</Value>
+      </Entry>
+      <Entry key="680">
+        <Value>The temporary files location does not exist or does not have write permission!</Value>
+      </Entry>
+      <Entry key="681">
+        <Value>Send email notifications</Value>
+      </Entry>
+      <Entry key="682">
+        <Value>From email address</Value>
+      </Entry>
+      <Entry key="FileVista.Label.SmtpHost">
+        <Value>SMTP host</Value>
+      </Entry>
+      <Entry key="FileVista.Label.SmtpPort">
+        <Value>SMTP port</Value>
+      </Entry>
+      <Entry key="FileVista.Label.SmtpAuthentication">
+        <Value>SMTP authentication</Value>
+      </Entry>
+      <Entry key="686">
+        <Value>Anonymous</Value>
+      </Entry>
+      <Entry key="687">
+        <Value>Use Windows credentials</Value>
+      </Entry>
+      <Entry key="688">
+        <Value>Use below credentials</Value>
+      </Entry>
+      <Entry key="689">
+        <Value>Use SSL</Value>
+      </Entry>
+      <Entry key="FileVista.Action.TestEmail">
+        <Value>Test Email</Value>
+      </Entry>
+      <Entry key="692">
+        <Value>Open linked file in the browser</Value>
+      </Entry>
+      <Entry key="693">
+        <Value>Link expires in {0} days</Value>
+      </Entry>
+      <Entry key="694">
+        <Value>Link can be opened only {0} times</Value>
+      </Entry>
+      <Entry key="695">
+        <Value>Protect link with password</Value>
+      </Entry>
+      <Entry key="696">
+        <Value>Use custom name in link</Value>
+      </Entry>
+      <Entry key="697">
+        <Value>Advanced</Value>
+      </Entry>
+      <Entry key="FileVista.Label.Create">
+        <Value>Create</Value>
+      </Entry>
+      <Entry key="FileVista.Label.Update">
+        <Value>Update</Value>
+      </Entry>
+      <Entry key="700">
+        <Value>Test</Value>
+      </Entry>
+      <Entry key="701">
+        <Value>Email</Value>
+      </Entry>
+      <Entry key="703">
+        <Value>Please contact the link owner for more information.</Value>
+      </Entry>
+      <Entry key="704">
+        <Value>Link not found</Value>
+      </Entry>
+      <Entry key="705">
+        <Value>The link you requested cannot be found or no longer exists. The link owner may have deleted the link.</Value>
+      </Entry>
+      <Entry key="706">
+        <Value>Resource not found</Value>
+      </Entry>
+      <Entry key="707">
+        <Value>The resource that was linked to, cannot be found or no longer exists. The link owner may have deleted or moved the target resource.</Value>
+      </Entry>
+      <Entry key="708">
+        <Value>Link has expired</Value>
+      </Entry>
+      <Entry key="709">
+        <Value>The link you requested has expired due to the expiration time limit set by the link owner.</Value>
+      </Entry>
+      <Entry key="710">
+        <Value>Link limit has been reached</Value>
+      </Entry>
+      <Entry key="711">
+        <Value>The link you requested has reached the maximum opening limit set by the link owner.</Value>
+      </Entry>
+      <Entry key="712">
+        <Value>Link is disabled</Value>
+      </Entry>
+      <Entry key="713">
+        <Value>The link you requested is disabled by the link owner.</Value>
+      </Entry>
+      <Entry key="714">
+        <Value>Password required</Value>
+      </Entry>
+      <Entry key="715">
+        <Value>The link you requested is protected with a password set by the link owner.</Value>
+      </Entry>
+      <Entry key="716">
+        <Value>Please enter the password you were supplied by the link owner.</Value>
+      </Entry>
+      <Entry key="717">
+        <Value>Invalid password!</Value>
+      </Entry>
+      <Entry key="718">
+        <Value>Anonymous User</Value>
+      </Entry>
+      <Entry key="720">
+        <Value>Trial license mode (5 users) - {0} days left</Value>
+      </Entry>
+      <Entry key="721">
+        <Value>Purchased license mode</Value>
+      </Entry>
+      <Entry key="722">
+        <Value>Purchase new license</Value>
+      </Entry>
+      <Entry key="723">
+        <Value>Upgrade existing license</Value>
+      </Entry>
+      <Entry key="724">
+        <Value>Override base url</Value>
+      </Entry>
+      <Entry key="725">
+        <Value>Limit the number of members to</Value>
+      </Entry>
+      <Entry key="726">
+        <Value>Group settings does not allow more users to be added!</Value>
+      </Entry>
+      <Entry key="FileVista.Label.LoggedInAs">
+        <Value>Logged in as {0}</Value>
+      </Entry>
+      <Entry key="FileVista.Label.SectionUnavailable">
+        <Value>This section is unavailable.</Value>
+      </Entry>
+      <Entry key="FileVista.Label.SectionEmpty">
+        <Value>This section is empty.</Value>
+      </Entry>
+      <Entry key="FileVista.Action.Connect">
+        <Value>Connect</Value>
+      </Entry>
+      <Entry key="FileVista.Label.Filtered">
+        <Value>Filtered</Value>
+      </Entry>
+      <Entry key="FileVista.Label.Allow">
+        <Value>Allow</Value>
+      </Entry>
+      <Entry key="FileVista.Label.Deny">
+        <Value>Deny</Value>
+      </Entry>
+      <Entry key="FileVista.Label.Notify">
+        <Value>Notify</Value>
+      </Entry>
+      <Entry key="FileVista.Label.DoNotNotify">
+        <Value>Do not notify</Value>
+      </Entry>
+      <Entry key="FileVista.PermissionSet.Full">
+        <Value>Full</Value>
+      </Entry>
+      <Entry key="FileVista.PermissionSet.Read">
+        <Value>Read</Value>
+      </Entry>
+      <Entry key="FileVista.NotificationSet.OnAll">
+        <Value>On all</Value>
+      </Entry>
+      <Entry key="FileVista.Notification.OnFailure">
+        <Value>On failure</Value>
+      </Entry>
+      <Entry key="FileVista.Notification.OnBrowse">
+        <Value>On browse</Value>
+      </Entry>
+      <Entry key="FileVista.Notification.OnCreate">
+        <Value>On create</Value>
+      </Entry>
+      <Entry key="FileVista.Notification.OnDelete">
+        <Value>On delete</Value>
+      </Entry>
+      <Entry key="FileVista.Notification.OnRename">
+        <Value>On rename</Value>
+      </Entry>
+      <Entry key="FileVista.Notification.OnCopy">
+        <Value>On copy</Value>
+      </Entry>
+      <Entry key="FileVista.Notification.OnMove">
+        <Value>On move</Value>
+      </Entry>
+      <Entry key="FileVista.Notification.OnCompress">
+        <Value>On compress</Value>
+      </Entry>
+      <Entry key="FileVista.Notification.OnExtract">
+        <Value>On extract</Value>
+      </Entry>
+      <Entry key="FileVista.Notification.OnUpload">
+        <Value>On upload</Value>
+      </Entry>
+      <Entry key="FileVista.Notification.OnDownload">
+        <Value>On download</Value>
+      </Entry>
+      <Entry key="FileVista.Notification.OnPreview">
+        <Value>On preview</Value>
+      </Entry>
+      <Entry key="FileVista.Prompt.AddFileType">
+        <Value>Enter a file type pattern:</Value>
+      </Entry>
+      <Entry key="FileVista.Error.InvalidFileType">
+        <Value>A file type pattern can not contain any of the following characters:</Value>
+      </Entry>
+      <Entry key="FileVista.Prompt.RemoveInheritance">
+        <Value>
+      If you proceed, inheritable parent entries will no longer propagate to this folder.
+
+      - Click Add to convert and add inherited parent entries as explicit entries on this folder.
+
+      - Click Remove to remove inherited parent entries from this folder.
+
+      - Click Cancel if you do not want to modify inheritance settings at this time.
+    </Value>
+      </Entry>
+      <Entry key="FileVista.Label.IncludePathInLink">
+        <Value>Include path in link:</Value>
+      </Entry>
+      <Entry key="FileVista.Label.NameInLink">
+        <Value>Name in link:</Value>
+      </Entry>
+      <Entry key="FileVista.Label.Delete">
+        <Value>Delete</Value>
+      </Entry>
+      <Entry key="FileVista.Label.PublicLink">
+        <Value>Public Link</Value>
+      </Entry>
+      <Entry key="FileVista.Label.PublicLinks">
+        <Value>Public Links</Value>
+      </Entry>
+      <Entry key="FileVista.Label.LinkedItem">
+        <Value>Linked Item</Value>
+      </Entry>
+      <Entry key="FileVista.Label.HitCount">
+        <Value>Hit Count</Value>
+      </Entry>
+      <Entry key="FileVista.Label.LastHitTime">
+        <Value>Last Hit Time</Value>
+      </Entry>
+      <Entry key="FileVista.Label.Expiration">
+        <Value>Expiration</Value>
+      </Entry>
+      <Entry key="FileVista.Label.HitLimit">
+        <Value>Hit Limit</Value>
+      </Entry>
+      <Entry key="FileVista.Label.CreatedBy">
+        <Value>Created By</Value>
+      </Entry>
+      <Entry key="FileVista.Label.PublicLinksCount">
+        <Value>{0} public links</Value>
+      </Entry>
+      <Entry key="FileVista.Label.Expired">
+        <Value>Expired</Value>
+      </Entry>
+      <Entry key="FileVista.Label.NotExpired">
+        <Value>Not Expired</Value>
+      </Entry>
+      <Entry key="FileVista.Label.Reached">
+        <Value>Reached</Value>
+      </Entry>
+      <Entry key="FileVista.Label.NotReached">
+        <Value>Not Reached</Value>
+      </Entry>
+      <Entry key="FileVista.Label.Close">
+        <Value>Close</Value>
+      </Entry>
+      <Entry key="Label.Share.Verb">
+        <Value>Share</Value>
+      </Entry>
+      <Entry key="Label.CreatePublicLink">
+        <Value>Create public link...</Value>
+      </Entry>
+      <Entry key="Label.ManagePublicLinks">
+        <Value>Manage public links...</Value>
+      </Entry>
+      <Entry key="Label.PublicLinksFor">
+        <Value>Public links for {0}</Value>
+      </Entry>
+      <Entry key="Label.NewPublicLink">
+        <Value>New Public Link</Value>
+      </Entry>
+      <Entry key="Label.EditPublicLink">
+        <Value>Edit Public Link</Value>
+      </Entry>
+      <Entry key="FileVista.Label.EmailDeliveryMethod">
+        <Value>Email delivery method</Value>
+      </Entry>
+      <Entry key="FileVista.Label.SmtpServer">
+        <Value>SMTP server</Value>
+      </Entry>
+      <Entry key="FileVista.Label.SpecifiedPickupDirectory">
+        <Value>Specified pickup directory</Value>
+      </Entry>
+      <Entry key="FileVista.Label.PickupDirectoryFromIis">
+        <Value>Pickup directory from IIS</Value>
+      </Entry>
+      <Entry key="FileVista.Label.PickupDirectoryLocation">
+        <Value>Pickup directory location</Value>
+      </Entry>
+      <Entry key="FileVista.Action.Up">
+        <Value>Up</Value>
+      </Entry>
+      <Entry key="FileVista.Action.Down">
+        <Value>Down</Value>
+      </Entry>
+      <Entry key="Label.ViewLayout">
+        <Value>View layout</Value>
+      </Entry>
+      <Entry key="Label.DownloadWithChunkedTransferThreshold">
+        <Value>Download with chunked transfer threshold (eg. 2GB for Microsoft Forefront UAG)</Value>
+      </Entry>
+      <Entry key="Label.ImportUsers">
+        <Value>Import Users</Value>
+      </Entry>
+      <Entry key="Label.DownloadOnDoubleClick">
+        <Value>Download on double-click</Value>
+      </Entry>
+      <Entry key="Label.ExcludedExtensionsForPreview">
+        <Value>Excluded extensions for preview (comma separated)</Value>
+      </Entry>
+      <Entry key="Label.MaximumPublicLinkAge">
+        <Value>Maximum public link age</Value>
+      </Entry>
+      <Entry key="Label.MaximumPublicLinkHits">
+        <Value>Maximum public link hits</Value>
+      </Entry>
+      <Entry key="Label.Days">
+        <Value>{0} days</Value>
+      </Entry>
+      <Entry key="Message.LinkHasExpiredPolicy">
+        <Value>The link you requested has expired due to the maximum age policy set by the administrator.</Value>
+      </Entry>
+      <Entry key="Message.LinkLimitReachedPolicy">
+        <Value>The link you requested has reached the maximum hits policy set by the the administrator.</Value>
+      </Entry>
+      <Entry key="Message.ContactAdministrator">
+        <Value>Please contact the administrator for more information.</Value>
+      </Entry>
+      <Entry key="Label.About">
+        <Value>About FileVista</Value>
+      </Entry>
+    </EntryGroup>
+  </Body>
+</Language>

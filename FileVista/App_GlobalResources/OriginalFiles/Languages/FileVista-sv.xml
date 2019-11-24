@@ -1,0 +1,922 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<Language version="2.0">
+  <Head>
+    <FirstAuthor>
+      <Name></Name>
+      <Email></Email>
+    </FirstAuthor>
+    <LastTranslator>
+      <Name></Name>
+      <Email></Email>
+    </LastTranslator>
+    <CreationDate></CreationDate>
+    <RevisionDate>2019-07-10 10:21:11Z</RevisionDate>
+  </Head>
+  <Body>
+    <EntryGroup key="">
+      <Entry key="500">
+        <Value>Ange användarnamn och lösenord:</Value>
+      </Entry>
+      <Entry key="501">
+        <Value></Value>
+      </Entry>
+      <Entry key="502">
+        <Value>Användarnamn:</Value>
+      </Entry>
+      <Entry key="503">
+        <Value>Lösenord:</Value>
+      </Entry>
+      <Entry key="504">
+        <Value>Logga in</Value>
+      </Entry>
+      <Entry key="505">
+        <Value>Inloggning misslyckades:</Value>
+      </Entry>
+      <Entry key="Label.DisplayLanguage">
+        <Value>{NotTranslated}</Value>
+      </Entry>
+      <Entry key="Label.FormatLanguage">
+        <Value>{NotTranslated}</Value>
+      </Entry>
+      <Entry key="506">
+        <Value>Användare</Value>
+      </Entry>
+      <Entry key="507">
+        <Value>Grupper</Value>
+      </Entry>
+      <Entry key="508">
+        <Value>Rotkataloger</Value>
+      </Entry>
+      <Entry key="509">
+        <Value>Namn</Value>
+      </Entry>
+      <Entry key="510">
+        <Value>Fullständigt namn</Value>
+      </Entry>
+      <Entry key="511">
+        <Value>Antal inloggningar</Value>
+      </Entry>
+      <Entry key="512">
+        <Value>Senaste inloggning</Value>
+      </Entry>
+      <Entry key="513">
+        <Value>Skapad</Value>
+      </Entry>
+      <Entry key="514">
+        <Value>Ändrad</Value>
+      </Entry>
+      <Entry key="515">
+        <Value>Medlemmar</Value>
+      </Entry>
+      <Entry key="516">
+        <Value>Sökväg</Value>
+      </Entry>
+      <Entry key="517">
+        <Value>Kan inte ta bort en användare som är medlem i gruppen Administrators!</Value>
+      </Entry>
+      <Entry key="518">
+        <Value>Du kan inte ta bort en rotkatalog i demoläge!</Value>
+      </Entry>
+      <Entry key="519">
+        <Value>Du kan inte ändra namnet på administrator i demoläge!</Value>
+      </Entry>
+      <Entry key="520">
+        <Value>En användare eller grupp finns redan med det här namnet!</Value>
+      </Entry>
+      <Entry key="521">
+        <Value>Du kan inte ändra namn på en rotkatalog i demoläge!</Value>
+      </Entry>
+      <Entry key="522">
+        <Value>En rotkatalog finns redan med det här namnet!</Value>
+      </Entry>
+      <Entry key="523">
+        <Value>Ogiltigt användarnamn eller lösenord!</Value>
+      </Entry>
+      <Entry key="525">
+        <Value>Vänligen kontakta administratören.</Value>
+      </Entry>
+      <Entry key="526">
+        <Value>Denna användaren är inaktiverad!</Value>
+      </Entry>
+      <Entry key="527">
+        <Value>{0} användare</Value>
+      </Entry>
+      <Entry key="528">
+        <Value>{0} grupper</Value>
+      </Entry>
+      <Entry key="529">
+        <Value>{0} rotkataloger</Value>
+      </Entry>
+      <Entry key="530">
+        <Value>Återgå till filhanteraren</Value>
+      </Entry>
+      <Entry key="531">
+        <Value>Licensinformation</Value>
+      </Entry>
+      <Entry key="FileVista.Action.Logout">
+        <Value>Logga ut</Value>
+      </Entry>
+      <Entry key="533">
+        <Value>Ny användare</Value>
+      </Entry>
+      <Entry key="534">
+        <Value>Uppdatera</Value>
+      </Entry>
+      <Entry key="535">
+        <Value>Markera alla</Value>
+      </Entry>
+      <Entry key="536">
+        <Value>Omvänd markering</Value>
+      </Entry>
+      <Entry key="537">
+        <Value>Ta bort</Value>
+      </Entry>
+      <Entry key="538">
+        <Value>Byt namn</Value>
+      </Entry>
+      <Entry key="539">
+        <Value>Egenskaper</Value>
+      </Entry>
+      <Entry key="540">
+        <Value>Ny grupp</Value>
+      </Entry>
+      <Entry key="541">
+        <Value>Ny rotkatalog</Value>
+      </Entry>
+      <Entry key="542">
+        <Value>Uppgifter</Value>
+      </Entry>
+      <Entry key="543">
+        <Value>Ett problem uppstod när XML data hämtades:</Value>
+      </Entry>
+      <Entry key="544">
+        <Value>Ett fel uppstod:</Value>
+      </Entry>
+      <Entry key="545">
+        <Value>Redigera användare</Value>
+      </Entry>
+      <Entry key="546">
+        <Value>Redigera grupp</Value>
+      </Entry>
+      <Entry key="547">
+        <Value>Redigera rotkatalog</Value>
+      </Entry>
+      <Entry key="548">
+        <Value>Är du säker på att du vill ta bort '{0}'?</Value>
+      </Entry>
+      <Entry key="549">
+        <Value>Ange ett nytt namn:</Value>
+      </Entry>
+      <Entry key="FileVista.Action.Administration">
+        <Value>Administration</Value>
+      </Entry>
+      <Entry key="551">
+        <Value>OK</Value>
+      </Entry>
+      <Entry key="552">
+        <Value>Avbryt</Value>
+      </Entry>
+      <Entry key="553">
+        <Value>Prompt</Value>
+      </Entry>
+      <Entry key="554">
+        <Value>Sessionstiden har gått ut, vänligen logga in igen.</Value>
+      </Entry>
+      <Entry key="555">
+        <Value>Tillgång till sidan saknas!</Value>
+      </Entry>
+      <Entry key="556">
+        <Value>Namn:</Value>
+      </Entry>
+      <Entry key="557">
+        <Value>Beksrivning</Value>
+      </Entry>
+      <Entry key="558">
+        <Value>Medlemmar:</Value>
+      </Entry>
+      <Entry key="559">
+        <Value>Rättigheter</Value>
+      </Entry>
+      <Entry key="560">
+        <Value>Markera användare</Value>
+      </Entry>
+      <Entry key="561">
+        <Value>Sökkriterier:</Value>
+      </Entry>
+      <Entry key="562">
+        <Value>Sökresultat:</Value>
+      </Entry>
+      <Entry key="563">
+        <Value>Lägg till</Value>
+      </Entry>
+      <Entry key="564">
+        <Value>Ta bort</Value>
+      </Entry>
+      <Entry key="565">
+        <Value>Markera</Value>
+      </Entry>
+      <Entry key="566">
+        <Value>Sök</Value>
+      </Entry>
+      <Entry key="567">
+        <Value>Administratör för gruppen</Value>
+      </Entry>
+      <Entry key="568">
+        <Value>Fyll i 'Namn'</Value>
+      </Entry>
+      <Entry key="569">
+        <Value>Sökväg:</Value>
+      </Entry>
+      <Entry key="570">
+        <Value>Grupper eller användare:</Value>
+      </Entry>
+      <Entry key="571">
+        <Value>Kvot</Value>
+      </Entry>
+      <Entry key="572">
+        <Value>Välj grupper eller användare</Value>
+      </Entry>
+      <Entry key="573">
+        <Value>Sök efter:</Value>
+      </Entry>
+      <Entry key="574">
+        <Value>Alla</Value>
+      </Entry>
+      <Entry key="FileVista.Permission.ListSubfolders">
+        <Value>Visa undermappar</Value>
+      </Entry>
+      <Entry key="FileVista.Permission.ListFiles">
+        <Value>Visa filer</Value>
+      </Entry>
+      <Entry key="FileVista.Permission.Create">
+        <Value>Skapa</Value>
+      </Entry>
+      <Entry key="FileVista.Permission.Delete">
+        <Value>Ta bort</Value>
+      </Entry>
+      <Entry key="FileVista.Permission.Rename">
+        <Value>Byt namn</Value>
+      </Entry>
+      <Entry key="FileVista.Permission.Edit">
+        <Value>Redigera</Value>
+      </Entry>
+      <Entry key="FileVista.Permission.Upload">
+        <Value>Ladda upp</Value>
+      </Entry>
+      <Entry key="FileVista.Permission.Download">
+        <Value>Ladda ner</Value>
+      </Entry>
+      <Entry key="FileVista.Permission.Compress">
+        <Value>Komprimera</Value>
+      </Entry>
+      <Entry key="FileVista.Permission.Extract">
+        <Value>Packa upp</Value>
+      </Entry>
+      <Entry key="FileVista.Permission.Cut">
+        <Value>Klipp ut</Value>
+      </Entry>
+      <Entry key="FileVista.Permission.Copy">
+        <Value>Kopiera</Value>
+      </Entry>
+      <Entry key="FileVista.Permission.Paste">
+        <Value>Klistra in</Value>
+      </Entry>
+      <Entry key="FileVista.Permission.Preview">
+        <Value>{NotTranslated}</Value>
+      </Entry>
+      <Entry key="FileVista.Permission.Print">
+        <Value>{NotTranslated}</Value>
+      </Entry>
+      <Entry key="FileVista.Permission.CreatePublicLink">
+        <Value>Skapa publik länk</Value>
+      </Entry>
+      <Entry key="588">
+        <Value>Begränsa inte diskutrymme</Value>
+      </Entry>
+      <Entry key="589">
+        <Value>Begränsa diskutrymme till</Value>
+      </Entry>
+      <Entry key="590">
+        <Value>Fyll i 'Plats'</Value>
+      </Entry>
+      <Entry key="591">
+        <Value>Du kan inte skapa en rotkatalog i demoläge!</Value>
+      </Entry>
+      <Entry key="Message.Error.FeatureTests">
+        <Value>{NotTranslated}</Value>
+      </Entry>
+      <Entry key="593">
+        <Value>Användarnamn:</Value>
+      </Entry>
+      <Entry key="594">
+        <Value>Fullständigt namn:</Value>
+      </Entry>
+      <Entry key="595">
+        <Value>E-post:</Value>
+      </Entry>
+      <Entry key="596">
+        <Value>Bekräfta lösenord:</Value>
+      </Entry>
+      <Entry key="597">
+        <Value>Lösenordet upphör aldrig att gälla</Value>
+      </Entry>
+      <Entry key="598">
+        <Value>Användaren kan inte byta lösenord</Value>
+      </Entry>
+      <Entry key="599">
+        <Value>Användaren måste byta lösenord vid nästa inloggning</Value>
+      </Entry>
+      <Entry key="600">
+        <Value>Kontot är inaktiverat</Value>
+      </Entry>
+      <Entry key="601">
+        <Value>Kontot är låst</Value>
+      </Entry>
+      <Entry key="602">
+        <Value>Byt lösenord</Value>
+      </Entry>
+      <Entry key="603">
+        <Value>Fyll i 'Användarnamn'</Value>
+      </Entry>
+      <Entry key="604">
+        <Value>E-post är angivet i fel format!</Value>
+      </Entry>
+      <Entry key="605">
+        <Value>Lösenorden stämmer inte överens med varandra!</Value>
+      </Entry>
+      <Entry key="606">
+        <Value>Fyll i 'Lösenord'</Value>
+      </Entry>
+      <Entry key="607">
+        <Value>Du kan inte uppdatera användaren Administrator i demoläge!</Value>
+      </Entry>
+      <Entry key="608">
+        <Value>Licensen tillåter inte att fler användare läggs till!</Value>
+      </Entry>
+      <Entry key="609">
+        <Value>Licensierad till:</Value>
+      </Entry>
+      <Entry key="610">
+        <Value>Licenstyp:</Value>
+      </Entry>
+      <Entry key="611">
+        <Value>Giltig fr.o.m:</Value>
+      </Entry>
+      <Entry key="612">
+        <Value>Lägg till ny licensnyckel</Value>
+      </Entry>
+      <Entry key="613">
+        <Value>Vill du uppgradera din nuvarande licens?</Value>
+      </Entry>
+      <Entry key="614">
+        <Value>Denna licensnyckel är inte giltig!</Value>
+      </Entry>
+      <Entry key="615">
+        <Value>Händelser</Value>
+      </Entry>
+      <Entry key="616">
+        <Value>Typ</Value>
+      </Entry>
+      <Entry key="617">
+        <Value>Datum</Value>
+      </Entry>
+      <Entry key="618">
+        <Value>Tid</Value>
+      </Entry>
+      <Entry key="619">
+        <Value>Användare</Value>
+      </Entry>
+      <Entry key="FileVista.Event.Login">
+        <Value>Inloggning</Value>
+      </Entry>
+      <Entry key="FileVista.Event.Logout">
+        <Value>Utloggning</Value>
+      </Entry>
+      <Entry key="FileVista.Event.Failure">
+        <Value>Fel</Value>
+      </Entry>
+      <Entry key="FileVista.Event.Browse">
+        <Value>Utforska</Value>
+      </Entry>
+      <Entry key="FileVista.Event.Create">
+        <Value>Skapa</Value>
+      </Entry>
+      <Entry key="FileVista.Event.Delete">
+        <Value>Ta bort</Value>
+      </Entry>
+      <Entry key="FileVista.Event.Rename">
+        <Value>Byt namn</Value>
+      </Entry>
+      <Entry key="FileVista.Event.Copy">
+        <Value>Kopiera</Value>
+      </Entry>
+      <Entry key="FileVista.Event.Move">
+        <Value>Flytta</Value>
+      </Entry>
+      <Entry key="FileVista.Event.Compress">
+        <Value>Komprimera</Value>
+      </Entry>
+      <Entry key="FileVista.Event.Extract">
+        <Value>Packa upp</Value>
+      </Entry>
+      <Entry key="FileVista.Event.Upload">
+        <Value>Ladda upp</Value>
+      </Entry>
+      <Entry key="FileVista.Event.Download">
+        <Value>Ladda ner</Value>
+      </Entry>
+      <Entry key="FileVista.Event.Preview">
+        <Value>{NotTranslated}</Value>
+      </Entry>
+      <Entry key="FileVista.Event.PublicLink">
+        <Value>Publik länk</Value>
+      </Entry>
+      <Entry key="FileVista.EventSet.All">
+        <Value>Alla</Value>
+      </Entry>
+      <Entry key="633">
+        <Value>Du kan inte ta bort ditt eget konto!</Value>
+      </Entry>
+      <Entry key="634">
+        <Value>Användaren raderades inte pga. medlemskap i andra grupper. Endast gruppmedlemsskap borttaget.</Value>
+      </Entry>
+      <Entry key="635">
+        <Value>{0} händelser</Value>
+      </Entry>
+      <Entry key="636">
+        <Value>Inställningar</Value>
+      </Entry>
+      <Entry key="637">
+        <Value>Typer av händelser</Value>
+      </Entry>
+      <Entry key="639">
+        <Value>Händelser</Value>
+      </Entry>
+      <Entry key="640">
+        <Value>Du kan inte spara inställningar i demoläge!</Value>
+      </Entry>
+      <Entry key="641">
+        <Value>Loggens storlek</Value>
+      </Entry>
+      <Entry key="642">
+        <Value>Maximal storlek på logg:</Value>
+      </Entry>
+      <Entry key="643">
+        <Value>När maximal storlek på loggen nås:</Value>
+      </Entry>
+      <Entry key="644">
+        <Value>Radera händelser som är äldre än {0} dagar</Value>
+      </Entry>
+      <Entry key="645">
+        <Value>Filter</Value>
+      </Entry>
+      <Entry key="646">
+        <Value>Egenskaper för händelser</Value>
+      </Entry>
+      <Entry key="647">
+        <Value>Datumintervall</Value>
+      </Entry>
+      <Entry key="648">
+        <Value>Rensa logg</Value>
+      </Entry>
+      <Entry key="649">
+        <Value>Är du säker på att du vill tömma händelseloggen?</Value>
+      </Entry>
+      <Entry key="FileVista.Action.UserSettings">
+        <Value>Användarinställningar</Value>
+      </Entry>
+      <Entry key="652">
+        <Value>Kom ihåg</Value>
+      </Entry>
+      <Entry key="653">
+        <Value>Användaren är låst på grund av för många misslyckade inloggningsförsök!</Value>
+      </Entry>
+      <Entry key="654">
+        <Value>Lösenord kommer att sluta gälla efter {0} dagar</Value>
+      </Entry>
+      <Entry key="655">
+        <Value>Användarkonto blir låst efter {0} misslyckade inloggningsförsök</Value>
+      </Entry>
+      <Entry key="656">
+        <Value>Åtkomst</Value>
+      </Entry>
+      <Entry key="657">
+        <Value>Ärv rättigheter från mappen ovan</Value>
+      </Entry>
+      <Entry key="658">
+        <Value>Filtyper</Value>
+      </Entry>
+      <Entry key="659">
+        <Value>Begränsa inga filtyper</Value>
+      </Entry>
+      <Entry key="660">
+        <Value>Begränsa filtyper</Value>
+      </Entry>
+      <Entry key="661">
+        <Value>Gruppen Administrators måste innehålla minst en administratör!</Value>
+      </Entry>
+      <Entry key="662">
+        <Value>Gruppen Administrators kan inte raderas!</Value>
+      </Entry>
+      <Entry key="663">
+        <Value>Kan inte ändra namn på en medlem i gruppen Administrators!</Value>
+      </Entry>
+      <Entry key="664">
+        <Value>Språk</Value>
+      </Entry>
+      <Entry key="665">
+        <Value>Meddelanden</Value>
+      </Entry>
+      <Entry key="666">
+        <Value>{0} Event Notification - {1}</Value>
+      </Entry>
+      <Entry key="667">
+        <Value>An event has occured in a folder that you ({0}) were set to receive notifications from. The event details are listed below.</Value>
+      </Entry>
+      <Entry key="668">
+        <Value>Protokoll för uppladning</Value>
+      </Entry>
+      <Entry key="669">
+        <Value>Visa filändelser</Value>
+      </Entry>
+      <Entry key="670">
+        <Value>Visa systemtyp</Value>
+      </Entry>
+      <Entry key="671">
+        <Value>Visa dolda filer och mappar</Value>
+      </Entry>
+      <Entry key="672">
+        <Value>Visa dolda systemfiler och mappar</Value>
+      </Entry>
+      <Entry key="673">
+        <Value>Disable folder expandable check</Value>
+      </Entry>
+      <Entry key="674">
+        <Value>Maximal storlek för zip-filer</Value>
+      </Entry>
+      <Entry key="675">
+        <Value>Sökväg för temporära filer</Value>
+      </Entry>
+      <Entry key="676">
+        <Value>Allmän</Value>
+      </Entry>
+      <Entry key="677">
+        <Value>Filhanterare</Value>
+      </Entry>
+      <Entry key="678">
+        <Value>Loggbok</Value>
+      </Entry>
+      <Entry key="679">
+        <Value>E-post</Value>
+      </Entry>
+      <Entry key="680">
+        <Value>Sökvägen för temporära filer existerar inte eller saknar skrivrättigheter!</Value>
+      </Entry>
+      <Entry key="681">
+        <Value>Skicka e-post meddelanden</Value>
+      </Entry>
+      <Entry key="682">
+        <Value>Från mailadress</Value>
+      </Entry>
+      <Entry key="FileVista.Label.SmtpHost">
+        <Value>SMTP värd</Value>
+      </Entry>
+      <Entry key="FileVista.Label.SmtpPort">
+        <Value>SMTP port</Value>
+      </Entry>
+      <Entry key="FileVista.Label.SmtpAuthentication">
+        <Value>SMTP autensiering</Value>
+      </Entry>
+      <Entry key="686">
+        <Value>Anonym</Value>
+      </Entry>
+      <Entry key="687">
+        <Value>Använd Windows autentiseringsuppgifter</Value>
+      </Entry>
+      <Entry key="688">
+        <Value>Använd följande autentiseringsuppgifter</Value>
+      </Entry>
+      <Entry key="689">
+        <Value>Använd SSL</Value>
+      </Entry>
+      <Entry key="FileVista.Action.TestEmail">
+        <Value>Prova inst.</Value>
+      </Entry>
+      <Entry key="692">
+        <Value>Öppna länkad fil i webbläsaren</Value>
+      </Entry>
+      <Entry key="693">
+        <Value>Länken upphör om {0} dagar</Value>
+      </Entry>
+      <Entry key="694">
+        <Value>Länken kan endast öppnas {0} gånger</Value>
+      </Entry>
+      <Entry key="695">
+        <Value>Skydda länk med lösenord</Value>
+      </Entry>
+      <Entry key="696">
+        <Value>Avvänd anpassat namn i länken.</Value>
+      </Entry>
+      <Entry key="697">
+        <Value>Avancerad</Value>
+      </Entry>
+      <Entry key="FileVista.Label.Create">
+        <Value>Skapa</Value>
+      </Entry>
+      <Entry key="FileVista.Label.Update">
+        <Value>Uppdatera</Value>
+      </Entry>
+      <Entry key="700">
+        <Value>Prova länk</Value>
+      </Entry>
+      <Entry key="701">
+        <Value>Via e-post</Value>
+      </Entry>
+      <Entry key="703">
+        <Value>Vänligen kontakta ägaren av länken för mer information.</Value>
+      </Entry>
+      <Entry key="704">
+        <Value>Länken hittades inte</Value>
+      </Entry>
+      <Entry key="705">
+        <Value>Länken du begärde hittades inte eller är inte längre tillgänglig. Ägaren av länken kan ha raderat den.</Value>
+      </Entry>
+      <Entry key="706">
+        <Value>Källa hittades inte</Value>
+      </Entry>
+      <Entry key="707">
+        <Value>The resource that was linked to, cannot be found or no longer exists. The link owner may have deleted or moved the target resource.</Value>
+      </Entry>
+      <Entry key="708">
+        <Value>Länken är inte längre giltig</Value>
+      </Entry>
+      <Entry key="709">
+        <Value>The link you requested has expired due to the expiration time limit set by the link owner.</Value>
+      </Entry>
+      <Entry key="710">
+        <Value>Link limit has been reached</Value>
+      </Entry>
+      <Entry key="711">
+        <Value>The link you requested has reached the maximum opening limit set by the link owner.</Value>
+      </Entry>
+      <Entry key="712">
+        <Value>Link is disabled</Value>
+      </Entry>
+      <Entry key="713">
+        <Value>The link you requested is disabled by the link owner.</Value>
+      </Entry>
+      <Entry key="714">
+        <Value>Lösenord krävs</Value>
+      </Entry>
+      <Entry key="715">
+        <Value>The link you requested is protected with a password set by the link owner.</Value>
+      </Entry>
+      <Entry key="716">
+        <Value>Please enter the password you were supplied by the link owner.</Value>
+      </Entry>
+      <Entry key="717">
+        <Value>Felaktigt lösenord!</Value>
+      </Entry>
+      <Entry key="718">
+        <Value>Anonym användare</Value>
+      </Entry>
+      <Entry key="720">
+        <Value>Utvärdering (5 användare) - {0} dagar kvar</Value>
+      </Entry>
+      <Entry key="721">
+        <Value>Licensierat läge</Value>
+      </Entry>
+      <Entry key="722">
+        <Value>Köp ny licens</Value>
+      </Entry>
+      <Entry key="723">
+        <Value>Upgradera nuvarande licens</Value>
+      </Entry>
+      <Entry key="724">
+        <Value>Åsidosätt standard url</Value>
+      </Entry>
+      <Entry key="725">
+        <Value>Begränsa antalet medlemmar i gruppen till</Value>
+      </Entry>
+      <Entry key="726">
+        <Value>Inställningarna för grupper tillåter inte att fler användare läggs till!</Value>
+      </Entry>
+      <Entry key="FileVista.Label.LoggedInAs">
+        <Value>Inloggad som {0}</Value>
+      </Entry>
+      <Entry key="FileVista.Label.SectionUnavailable">
+        <Value>Otillgängligt.</Value>
+      </Entry>
+      <Entry key="FileVista.Label.SectionEmpty">
+        <Value>Tomt.</Value>
+      </Entry>
+      <Entry key="FileVista.Action.Connect">
+        <Value>Ansluta</Value>
+      </Entry>
+      <Entry key="FileVista.Label.Filtered">
+        <Value>Filtrerad</Value>
+      </Entry>
+      <Entry key="FileVista.Label.Allow">
+        <Value>Tillåt</Value>
+      </Entry>
+      <Entry key="FileVista.Label.Deny">
+        <Value>Neka</Value>
+      </Entry>
+      <Entry key="FileVista.Label.Notify">
+        <Value>Meddela</Value>
+      </Entry>
+      <Entry key="FileVista.Label.DoNotNotify">
+        <Value>Meddela inte</Value>
+      </Entry>
+      <Entry key="FileVista.PermissionSet.Full">
+        <Value>Fullständig</Value>
+      </Entry>
+      <Entry key="FileVista.PermissionSet.Read">
+        <Value>Läsrättigheter</Value>
+      </Entry>
+      <Entry key="FileVista.NotificationSet.OnAll">
+        <Value>Allt</Value>
+      </Entry>
+      <Entry key="FileVista.Notification.OnFailure">
+        <Value>Fel</Value>
+      </Entry>
+      <Entry key="FileVista.Notification.OnBrowse">
+        <Value>Utforska</Value>
+      </Entry>
+      <Entry key="FileVista.Notification.OnCreate">
+        <Value>Skapa</Value>
+      </Entry>
+      <Entry key="FileVista.Notification.OnDelete">
+        <Value>Ta bort</Value>
+      </Entry>
+      <Entry key="FileVista.Notification.OnRename">
+        <Value>Byt namn</Value>
+      </Entry>
+      <Entry key="FileVista.Notification.OnCopy">
+        <Value>Kopiera</Value>
+      </Entry>
+      <Entry key="FileVista.Notification.OnMove">
+        <Value>Flytta</Value>
+      </Entry>
+      <Entry key="FileVista.Notification.OnCompress">
+        <Value>Komprimera</Value>
+      </Entry>
+      <Entry key="FileVista.Notification.OnExtract">
+        <Value>Packa upp</Value>
+      </Entry>
+      <Entry key="FileVista.Notification.OnUpload">
+        <Value>Ladda upp</Value>
+      </Entry>
+      <Entry key="FileVista.Notification.OnDownload">
+        <Value>Ladda ner</Value>
+      </Entry>
+      <Entry key="FileVista.Notification.OnPreview">
+        <Value>{NotTranslated}</Value>
+      </Entry>
+      <Entry key="FileVista.Prompt.AddFileType">
+        <Value>Enter a file type pattern:</Value>
+      </Entry>
+      <Entry key="FileVista.Error.InvalidFileType">
+        <Value>A file type pattern can not contain any of the following characters:</Value>
+      </Entry>
+      <Entry key="FileVista.Prompt.RemoveInheritance">
+        <Value>
+      If you proceed, inheritable parent entries will no longer propagate to this folder.
+
+      - Click Add to convert and add inherited parent entries as explicit entries on this folder.
+
+      - Click Remove to remove inherited parent entries from this folder.
+
+      - Click Cancel if you do not want to modify inheritance settings at this time.
+    </Value>
+      </Entry>
+      <Entry key="FileVista.Label.IncludePathInLink">
+        <Value>Inkludera sökväg i länken:</Value>
+      </Entry>
+      <Entry key="FileVista.Label.NameInLink">
+        <Value>Länknamn:</Value>
+      </Entry>
+      <Entry key="FileVista.Label.Delete">
+        <Value>Ta bort</Value>
+      </Entry>
+      <Entry key="FileVista.Label.PublicLink">
+        <Value>Publik länk</Value>
+      </Entry>
+      <Entry key="FileVista.Label.PublicLinks">
+        <Value>Publika länkar</Value>
+      </Entry>
+      <Entry key="FileVista.Label.LinkedItem">
+        <Value>Länkat föremål</Value>
+      </Entry>
+      <Entry key="FileVista.Label.HitCount">
+        <Value>Träffar</Value>
+      </Entry>
+      <Entry key="FileVista.Label.LastHitTime">
+        <Value>Senaste träff</Value>
+      </Entry>
+      <Entry key="FileVista.Label.Expiration">
+        <Value>Uppgör att gälla</Value>
+      </Entry>
+      <Entry key="FileVista.Label.HitLimit">
+        <Value>Gräns för antal träffar</Value>
+      </Entry>
+      <Entry key="FileVista.Label.CreatedBy">
+        <Value>Skapad av</Value>
+      </Entry>
+      <Entry key="FileVista.Label.PublicLinksCount">
+        <Value>{0} publika länkar</Value>
+      </Entry>
+      <Entry key="FileVista.Label.Expired">
+        <Value>Upphört</Value>
+      </Entry>
+      <Entry key="FileVista.Label.NotExpired">
+        <Value>Inte upphört ännu</Value>
+      </Entry>
+      <Entry key="FileVista.Label.Reached">
+        <Value>Nådd</Value>
+      </Entry>
+      <Entry key="FileVista.Label.NotReached">
+        <Value>Ej nådd</Value>
+      </Entry>
+      <Entry key="FileVista.Label.Close">
+        <Value>Stäng</Value>
+      </Entry>
+      <Entry key="Label.Share.Verb">
+        <Value>{NotTranslated}</Value>
+      </Entry>
+      <Entry key="Label.CreatePublicLink">
+        <Value>Skapa publik länk...</Value>
+      </Entry>
+      <Entry key="Label.ManagePublicLinks">
+        <Value>Hantera publika länkar...</Value>
+      </Entry>
+      <Entry key="Label.PublicLinksFor">
+        <Value>{NotTranslated}</Value>
+      </Entry>
+      <Entry key="Label.NewPublicLink">
+        <Value>Ny publik länk</Value>
+      </Entry>
+      <Entry key="Label.EditPublicLink">
+        <Value>Redigera publik länk</Value>
+      </Entry>
+      <Entry key="FileVista.Label.EmailDeliveryMethod">
+        <Value>Skicka via</Value>
+      </Entry>
+      <Entry key="FileVista.Label.SmtpServer">
+        <Value>SMTP</Value>
+      </Entry>
+      <Entry key="FileVista.Label.SpecifiedPickupDirectory">
+        <Value>Fördefinierad mapp</Value>
+      </Entry>
+      <Entry key="FileVista.Label.PickupDirectoryFromIis">
+        <Value>Fördefinierad mapp från IIS</Value>
+      </Entry>
+      <Entry key="FileVista.Label.PickupDirectoryLocation">
+        <Value>Sökväg:</Value>
+      </Entry>
+      <Entry key="FileVista.Action.Up">
+        <Value>Upp</Value>
+      </Entry>
+      <Entry key="FileVista.Action.Down">
+        <Value>Ner</Value>
+      </Entry>
+      <Entry key="Label.ViewLayout">
+        <Value>Sätt följande visningsalternativ som standard för filhanterare</Value>
+      </Entry>
+      <Entry key="Label.DownloadWithChunkedTransferThreshold">
+        <Value>{NotTranslated}</Value>
+      </Entry>
+      <Entry key="Label.ImportUsers">
+        <Value>{NotTranslated}</Value>
+      </Entry>
+      <Entry key="Label.DownloadOnDoubleClick">
+        <Value>{NotTranslated}</Value>
+      </Entry>
+      <Entry key="Label.ExcludedExtensionsForPreview">
+        <Value>{NotTranslated}</Value>
+      </Entry>
+      <Entry key="Label.MaximumPublicLinkAge">
+        <Value>{NotTranslated}</Value>
+      </Entry>
+      <Entry key="Label.MaximumPublicLinkHits">
+        <Value>{NotTranslated}</Value>
+      </Entry>
+      <Entry key="Label.Days">
+        <Value>{NotTranslated}</Value>
+      </Entry>
+      <Entry key="Message.LinkHasExpiredPolicy">
+        <Value>{NotTranslated}</Value>
+      </Entry>
+      <Entry key="Message.LinkLimitReachedPolicy">
+        <Value>{NotTranslated}</Value>
+      </Entry>
+      <Entry key="Message.ContactAdministrator">
+        <Value>{NotTranslated}</Value>
+      </Entry>
+      <Entry key="Label.About">
+        <Value>{NotTranslated}</Value>
+      </Entry>
+    </EntryGroup>
+  </Body>
+</Language>

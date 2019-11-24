@@ -1,0 +1,914 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<Language version="2.0">
+  <Head>
+    <FirstAuthor>
+      <Name></Name>
+      <Email></Email>
+    </FirstAuthor>
+    <LastTranslator>
+      <Name></Name>
+      <Email></Email>
+    </LastTranslator>
+    <CreationDate></CreationDate>
+    <RevisionDate>2019-07-10 10:21:11Z</RevisionDate>
+  </Head>
+  <Body>
+    <EntryGroup key="">
+      <Entry key="500">
+        <Value>Willkommen bei {0},</Value>
+      </Entry>
+      <Entry key="501">
+        <Value>bitte geben Sie nachfolgend ihre Benutzerdaten ein:</Value>
+      </Entry>
+      <Entry key="502">
+        <Value>Benutzername:</Value>
+      </Entry>
+      <Entry key="503">
+        <Value>Passwort:</Value>
+      </Entry>
+      <Entry key="504">
+        <Value>anmelden</Value>
+      </Entry>
+      <Entry key="505">
+        <Value>Anmeldung fehlgeschlagen!</Value>
+      </Entry>
+      <Entry key="Label.DisplayLanguage">
+        <Value>{NotTranslated}</Value>
+      </Entry>
+      <Entry key="Label.FormatLanguage">
+        <Value>{NotTranslated}</Value>
+      </Entry>
+      <Entry key="506">
+        <Value>Benutzer</Value>
+      </Entry>
+      <Entry key="507">
+        <Value>Gruppen</Value>
+      </Entry>
+      <Entry key="508">
+        <Value>Hauptordner</Value>
+      </Entry>
+      <Entry key="509">
+        <Value>{NotTranslated}</Value>
+      </Entry>
+      <Entry key="510">
+        <Value>Vollständiger Name</Value>
+      </Entry>
+      <Entry key="511">
+        <Value>Anzahl Anmeldungen</Value>
+      </Entry>
+      <Entry key="512">
+        <Value>Letzte Anmeldung</Value>
+      </Entry>
+      <Entry key="513">
+        <Value>Erstelldatum</Value>
+      </Entry>
+      <Entry key="514">
+        <Value>Änderungsdatum</Value>
+      </Entry>
+      <Entry key="515">
+        <Value>Mitglieder</Value>
+      </Entry>
+      <Entry key="516">
+        <Value>Pfad</Value>
+      </Entry>
+      <Entry key="517">
+        <Value>Der Administrator kann nicht gelöscht werdem!</Value>
+      </Entry>
+      <Entry key="518">
+        <Value>Sie können den Hauptordner im Demo Modus nicht löschen!</Value>
+      </Entry>
+      <Entry key="519">
+        <Value>Sie können den Administrator im Demo Modus nicht umbenennen!</Value>
+      </Entry>
+      <Entry key="520">
+        <Value>Ein Benutzer oder Gruppe mit dieser Bezeichnung existiert bereits!</Value>
+      </Entry>
+      <Entry key="521">
+        <Value>Sie können den Hauptordner im Demo Modus nicht umbenennen!</Value>
+      </Entry>
+      <Entry key="522">
+        <Value>Hauptordner mit dieser Bezeichnung existiert bereits!</Value>
+      </Entry>
+      <Entry key="523">
+        <Value>Falscher Benutzername oder Passwort!</Value>
+      </Entry>
+      <Entry key="525">
+        <Value>Bitte setzen Sie sich mit dem Administrator in Verbindung.</Value>
+      </Entry>
+      <Entry key="526">
+        <Value>Dieser Benutzer ist deaktiviert!</Value>
+      </Entry>
+      <Entry key="527">
+        <Value>{0} Benutzer</Value>
+      </Entry>
+      <Entry key="528">
+        <Value>{0} Gruppen</Value>
+      </Entry>
+      <Entry key="529">
+        <Value>{0} Hauptordner</Value>
+      </Entry>
+      <Entry key="530">
+        <Value>Zurück zur Ordnerverwaltung</Value>
+      </Entry>
+      <Entry key="531">
+        <Value>Lizenzinformation</Value>
+      </Entry>
+      <Entry key="FileVista.Action.Logout">
+        <Value>Abmelden</Value>
+      </Entry>
+      <Entry key="533">
+        <Value>Neuer Benutzer</Value>
+      </Entry>
+      <Entry key="534">
+        <Value>Aktualisieren</Value>
+      </Entry>
+      <Entry key="535">
+        <Value>Alles markieren</Value>
+      </Entry>
+      <Entry key="536">
+        <Value>Markierung umkehren</Value>
+      </Entry>
+      <Entry key="537">
+        <Value>Löschen</Value>
+      </Entry>
+      <Entry key="538">
+        <Value>Umbenennen</Value>
+      </Entry>
+      <Entry key="539">
+        <Value>Eigenschaften</Value>
+      </Entry>
+      <Entry key="540">
+        <Value>Neue Gruppe</Value>
+      </Entry>
+      <Entry key="541">
+        <Value>Neuer Hauptordner</Value>
+      </Entry>
+      <Entry key="542">
+        <Value>Aufgaben</Value>
+      </Entry>
+      <Entry key="543">
+        <Value>Es ist ein Fehler beim Empfang der XML Daten enstanden:</Value>
+      </Entry>
+      <Entry key="544">
+        <Value>Ein Fehler ist aufgetreten:</Value>
+      </Entry>
+      <Entry key="545">
+        <Value>Benutzer bearbeiten</Value>
+      </Entry>
+      <Entry key="546">
+        <Value>Gruppe bearbeiten</Value>
+      </Entry>
+      <Entry key="547">
+        <Value>Hauptordner bearbeiten</Value>
+      </Entry>
+      <Entry key="548">
+        <Value>Sind Sie sicher, dass Sie '{0}' löschen wollen?</Value>
+      </Entry>
+      <Entry key="549">
+        <Value>Geben Sie eine neue Bezeichnung ein:</Value>
+      </Entry>
+      <Entry key="FileVista.Action.Administration">
+        <Value>Verwaltung</Value>
+      </Entry>
+      <Entry key="551">
+        <Value>{NotTranslated}</Value>
+      </Entry>
+      <Entry key="552">
+        <Value>Abbrechen</Value>
+      </Entry>
+      <Entry key="553">
+        <Value>Eingabe</Value>
+      </Entry>
+      <Entry key="554">
+        <Value>Sitzung ist abgelaufen. Bitte neu anmelden.</Value>
+      </Entry>
+      <Entry key="555">
+        <Value>Sie sind nicht Berechtigt diese Seite anzuzeigen!</Value>
+      </Entry>
+      <Entry key="556">
+        <Value>Bezeichnung:</Value>
+      </Entry>
+      <Entry key="557">
+        <Value>Beschreibung</Value>
+      </Entry>
+      <Entry key="558">
+        <Value>Benutzer:</Value>
+      </Entry>
+      <Entry key="559">
+        <Value>Berechtigungen</Value>
+      </Entry>
+      <Entry key="560">
+        <Value>Benutzer auswählen</Value>
+      </Entry>
+      <Entry key="561">
+        <Value>Suchkriterium:</Value>
+      </Entry>
+      <Entry key="562">
+        <Value>Suchergebnis:</Value>
+      </Entry>
+      <Entry key="563">
+        <Value>Hinzufügen</Value>
+      </Entry>
+      <Entry key="564">
+        <Value>Entfernen</Value>
+      </Entry>
+      <Entry key="565">
+        <Value>Auswählen</Value>
+      </Entry>
+      <Entry key="566">
+        <Value>Suchen</Value>
+      </Entry>
+      <Entry key="567">
+        <Value>Gruppenverwaltung</Value>
+      </Entry>
+      <Entry key="568">
+        <Value>Bitte füllen Sie das Feld 'Bezeichnung' aus!</Value>
+      </Entry>
+      <Entry key="569">
+        <Value>Pfad:</Value>
+      </Entry>
+      <Entry key="570">
+        <Value>Benutzer oder Gruppen:</Value>
+      </Entry>
+      <Entry key="571">
+        <Value>Kontingent</Value>
+      </Entry>
+      <Entry key="572">
+        <Value>Benutzer oder Gruppe auswählen</Value>
+      </Entry>
+      <Entry key="573">
+        <Value>Suchen:</Value>
+      </Entry>
+      <Entry key="574">
+        <Value>Alles</Value>
+      </Entry>
+      <Entry key="FileVista.Permission.ListSubfolders">
+        <Value>Liste Unterordnern</Value>
+      </Entry>
+      <Entry key="FileVista.Permission.ListFiles">
+        <Value>Dateien auflisten</Value>
+      </Entry>
+      <Entry key="FileVista.Permission.Create">
+        <Value>Erstellen</Value>
+      </Entry>
+      <Entry key="FileVista.Permission.Delete">
+        <Value>Löschen</Value>
+      </Entry>
+      <Entry key="FileVista.Permission.Rename">
+        <Value>Umbenennen</Value>
+      </Entry>
+      <Entry key="FileVista.Permission.Edit">
+        <Value>Bearbeiten</Value>
+      </Entry>
+      <Entry key="FileVista.Permission.Upload">
+        <Value>Uploaden</Value>
+      </Entry>
+      <Entry key="FileVista.Permission.Download">
+        <Value>Downloaden</Value>
+      </Entry>
+      <Entry key="FileVista.Permission.Compress">
+        <Value>Packen</Value>
+      </Entry>
+      <Entry key="FileVista.Permission.Extract">
+        <Value>Extrahieren</Value>
+      </Entry>
+      <Entry key="FileVista.Permission.Cut">
+        <Value>Ausschneiden</Value>
+      </Entry>
+      <Entry key="FileVista.Permission.Copy">
+        <Value>Kopieren</Value>
+      </Entry>
+      <Entry key="FileVista.Permission.Paste">
+        <Value>Einfügen</Value>
+      </Entry>
+      <Entry key="FileVista.Permission.Preview">
+        <Value>{NotTranslated}</Value>
+      </Entry>
+      <Entry key="FileVista.Permission.Print">
+        <Value>{NotTranslated}</Value>
+      </Entry>
+      <Entry key="FileVista.Permission.CreatePublicLink">
+        <Value>Erstellen öffentliches Link</Value>
+      </Entry>
+      <Entry key="588">
+        <Value>Speicherplatz nicht einschränken</Value>
+      </Entry>
+      <Entry key="589">
+        <Value>Speicherplatz beschränken auf</Value>
+      </Entry>
+      <Entry key="590">
+        <Value>Bitte füllen Sie das Feld 'Pfad' aus!</Value>
+      </Entry>
+      <Entry key="591">
+        <Value>Sie können keinen Hauptordner im Demo Modus erstellen!</Value>
+      </Entry>
+      <Entry key="Message.Error.FeatureTests">
+        <Value>{NotTranslated}</Value>
+      </Entry>
+      <Entry key="593">
+        <Value>Benutzername:</Value>
+      </Entry>
+      <Entry key="594">
+        <Value>Bezeichnung:</Value>
+      </Entry>
+      <Entry key="595">
+        <Value>E-Mail Adresse:</Value>
+      </Entry>
+      <Entry key="596">
+        <Value>Passwort bestätigen:</Value>
+      </Entry>
+      <Entry key="597">
+        <Value>Passwort läuft nie aus</Value>
+      </Entry>
+      <Entry key="598">
+        <Value>Benutzer darf Passwort nicht ändern</Value>
+      </Entry>
+      <Entry key="599">
+        <Value>Benutzer muss Passwort bei der nächsten Anmeldung ändern</Value>
+      </Entry>
+      <Entry key="600">
+        <Value>Zugang deaktiviert</Value>
+      </Entry>
+      <Entry key="601">
+        <Value>Zugang gesperrt</Value>
+      </Entry>
+      <Entry key="602">
+        <Value>Passwort ändern</Value>
+      </Entry>
+      <Entry key="603">
+        <Value>Bitte füllen Sie das Feld 'Benutzername' aus!</Value>
+      </Entry>
+      <Entry key="604">
+        <Value>E-Mail Adresse hat das falsche Format!</Value>
+      </Entry>
+      <Entry key="605">
+        <Value>Passwort stimmt nicht überein!</Value>
+      </Entry>
+      <Entry key="606">
+        <Value>Bitte füllen Sie das Feld 'Passwort' aus!</Value>
+      </Entry>
+      <Entry key="607">
+        <Value>Sie können im Demo Modus den Administrator Benutzer nicht ändern!</Value>
+      </Entry>
+      <Entry key="608">
+        <Value>Die Lizenz erlaubt es nicht weitere Benutzer anzulegen!</Value>
+      </Entry>
+      <Entry key="609">
+        <Value>Lizensiert für:</Value>
+      </Entry>
+      <Entry key="610">
+        <Value>Lizenzart:</Value>
+      </Entry>
+      <Entry key="611">
+        <Value>Kaufdatum:</Value>
+      </Entry>
+      <Entry key="612">
+        <Value>{NotTranslated}</Value>
+      </Entry>
+      <Entry key="613">
+        <Value>{NotTranslated}</Value>
+      </Entry>
+      <Entry key="614">
+        <Value>Lizenz ungültig!</Value>
+      </Entry>
+      <Entry key="615">
+        <Value>Ereignisse</Value>
+      </Entry>
+      <Entry key="616">
+        <Value>Typ</Value>
+      </Entry>
+      <Entry key="617">
+        <Value>Datum</Value>
+      </Entry>
+      <Entry key="618">
+        <Value>Uhrzeit</Value>
+      </Entry>
+      <Entry key="619">
+        <Value>Benutzer</Value>
+      </Entry>
+      <Entry key="FileVista.Event.Login">
+        <Value>Anmeldung</Value>
+      </Entry>
+      <Entry key="FileVista.Event.Logout">
+        <Value>Abmeldung</Value>
+      </Entry>
+      <Entry key="FileVista.Event.Failure">
+        <Value>Fehler</Value>
+      </Entry>
+      <Entry key="FileVista.Event.Browse">
+        <Value>Zeigen</Value>
+      </Entry>
+      <Entry key="FileVista.Event.Create">
+        <Value>Erstellen</Value>
+      </Entry>
+      <Entry key="FileVista.Event.Delete">
+        <Value>Löschen</Value>
+      </Entry>
+      <Entry key="FileVista.Event.Rename">
+        <Value>Umbenennen</Value>
+      </Entry>
+      <Entry key="FileVista.Event.Copy">
+        <Value>Kopieren</Value>
+      </Entry>
+      <Entry key="FileVista.Event.Move">
+        <Value>Verschieben</Value>
+      </Entry>
+      <Entry key="FileVista.Event.Compress">
+        <Value>Packen</Value>
+      </Entry>
+      <Entry key="FileVista.Event.Extract">
+        <Value>Extrahieren</Value>
+      </Entry>
+      <Entry key="FileVista.Event.Upload">
+        <Value>Uploaden</Value>
+      </Entry>
+      <Entry key="FileVista.Event.Download">
+        <Value>Downloaden</Value>
+      </Entry>
+      <Entry key="FileVista.Event.Preview">
+        <Value>{NotTranslated}</Value>
+      </Entry>
+      <Entry key="FileVista.Event.PublicLink">
+        <Value>{NotTranslated}</Value>
+      </Entry>
+      <Entry key="FileVista.EventSet.All">
+        <Value>{NotTranslated}</Value>
+      </Entry>
+      <Entry key="633">
+        <Value>Sie können Ihren eigenen Zugang nicht löschen!</Value>
+      </Entry>
+      <Entry key="634">
+        <Value>Benutzer wurde auf Grund einer weiteren Mitgliedschaft nicht gelöscht. Nur die Mitgliedschaft in dieser Gruppe wurde gelöscht.</Value>
+      </Entry>
+      <Entry key="635">
+        <Value>{0} Ereignisse</Value>
+      </Entry>
+      <Entry key="636">
+        <Value>Programmeinstellungen</Value>
+      </Entry>
+      <Entry key="637">
+        <Value>Ereignisse</Value>
+      </Entry>
+      <Entry key="639">
+        <Value>Ereignisse aufzeichen</Value>
+      </Entry>
+      <Entry key="640">
+        <Value>Sie können die Einstellungen im Demo-Modus nicht speichern!</Value>
+      </Entry>
+      <Entry key="641">
+        <Value>Ereignisgröße</Value>
+      </Entry>
+      <Entry key="642">
+        <Value>Maximalgröße:</Value>
+      </Entry>
+      <Entry key="643">
+        <Value>Bei erreichter Maximalgröße:</Value>
+      </Entry>
+      <Entry key="644">
+        <Value>Ereignisse älter als {0} Tage löschen</Value>
+      </Entry>
+      <Entry key="645">
+        <Value>Sortieren</Value>
+      </Entry>
+      <Entry key="646">
+        <Value>Ereigniseigenschaften</Value>
+      </Entry>
+      <Entry key="647">
+        <Value>Datumsbereich</Value>
+      </Entry>
+      <Entry key="648">
+        <Value>Aufzeichnung löschen</Value>
+      </Entry>
+      <Entry key="649">
+        <Value>Sind Sie sicher, dass sie das Ereignisprotokoll löschen wollen?</Value>
+      </Entry>
+      <Entry key="FileVista.Action.UserSettings">
+        <Value>Benutzereinstellungen</Value>
+      </Entry>
+      <Entry key="652">
+        <Value>Merken</Value>
+      </Entry>
+      <Entry key="653">
+        <Value>Benutzer wurde nach zu vielen falschen Anmeldeversuchen gesperrt!</Value>
+      </Entry>
+      <Entry key="654">
+        <Value>Passworte laufen nach {0} Tagen ab</Value>
+      </Entry>
+      <Entry key="655">
+        <Value>Benutzer werden nach {0} fehlerhaften Anmeldeversuchen gesperrt</Value>
+      </Entry>
+      <Entry key="656">
+        <Value>Zugriffskontrolle für</Value>
+      </Entry>
+      <Entry key="657">
+        <Value>Vom übergeordneten Ordner erben</Value>
+      </Entry>
+      <Entry key="658">
+        <Value>Dateitypen</Value>
+      </Entry>
+      <Entry key="659">
+        <Value>Alle Typen</Value>
+      </Entry>
+      <Entry key="660">
+        <Value>Nur diese Typen:</Value>
+      </Entry>
+      <Entry key="661">
+        <Value>Administratoren-Gruppe muss mindestens einen Administrator enthalten!</Value>
+      </Entry>
+      <Entry key="662">
+        <Value>Administratoren-Gruppe kann nicht gelöscht werden!</Value>
+      </Entry>
+      <Entry key="663">
+        <Value>Administrator kann nicht umbenannt werden</Value>
+      </Entry>
+      <Entry key="664">
+        <Value>Sprache</Value>
+      </Entry>
+      <Entry key="665">
+        <Value>Benachrichtigungen</Value>
+      </Entry>
+      <Entry key="666">
+        <Value>{0} Ereignisanzeige - {1}</Value>
+      </Entry>
+      <Entry key="667">
+        <Value>Ein Ereignis ist in einem von ihnen überwachten Ordner ({0}) aufgetreten. Die Ereignisdetails sind unten aufgelistet.</Value>
+      </Entry>
+      <Entry key="668">
+        <Value>Upload Methode</Value>
+      </Entry>
+      <Entry key="669">
+        <Value>Zeige Dateinamenerweiterungen</Value>
+      </Entry>
+      <Entry key="670">
+        <Value>Zeige System-Typ Beschreibungen</Value>
+      </Entry>
+      <Entry key="671">
+        <Value>Zeige versteckte Dateien und Ordner</Value>
+      </Entry>
+      <Entry key="672">
+        <Value>Zeige Systemdateien und -ordner</Value>
+      </Entry>
+      <Entry key="673">
+        <Value>Ordner Prüfung ob Struktur erweiterbar ist abschalten</Value>
+      </Entry>
+      <Entry key="674">
+        <Value>Maximale Größe für generierte zip-Dateien</Value>
+      </Entry>
+      <Entry key="675">
+        <Value>Ort für temporäre Dateien</Value>
+      </Entry>
+      <Entry key="676">
+        <Value>Allgemein</Value>
+      </Entry>
+      <Entry key="677">
+        <Value>Ordner durchsuchen</Value>
+      </Entry>
+      <Entry key="678">
+        <Value>{NotTranslated}</Value>
+      </Entry>
+      <Entry key="679">
+        <Value>{NotTranslated}</Value>
+      </Entry>
+      <Entry key="680">
+        <Value>Der Pfad für temporäre Dateien existiert nicht oder hat keine Schreibberechtigung!</Value>
+      </Entry>
+      <Entry key="681">
+        <Value>Email Benachrichtigungen senden</Value>
+      </Entry>
+      <Entry key="682">
+        <Value>Absender Email Adresse</Value>
+      </Entry>
+      <Entry key="FileVista.Label.SmtpHost">
+        <Value>{NotTranslated}</Value>
+      </Entry>
+      <Entry key="FileVista.Label.SmtpPort">
+        <Value>{NotTranslated}</Value>
+      </Entry>
+      <Entry key="FileVista.Label.SmtpAuthentication">
+        <Value>SMTP Authentication</Value>
+      </Entry>
+      <Entry key="686">
+        <Value>{NotTranslated}</Value>
+      </Entry>
+      <Entry key="687">
+        <Value>Windows-Login verwenden</Value>
+      </Entry>
+      <Entry key="688">
+        <Value>Folgenden login nutzen</Value>
+      </Entry>
+      <Entry key="689">
+        <Value>SSL nutzen</Value>
+      </Entry>
+      <Entry key="FileVista.Action.TestEmail">
+        <Value>Email testen</Value>
+      </Entry>
+      <Entry key="692">
+        <Value>verlinkte Datei im Browser öffnen</Value>
+      </Entry>
+      <Entry key="693">
+        <Value>Link läuft in {0} Tagen ab</Value>
+      </Entry>
+      <Entry key="694">
+        <Value>Link kann nur {0} mal geöffnet werden</Value>
+      </Entry>
+      <Entry key="695">
+        <Value>Link durch Passwort schützen</Value>
+      </Entry>
+      <Entry key="696">
+        <Value>Eigene Bezeichnung in Link benutzen</Value>
+      </Entry>
+      <Entry key="697">
+        <Value>Erweitert</Value>
+      </Entry>
+      <Entry key="FileVista.Label.Create">
+        <Value>Erstelle</Value>
+      </Entry>
+      <Entry key="FileVista.Label.Update">
+        <Value>{NotTranslated}</Value>
+      </Entry>
+      <Entry key="700">
+        <Value>{NotTranslated}</Value>
+      </Entry>
+      <Entry key="701">
+        <Value>{NotTranslated}</Value>
+      </Entry>
+      <Entry key="703">
+        <Value>Bitte kontaktieren sie den Link-Besitzer für weitere Informationen.</Value>
+      </Entry>
+      <Entry key="704">
+        <Value>Link nicht gefunden</Value>
+      </Entry>
+      <Entry key="705">
+        <Value>Der angeforderte Link existiert nicht oder wurde vom Besitzer entfernt.</Value>
+      </Entry>
+      <Entry key="706">
+        <Value>Datei nicht gefunden</Value>
+      </Entry>
+      <Entry key="707">
+        <Value>Die verlinkte Datei konnte nicht gefunden werden oder wurde vom Besitzer entfernt oder verschoben.</Value>
+      </Entry>
+      <Entry key="708">
+        <Value>Link ist abgelaufen</Value>
+      </Entry>
+      <Entry key="709">
+        <Value>Der angeforderte Link ist abgelaufen, da das gesetzte Zeitlimit überschritten wurde.</Value>
+      </Entry>
+      <Entry key="710">
+        <Value>Das Link Limit wurde erreicht</Value>
+      </Entry>
+      <Entry key="711">
+        <Value>Der abgeforderte Link hat die maximale Anzahl an Öffnungsversuchen erreicht.</Value>
+      </Entry>
+      <Entry key="712">
+        <Value>Link ist deaktiviert</Value>
+      </Entry>
+      <Entry key="713">
+        <Value>Der angeforderte Link ist vom Besitzer deaktiviert worden.</Value>
+      </Entry>
+      <Entry key="714">
+        <Value>Passwort benötigt</Value>
+      </Entry>
+      <Entry key="715">
+        <Value>Der angeforderte Link ist vom Besitzer mit einem Passwort gesichert worden.</Value>
+      </Entry>
+      <Entry key="716">
+        <Value>Bitte geben sie das Passwort, dass sie vom Link-Besitzer erhalten haben ein.</Value>
+      </Entry>
+      <Entry key="717">
+        <Value>Ungültiges Passwort!</Value>
+      </Entry>
+      <Entry key="718">
+        <Value>{NotTranslated}</Value>
+      </Entry>
+      <Entry key="720">
+        <Value>{NotTranslated}</Value>
+      </Entry>
+      <Entry key="721">
+        <Value>{NotTranslated}</Value>
+      </Entry>
+      <Entry key="722">
+        <Value>{NotTranslated}</Value>
+      </Entry>
+      <Entry key="723">
+        <Value>{NotTranslated}</Value>
+      </Entry>
+      <Entry key="724">
+        <Value>{NotTranslated}</Value>
+      </Entry>
+      <Entry key="725">
+        <Value>{NotTranslated}</Value>
+      </Entry>
+      <Entry key="726">
+        <Value>{NotTranslated}</Value>
+      </Entry>
+      <Entry key="FileVista.Label.LoggedInAs">
+        <Value>{NotTranslated}</Value>
+      </Entry>
+      <Entry key="FileVista.Label.SectionUnavailable">
+        <Value>{NotTranslated}</Value>
+      </Entry>
+      <Entry key="FileVista.Label.SectionEmpty">
+        <Value>{NotTranslated}</Value>
+      </Entry>
+      <Entry key="FileVista.Action.Connect">
+        <Value>{NotTranslated}</Value>
+      </Entry>
+      <Entry key="FileVista.Label.Filtered">
+        <Value>{NotTranslated}</Value>
+      </Entry>
+      <Entry key="FileVista.Label.Allow">
+        <Value>{NotTranslated}</Value>
+      </Entry>
+      <Entry key="FileVista.Label.Deny">
+        <Value>{NotTranslated}</Value>
+      </Entry>
+      <Entry key="FileVista.Label.Notify">
+        <Value>{NotTranslated}</Value>
+      </Entry>
+      <Entry key="FileVista.Label.DoNotNotify">
+        <Value>{NotTranslated}</Value>
+      </Entry>
+      <Entry key="FileVista.PermissionSet.Full">
+        <Value>{NotTranslated}</Value>
+      </Entry>
+      <Entry key="FileVista.PermissionSet.Read">
+        <Value>{NotTranslated}</Value>
+      </Entry>
+      <Entry key="FileVista.NotificationSet.OnAll">
+        <Value>{NotTranslated}</Value>
+      </Entry>
+      <Entry key="FileVista.Notification.OnFailure">
+        <Value>{NotTranslated}</Value>
+      </Entry>
+      <Entry key="FileVista.Notification.OnBrowse">
+        <Value>{NotTranslated}</Value>
+      </Entry>
+      <Entry key="FileVista.Notification.OnCreate">
+        <Value>{NotTranslated}</Value>
+      </Entry>
+      <Entry key="FileVista.Notification.OnDelete">
+        <Value>{NotTranslated}</Value>
+      </Entry>
+      <Entry key="FileVista.Notification.OnRename">
+        <Value>{NotTranslated}</Value>
+      </Entry>
+      <Entry key="FileVista.Notification.OnCopy">
+        <Value>{NotTranslated}</Value>
+      </Entry>
+      <Entry key="FileVista.Notification.OnMove">
+        <Value>{NotTranslated}</Value>
+      </Entry>
+      <Entry key="FileVista.Notification.OnCompress">
+        <Value>{NotTranslated}</Value>
+      </Entry>
+      <Entry key="FileVista.Notification.OnExtract">
+        <Value>{NotTranslated}</Value>
+      </Entry>
+      <Entry key="FileVista.Notification.OnUpload">
+        <Value>{NotTranslated}</Value>
+      </Entry>
+      <Entry key="FileVista.Notification.OnDownload">
+        <Value>{NotTranslated}</Value>
+      </Entry>
+      <Entry key="FileVista.Notification.OnPreview">
+        <Value>{NotTranslated}</Value>
+      </Entry>
+      <Entry key="FileVista.Prompt.AddFileType">
+        <Value>{NotTranslated}</Value>
+      </Entry>
+      <Entry key="FileVista.Error.InvalidFileType">
+        <Value>{NotTranslated}</Value>
+      </Entry>
+      <Entry key="FileVista.Prompt.RemoveInheritance">
+        <Value>{NotTranslated}</Value>
+      </Entry>
+      <Entry key="FileVista.Label.IncludePathInLink">
+        <Value>{NotTranslated}</Value>
+      </Entry>
+      <Entry key="FileVista.Label.NameInLink">
+        <Value>{NotTranslated}</Value>
+      </Entry>
+      <Entry key="FileVista.Label.Delete">
+        <Value>{NotTranslated}</Value>
+      </Entry>
+      <Entry key="FileVista.Label.PublicLink">
+        <Value>{NotTranslated}</Value>
+      </Entry>
+      <Entry key="FileVista.Label.PublicLinks">
+        <Value>{NotTranslated}</Value>
+      </Entry>
+      <Entry key="FileVista.Label.LinkedItem">
+        <Value>{NotTranslated}</Value>
+      </Entry>
+      <Entry key="FileVista.Label.HitCount">
+        <Value>{NotTranslated}</Value>
+      </Entry>
+      <Entry key="FileVista.Label.LastHitTime">
+        <Value>{NotTranslated}</Value>
+      </Entry>
+      <Entry key="FileVista.Label.Expiration">
+        <Value>{NotTranslated}</Value>
+      </Entry>
+      <Entry key="FileVista.Label.HitLimit">
+        <Value>{NotTranslated}</Value>
+      </Entry>
+      <Entry key="FileVista.Label.CreatedBy">
+        <Value>{NotTranslated}</Value>
+      </Entry>
+      <Entry key="FileVista.Label.PublicLinksCount">
+        <Value>{NotTranslated}</Value>
+      </Entry>
+      <Entry key="FileVista.Label.Expired">
+        <Value>{NotTranslated}</Value>
+      </Entry>
+      <Entry key="FileVista.Label.NotExpired">
+        <Value>{NotTranslated}</Value>
+      </Entry>
+      <Entry key="FileVista.Label.Reached">
+        <Value>{NotTranslated}</Value>
+      </Entry>
+      <Entry key="FileVista.Label.NotReached">
+        <Value>{NotTranslated}</Value>
+      </Entry>
+      <Entry key="FileVista.Label.Close">
+        <Value>{NotTranslated}</Value>
+      </Entry>
+      <Entry key="Label.Share.Verb">
+        <Value>{NotTranslated}</Value>
+      </Entry>
+      <Entry key="Label.CreatePublicLink">
+        <Value>{NotTranslated}</Value>
+      </Entry>
+      <Entry key="Label.ManagePublicLinks">
+        <Value>{NotTranslated}</Value>
+      </Entry>
+      <Entry key="Label.PublicLinksFor">
+        <Value>{NotTranslated}</Value>
+      </Entry>
+      <Entry key="Label.NewPublicLink">
+        <Value>{NotTranslated}</Value>
+      </Entry>
+      <Entry key="Label.EditPublicLink">
+        <Value>{NotTranslated}</Value>
+      </Entry>
+      <Entry key="FileVista.Label.EmailDeliveryMethod">
+        <Value>{NotTranslated}</Value>
+      </Entry>
+      <Entry key="FileVista.Label.SmtpServer">
+        <Value>{NotTranslated}</Value>
+      </Entry>
+      <Entry key="FileVista.Label.SpecifiedPickupDirectory">
+        <Value>{NotTranslated}</Value>
+      </Entry>
+      <Entry key="FileVista.Label.PickupDirectoryFromIis">
+        <Value>{NotTranslated}</Value>
+      </Entry>
+      <Entry key="FileVista.Label.PickupDirectoryLocation">
+        <Value>{NotTranslated}</Value>
+      </Entry>
+      <Entry key="FileVista.Action.Up">
+        <Value>{NotTranslated}</Value>
+      </Entry>
+      <Entry key="FileVista.Action.Down">
+        <Value>{NotTranslated}</Value>
+      </Entry>
+      <Entry key="Label.ViewLayout">
+        <Value>{NotTranslated}</Value>
+      </Entry>
+      <Entry key="Label.DownloadWithChunkedTransferThreshold">
+        <Value>{NotTranslated}</Value>
+      </Entry>
+      <Entry key="Label.ImportUsers">
+        <Value>{NotTranslated}</Value>
+      </Entry>
+      <Entry key="Label.DownloadOnDoubleClick">
+        <Value>{NotTranslated}</Value>
+      </Entry>
+      <Entry key="Label.ExcludedExtensionsForPreview">
+        <Value>{NotTranslated}</Value>
+      </Entry>
+      <Entry key="Label.MaximumPublicLinkAge">
+        <Value>{NotTranslated}</Value>
+      </Entry>
+      <Entry key="Label.MaximumPublicLinkHits">
+        <Value>{NotTranslated}</Value>
+      </Entry>
+      <Entry key="Label.Days">
+        <Value>{NotTranslated}</Value>
+      </Entry>
+      <Entry key="Message.LinkHasExpiredPolicy">
+        <Value>{NotTranslated}</Value>
+      </Entry>
+      <Entry key="Message.LinkLimitReachedPolicy">
+        <Value>{NotTranslated}</Value>
+      </Entry>
+      <Entry key="Message.ContactAdministrator">
+        <Value>{NotTranslated}</Value>
+      </Entry>
+      <Entry key="Label.About">
+        <Value>{NotTranslated}</Value>
+      </Entry>
+    </EntryGroup>
+  </Body>
+</Language>
