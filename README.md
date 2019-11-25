@@ -12,5 +12,5 @@ FileVista turns your web site into a web file server in few minutes and lets you
 
 **Note:** This project contains a fully working version of the product, however without a license key it will run in trial mode. For more information, please see [FileVista: File Manager for Self-Hosted File Sharing](http://www.gleamtech.com/filevista) product page.
 
-### Live Demo
+### Live Demo:
 https://demos.gleamtech.com/filevista/
