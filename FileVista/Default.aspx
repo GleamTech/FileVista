@@ -6,6 +6,8 @@
 <html>
     <head runat="server">
         <title></title>
+        <link rel="shortcut icon" type="image/x-icon" href="favicon.ico" />
+        <link rel="icon" type="image/x-icon" href="favicon.ico" />
     </head>
     <body>
         <div id="pageHeader" class="gt-pageHeader gt-nonSelectableText x-hidden-display">

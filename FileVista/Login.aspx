@@ -6,6 +6,8 @@
 <html>
     <head runat="server">
 		<title></title>
+        <link rel="shortcut icon" type="image/x-icon" href="favicon.ico" />
+        <link rel="icon" type="image/x-icon" href="favicon.ico" />
 	</head>
 	<body>
         <form id="formLogin" runat="server" method="post" onsubmit="return login();">
