@@ -80,30 +80,6 @@ Since these tend to be longer than labels, they tend to be slightly easier to tr
       <Entry key="508">
         <Value>Root Folders</Value>
       </Entry>
-      <Entry key="509">
-        <Value>Name</Value>
-      </Entry>
-      <Entry key="510">
-        <Value>Full Name</Value>
-      </Entry>
-      <Entry key="511">
-        <Value>Login Count</Value>
-      </Entry>
-      <Entry key="512">
-        <Value>Last Login Time</Value>
-      </Entry>
-      <Entry key="513">
-        <Value>Date Created</Value>
-      </Entry>
-      <Entry key="514">
-        <Value>Date Modified</Value>
-      </Entry>
-      <Entry key="515">
-        <Value>Members</Value>
-      </Entry>
-      <Entry key="516">
-        <Value>Location</Value>
-      </Entry>
       <Entry key="517">
         <Value>Cannot delete a user which is member of the Administrators group!</Value>
       </Entry>
@@ -220,9 +196,6 @@ Since these tend to be longer than labels, they tend to be slightly easier to tr
       </Entry>
       <Entry key="556">
         <Value>Name:</Value>
-      </Entry>
-      <Entry key="557">
-        <Value>Description</Value>
       </Entry>
       <Entry key="558">
         <Value>Member users:</Value>
@@ -406,18 +379,6 @@ Since these tend to be longer than labels, they tend to be slightly easier to tr
       </Entry>
       <Entry key="615">
         <Value>Events</Value>
-      </Entry>
-      <Entry key="616">
-        <Value>Type</Value>
-      </Entry>
-      <Entry key="617">
-        <Value>Date</Value>
-      </Entry>
-      <Entry key="618">
-        <Value>Time</Value>
-      </Entry>
-      <Entry key="619">
-        <Value>User</Value>
       </Entry>
       <Entry key="FileVista.Event.Login">
         <Value>Login</Value>
@@ -948,6 +909,58 @@ Since these tend to be longer than labels, they tend to be slightly easier to tr
       </Entry>
       <Entry key="Label.About">
         <Value>About FileVista</Value>
+      </Entry>
+      <Entry key="Label.Column.FullName">
+        <Value>Full Name</Value>
+      </Entry>
+      
+      <Entry key="Label.Column.LoginCount">
+        <Value>Login Count</Value>
+      </Entry>
+      <Entry key="Label.Column.LastLoginTime">
+        <Value>Last Login Time</Value>
+      </Entry>
+      <Entry key="Label.Column.DateCreated">
+        <Value>Date Created</Value>
+      </Entry>
+      <Entry key="Label.Column.Members">
+        <Value>Members</Value>
+      </Entry>
+      <Entry key="Label.Column.Location">
+        <Value>Location</Value>
+      </Entry>
+      <Entry key="Label.Column.Description">
+        <Value>Description</Value>
+      </Entry>
+      <Entry key="Label.Column.User">
+        <Value>User</Value>
+      </Entry>
+
+      <Entry key="Label.Column.DateTime">
+        <Value>Date and Time</Value>
+      </Entry>
+
+      <Entry key="Label.ApplicationTitle">
+        <Value>Application title</Value>
+      </Entry>
+
+
+    </EntryGroup>
+    <EntryGroup key="Removed">
+      <Entry key="Label.Column.Name">
+        <Value>Name</Value>
+      </Entry>
+      <Entry key="Label.Column.DateModified">
+        <Value>Date Modified</Value>
+      </Entry>
+      <Entry key="Label.Column.Type">
+        <Value>Type</Value>
+      </Entry>
+      <Entry key="617">
+        <Value>Date</Value>
+      </Entry>
+      <Entry key="618">
+        <Value>Time</Value>
       </Entry>
     </EntryGroup>
   </Body>

@@ -11,20 +11,20 @@
         <form id="form1" runat="server">
 			<table cellpadding="0" cellspacing="10" border="0" style="width: 100%">
                 <tr>
-                    <td style="width: 50px"><%=Language.GetEntry("616")%>:</td>
+                    <td style="width: 50px"><%=Language.GetEntry("Label.Column.Type")%>:</td>
                     <td><asp:Label ID="LabelType" runat="server" Text="Label"></asp:Label></td>
                     <td style="width: 50px"><%=Language.GetEntry("617")%>:</td>
                     <td><asp:Label ID="LabelDate" runat="server" Text="Label"></asp:Label></td>
                 </tr>
                 <tr>
-                    <td><%=Language.GetEntry("619")%>:</td>
+                    <td><%=Language.GetEntry("Label.Column.User")%>:</td>
                     <td><asp:Label ID="LabelUser" runat="server" Text="Label"></asp:Label></td>
                     <td><%=Language.GetEntry("618")%>:</td>
                     <td><asp:Label ID="LabelTime" runat="server" Text="Label"></asp:Label></td>
                 </tr>
                 <tr>
                     <td colspan="4">
-                        <%=Language.GetEntry("557")%>:<br />
+                        <%=Language.GetEntry("Label.Column.Description")%>:<br />
                         <asp:TextBox ID="TextBoxDescription" runat="server" style="width: 360px; height: 150px; resize:none" TextMode="MultiLine" ReadOnly="true" Wrap="false"></asp:TextBox>
                     </td>
                 </tr>

@@ -36,7 +36,7 @@
 	                    <asp:RequiredFieldValidator ID="NameValidator" runat="server" ControlToValidate="RFName" ValidationGroup="RootFolderRequired" SetFocusOnError="true" ForeColor="red" Font-Bold="True">!</asp:RequiredFieldValidator>
                         <asp:RegularExpressionValidator ID="NameValidator2" runat="server" ControlToValidate="RFName" ValidationGroup="RootFolderRequired" SetFocusOnError="true" ForeColor="red" Font-Bold="True" ValidationExpression="^((?!\]:).)*$">!</asp:RegularExpressionValidator>
                     </td>
-                    <td><%=Language.GetEntry("557")%>:</td>
+                    <td><%=Language.GetEntry("Label.Column.Description")%>:</td>
                     <td><asp:TextBox ID="Description" runat="server" style="width: 250px" MaxLength="100"></asp:TextBox></td>
                 </tr>
 	            <tr>

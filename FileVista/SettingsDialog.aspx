@@ -34,6 +34,10 @@
 	            <div class="tab">
 		    	    <table cellpadding="0" cellspacing="10" border="0" style="width: 100%;">
                         <tr>
+                            <td><%=Language.GetEntry("Label.ApplicationTitle")%>:</td>
+                            <td align="right"><asp:TextBox ID="ApplicationTitleTextBox" runat="server" style="width: 250px"></asp:TextBox></td>
+                        </tr>
+                        <tr>
                             <td><%=Language.GetEntry("Label.DisplayLanguage")%>:</td>
                             <td align="right"><asp:DropDownList ID="DisplayLanguagesDropDownList" runat="server" style="width: 250px"></asp:DropDownList></td>
                         </tr>

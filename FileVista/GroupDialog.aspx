@@ -24,7 +24,7 @@
 				                    <asp:RequiredFieldValidator ID="RequiredFieldValidator1" runat="server" ControlToValidate="GroupName">!</asp:RequiredFieldValidator>
 			                   </td>
 			                </tr>
-				            <tr><td><%=Language.GetEntry("557")%>:</td><td><asp:TextBox ID="Description" runat="server" style="width: 250px" MaxLength="100"></asp:TextBox></td></tr>
+				            <tr><td><%=Language.GetEntry("Label.Column.Description")%>:</td><td><asp:TextBox ID="Description" runat="server" style="width: 250px" MaxLength="100"></asp:TextBox></td></tr>
                             <tr><td colspan="2"><hr /></td></tr>
                             <tr>
                                 <td colspan="2">

@@ -48,28 +48,28 @@
       <Entry key="508">
         <Value> جذر المجلدات  </Value>
       </Entry>
-      <Entry key="509">
+      <Entry key="Label.Column.Name">
         <Value>الاسم</Value>
       </Entry>
-      <Entry key="510">
+      <Entry key="Label.Column.FullName">
         <Value>الاسم  الكامل</Value>
       </Entry>
-      <Entry key="511">
+      <Entry key="Label.Column.LoginCount">
         <Value>عداد الدخول</Value>
       </Entry>
-      <Entry key="512">
+      <Entry key="Label.Column.LastLoginTime">
         <Value>وقت  آخر  تسجيل الدخول</Value>
       </Entry>
-      <Entry key="513">
+      <Entry key="Label.Column.DateCreated">
         <Value>تاريخ الانشاء</Value>
       </Entry>
-      <Entry key="514">
+      <Entry key="Label.Column.DateModified">
         <Value>تاريخ التعديل</Value>
       </Entry>
-      <Entry key="515">
+      <Entry key="Label.Column.Members">
         <Value>أعضاء</Value>
       </Entry>
-      <Entry key="516">
+      <Entry key="Label.Column.Location">
         <Value>مسار</Value>
       </Entry>
       <Entry key="517">
@@ -189,7 +189,7 @@
       <Entry key="556">
         <Value>الاسم :</Value>
       </Entry>
-      <Entry key="557">
+      <Entry key="Label.Column.Description">
         <Value>الوصف</Value>
       </Entry>
       <Entry key="558">
@@ -375,7 +375,7 @@
       <Entry key="615">
         <Value>الأحداث</Value>
       </Entry>
-      <Entry key="616">
+      <Entry key="Label.Column.Type">
         <Value>نوع</Value>
       </Entry>
       <Entry key="617">
@@ -384,7 +384,7 @@
       <Entry key="618">
         <Value>وقت</Value>
       </Entry>
-      <Entry key="619">
+      <Entry key="Label.Column.User">
         <Value>مستخدم</Value>
       </Entry>
       <Entry key="FileVista.Event.Login">

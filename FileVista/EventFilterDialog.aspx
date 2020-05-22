@@ -41,7 +41,7 @@
 			        </td>
 			    </tr>
                 <tr>
-                    <td><%=Language.GetEntry("619")%>:</td>
+                    <td><%=Language.GetEntry("Label.Column.User")%>:</td>
                     <td align="right"><asp:TextBox ID="TextBoxUser" runat="server" style="width: 180px"></asp:TextBox></td>
                 </tr>
                 <tr>

@@ -48,28 +48,28 @@
       <Entry key="508">
         <Value>Hauptordner</Value>
       </Entry>
-      <Entry key="509">
+      <Entry key="Label.Column.Name">
         <Value>{NotTranslated}</Value>
       </Entry>
-      <Entry key="510">
+      <Entry key="Label.Column.FullName">
         <Value>Vollständiger Name</Value>
       </Entry>
-      <Entry key="511">
+      <Entry key="Label.Column.LoginCount">
         <Value>Anzahl Anmeldungen</Value>
       </Entry>
-      <Entry key="512">
+      <Entry key="Label.Column.LastLoginTime">
         <Value>Letzte Anmeldung</Value>
       </Entry>
-      <Entry key="513">
+      <Entry key="Label.Column.DateCreated">
         <Value>Erstelldatum</Value>
       </Entry>
-      <Entry key="514">
+      <Entry key="Label.Column.DateModified">
         <Value>Änderungsdatum</Value>
       </Entry>
-      <Entry key="515">
+      <Entry key="Label.Column.Members">
         <Value>Mitglieder</Value>
       </Entry>
-      <Entry key="516">
+      <Entry key="Label.Column.Location">
         <Value>Pfad</Value>
       </Entry>
       <Entry key="517">
@@ -189,7 +189,7 @@
       <Entry key="556">
         <Value>Bezeichnung:</Value>
       </Entry>
-      <Entry key="557">
+      <Entry key="Label.Column.Description">
         <Value>Beschreibung</Value>
       </Entry>
       <Entry key="558">
@@ -375,7 +375,7 @@
       <Entry key="615">
         <Value>Ereignisse</Value>
       </Entry>
-      <Entry key="616">
+      <Entry key="Label.Column.Type">
         <Value>Typ</Value>
       </Entry>
       <Entry key="617">
@@ -384,7 +384,7 @@
       <Entry key="618">
         <Value>Uhrzeit</Value>
       </Entry>
-      <Entry key="619">
+      <Entry key="Label.Column.User">
         <Value>Benutzer</Value>
       </Entry>
       <Entry key="FileVista.Event.Login">

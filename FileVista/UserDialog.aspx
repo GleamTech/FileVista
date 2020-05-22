@@ -31,7 +31,7 @@
                                     <asp:RegularExpressionValidator ID="RegularExpressionValidator1" runat="server" ControlToValidate="Email" ValidationExpression="\w+([-+.']\w+)*@\w+([-.]\w+)*\.\w+([-.]\w+)*">!</asp:RegularExpressionValidator>
 				                </td>
 			                </tr>
-				            <tr><td><%=Language.GetEntry("557")%>:</td><td><asp:TextBox ID="Description" runat="server" style="width: 250px" MaxLength="100"></asp:TextBox></td></tr>
+				            <tr><td><%=Language.GetEntry("Label.Column.Description")%>:</td><td><asp:TextBox ID="Description" runat="server" style="width: 250px" MaxLength="100"></asp:TextBox></td></tr>
 				            
                             <% if (IsApplicationUser){ %>
                             <tr><td colspan="2"><hr /></td></tr>

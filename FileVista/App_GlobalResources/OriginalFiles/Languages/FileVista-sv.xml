@@ -48,28 +48,28 @@
       <Entry key="508">
         <Value>Rotkataloger</Value>
       </Entry>
-      <Entry key="509">
+      <Entry key="Label.Column.Name">
         <Value>Namn</Value>
       </Entry>
-      <Entry key="510">
+      <Entry key="Label.Column.FullName">
         <Value>Fullständigt namn</Value>
       </Entry>
-      <Entry key="511">
+      <Entry key="Label.Column.LoginCount">
         <Value>Antal inloggningar</Value>
       </Entry>
-      <Entry key="512">
+      <Entry key="Label.Column.LastLoginTime">
         <Value>Senaste inloggning</Value>
       </Entry>
-      <Entry key="513">
+      <Entry key="Label.Column.DateCreated">
         <Value>Skapad</Value>
       </Entry>
-      <Entry key="514">
+      <Entry key="Label.Column.DateModified">
         <Value>Ändrad</Value>
       </Entry>
-      <Entry key="515">
+      <Entry key="Label.Column.Members">
         <Value>Medlemmar</Value>
       </Entry>
-      <Entry key="516">
+      <Entry key="Label.Column.Location">
         <Value>Sökväg</Value>
       </Entry>
       <Entry key="517">
@@ -189,7 +189,7 @@
       <Entry key="556">
         <Value>Namn:</Value>
       </Entry>
-      <Entry key="557">
+      <Entry key="Label.Column.Description">
         <Value>Beksrivning</Value>
       </Entry>
       <Entry key="558">
@@ -375,7 +375,7 @@
       <Entry key="615">
         <Value>Händelser</Value>
       </Entry>
-      <Entry key="616">
+      <Entry key="Label.Column.Type">
         <Value>Typ</Value>
       </Entry>
       <Entry key="617">
@@ -384,7 +384,7 @@
       <Entry key="618">
         <Value>Tid</Value>
       </Entry>
-      <Entry key="619">
+      <Entry key="Label.Column.User">
         <Value>Användare</Value>
       </Entry>
       <Entry key="FileVista.Event.Login">

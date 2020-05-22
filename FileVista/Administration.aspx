@@ -12,7 +12,7 @@
 	</head>
     <body>
         <div id="pageHeader" class="gt-pageHeader gt-nonSelectableText">
-            <span style="float: left;">FileVista</span>
+            <span style="float: left;"><%=Title%></span>
             <div id="userInfo" class="gt-textButton" style="float: right" title="<%=UserTitle%>">
                 <span class="gt-user-image"></span><span><%=UserFullName%></span><span class="gt-menudown-image"></span>
             </div>

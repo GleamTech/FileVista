@@ -48,28 +48,28 @@
       <Entry key="508">
         <Value>Carpetas Admin</Value>
       </Entry>
-      <Entry key="509">
+      <Entry key="Label.Column.Name">
         <Value>Nombre</Value>
       </Entry>
-      <Entry key="510">
+      <Entry key="Label.Column.FullName">
         <Value>Nombre Completo</Value>
       </Entry>
-      <Entry key="511">
+      <Entry key="Label.Column.LoginCount">
         <Value>Cuenta de inicio</Value>
       </Entry>
-      <Entry key="512">
+      <Entry key="Label.Column.LastLoginTime">
         <Value>Último inicio de sesión</Value>
       </Entry>
-      <Entry key="513">
+      <Entry key="Label.Column.DateCreated">
         <Value>Fecha Creación</Value>
       </Entry>
-      <Entry key="514">
+      <Entry key="Label.Column.DateModified">
         <Value>Fecha Modificacion</Value>
       </Entry>
-      <Entry key="515">
+      <Entry key="Label.Column.Members">
         <Value>Miembros</Value>
       </Entry>
-      <Entry key="516">
+      <Entry key="Label.Column.Location">
         <Value>Ruta</Value>
       </Entry>
       <Entry key="517">
@@ -189,7 +189,7 @@
       <Entry key="556">
         <Value>Nombre:</Value>
       </Entry>
-      <Entry key="557">
+      <Entry key="Label.Column.Description">
         <Value>Descripción</Value>
       </Entry>
       <Entry key="558">
@@ -375,7 +375,7 @@
       <Entry key="615">
         <Value>Eventos</Value>
       </Entry>
-      <Entry key="616">
+      <Entry key="Label.Column.Type">
         <Value>Tipo</Value>
       </Entry>
       <Entry key="617">
@@ -384,7 +384,7 @@
       <Entry key="618">
         <Value>Hora</Value>
       </Entry>
-      <Entry key="619">
+      <Entry key="Label.Column.User">
         <Value>Usuario</Value>
       </Entry>
       <Entry key="FileVista.Event.Login">

@@ -48,28 +48,28 @@
       <Entry key="508">
         <Value>Kök Klasörler</Value>
       </Entry>
-      <Entry key="509">
+      <Entry key="Label.Column.Name">
         <Value>İsim</Value>
       </Entry>
-      <Entry key="510">
+      <Entry key="Label.Column.FullName">
         <Value>Tam İsim</Value>
       </Entry>
-      <Entry key="511">
+      <Entry key="Label.Column.LoginCount">
         <Value>Giriş Sayısı</Value>
       </Entry>
-      <Entry key="512">
+      <Entry key="Label.Column.LastLoginTime">
         <Value>Son Giriş Zamanı</Value>
       </Entry>
-      <Entry key="513">
+      <Entry key="Label.Column.DateCreated">
         <Value>Oluşturulma Tarihi</Value>
       </Entry>
-      <Entry key="514">
+      <Entry key="Label.Column.DateModified">
         <Value>Değiştirilme Tarihi</Value>
       </Entry>
-      <Entry key="515">
+      <Entry key="Label.Column.Members">
         <Value>Üyeler</Value>
       </Entry>
-      <Entry key="516">
+      <Entry key="Label.Column.Location">
         <Value>Yol</Value>
       </Entry>
       <Entry key="517">
@@ -189,7 +189,7 @@
       <Entry key="556">
         <Value>İsim:</Value>
       </Entry>
-      <Entry key="557">
+      <Entry key="Label.Column.Description">
         <Value>Açıklama</Value>
       </Entry>
       <Entry key="558">
@@ -375,7 +375,7 @@
       <Entry key="615">
         <Value>Olaylar</Value>
       </Entry>
-      <Entry key="616">
+      <Entry key="Label.Column.Type">
         <Value>Tür</Value>
       </Entry>
       <Entry key="617">
@@ -384,7 +384,7 @@
       <Entry key="618">
         <Value>Zaman</Value>
       </Entry>
-      <Entry key="619">
+      <Entry key="Label.Column.User">
         <Value>Kullanıcı</Value>
       </Entry>
       <Entry key="FileVista.Event.Login">
