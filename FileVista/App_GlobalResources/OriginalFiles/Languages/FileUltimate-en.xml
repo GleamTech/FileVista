@@ -214,6 +214,9 @@ Since these tend to be longer than labels, they tend to be slightly easier to tr
       <Entry key="Label.Preview.Verb">
         <Value>Preview</Value>
       </Entry>
+      <Entry key="Label.FileExtensions">
+        <Value>File extensions</Value>
+      </Entry>
       <Entry key="Label.DeleteFile">
         <Value>Delete File</Value>
       </Entry>
