@@ -1,0 +1,560 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<Language version="2.0">
+  <Head>
+    <FirstAuthor>
+      <Name>مجید امینیان</Name>
+      <Email>m_aminyan@yahoo.com</Email>
+    </FirstAuthor>
+    <LastTranslator>
+      <Name>مجید امینیان</Name>
+      <Email>m_aminyan@yahoo.com</Email>
+    </LastTranslator>
+    <CreationDate>2020-06-11 20:00:00Z</CreationDate>
+    <RevisionDate>2020-06-11 22:00:00Z</RevisionDate>
+  </Head>
+  <Body>
+    <EntryGroup key="ExplorerView">
+      <Entry key="Label.View.Noun">
+        <Value>نمایش</Value>
+      </Entry>
+      <Entry key="Label.Panes">
+        <Value>پنل ها</Value>
+      </Entry>
+      <Entry key="Label.NavigationPane">
+        <Value>صفحه پیمایش</Value>
+      </Entry>
+      <Entry key="Label.PreviewPane">
+        <Value>پنجره پیش نمایش</Value>
+      </Entry>
+      <Entry key="Label.DetailsPane">
+        <Value>جزییات</Value>
+      </Entry>
+      <Entry key="Label.Layout">
+        <Value>چیدمان</Value>
+      </Entry>
+      <Entry key="Label.Layout.ExtraLargeIcons">
+        <Value>آیکون های فوق العاده بزرگ</Value>
+      </Entry>
+      <Entry key="Label.Layout.LargeIcons">
+        <Value>آیکون های بزرگ</Value>
+      </Entry>
+      <Entry key="Label.Layout.MediumIcons">
+        <Value>آیکون های متوسط</Value>
+      </Entry>
+      <Entry key="Label.Layout.SmallIcons">
+        <Value>آیکون های کوچک</Value>
+      </Entry>
+      <Entry key="Label.Layout.List">
+        <Value>فهرست</Value>
+      </Entry>
+      <Entry key="Label.Layout.Details">
+        <Value>جزئیات</Value>
+      </Entry>
+      <Entry key="Label.Layout.Tiles">
+        <Value>کاشی وار</Value>
+      </Entry>
+      <Entry key="Label.Layout.Content">
+        <Value>محتوا</Value>
+      </Entry>
+      <Entry key="Label.Home">
+        <Value>خانه</Value>
+      </Entry>
+      <Entry key="Label.Select">
+        <Value>انتخاب ...</Value>
+      </Entry>
+      <Entry key="Label.SelectAll">
+        <Value>همه را انتخاب کن</Value>
+      </Entry>
+      <Entry key="Label.SelectNone">
+        <Value>انتخاب شده ها را لغو کن</Value>
+      </Entry>
+      <Entry key="Label.InvertSelection">
+        <Value>انتخاب را معکوس کن</Value>
+      </Entry>
+      <Entry key="Label.ShowHide">
+        <Value>نمایش / عدم نمایش</Value>
+      </Entry>
+      <Entry key="Label.ItemCheckBoxes">
+        <Value>نمایش تیک بر روی آیتم جاری</Value>
+      </Entry>
+      <Entry key="Message.EmptyView">
+        <Value>این دیدگاه خالی است.</Value>
+      </Entry>
+      <Entry key="Label.ItemCount">
+        <Value>{0} مورد</Value>
+      </Entry>
+      <Entry key="Label.ItemsCount">
+        <Value>{0} مورد</Value>
+      </Entry>
+      <Entry key="Label.SelectedItemCount">
+        <Value>{0} آیتم انتخاب شده است</Value>
+      </Entry>
+      <Entry key="Label.SelectedItemsCount">
+        <Value>{0} آیتم انتخاب شده است</Value>
+      </Entry>
+      <Entry key="Label.Refresh.Verb">
+        <Value>به روزرسانی کن</Value>
+      </Entry>
+      <Entry key="Label.Expand">
+        <Value>شاخه را بازکن</Value>
+      </Entry>
+      <Entry key="Label.Collapse">
+        <Value>شاخه را ببند</Value>
+      </Entry>
+      <Entry key="Label.OK">
+        <Value>موافقم</Value>
+      </Entry>
+      <Entry key="Label.Yes">
+        <Value>بلی</Value>
+      </Entry>
+      <Entry key="Label.No">
+        <Value>خیر</Value>
+      </Entry>
+      <Entry key="Label.Cancel">
+        <Value>لغو کن</Value>
+      </Entry>
+      <Entry key="Label.Close">
+        <Value>ببند</Value>
+      </Entry>
+      <Entry key="Label.SearchSelected">
+        <Value>جستجو در {0}</Value>
+      </Entry>
+    </EntryGroup>
+    <EntryGroup key="FileManager">
+      <Entry key="Label.Clipboard">
+        <Value>کلیپ بورد</Value>
+      </Entry>
+      <Entry key="Label.Cut.Verb">
+        <Value>برش بده</Value>
+      </Entry>
+      <Entry key="Label.Copy.Verb">
+        <Value>کپی کن</Value>
+      </Entry>
+      <Entry key="Label.Paste.Verb">
+        <Value>بچسبان</Value>
+      </Entry>
+      <Entry key="Label.Organize">
+        <Value>سازمان دهی</Value>
+      </Entry>
+      <Entry key="Label.Delete">
+        <Value>حذف کن</Value>
+      </Entry>
+      <Entry key="Label.Rename">
+        <Value>تغییر نام بده</Value>
+      </Entry>
+      <Entry key="Label.New">
+        <Value>جدید ...</Value>
+      </Entry>
+      <Entry key="Label.NewFolder">
+        <Value>پوشه جدید بساز</Value>
+      </Entry>
+      <Entry key="Label.NewFile">
+        <Value>فایل جدید بساز</Value>
+      </Entry>
+      <Entry key="Label.Transfer.Verb">
+        <Value>انتقال</Value>
+      </Entry>
+      <Entry key="Label.Download.Verb">
+        <Value>دانلود کن</Value>
+      </Entry>
+      <Entry key="Label.Upload.Verb">
+        <Value>بارگذاری کن</Value>
+      </Entry>
+      <Entry key="Label.Compression">
+        <Value>فشرده کن</Value>
+      </Entry>
+      <Entry key="Label.AddToZip">
+        <Value>به فایل فشرده اضافه کن</Value>
+      </Entry>
+      <Entry key="Label.ExtractAll">
+        <Value>همه را از داخل فایل فشرده بیرون بیاور</Value>
+      </Entry>
+      <Entry key="Label.ExtractAllTo">
+        <Value>استخراج همه فایل ها به ...</Value>
+      </Entry>
+      <Entry key="Label.ExtractAllHere">
+        <Value>همه را به همینجا استخراج کن</Value>
+      </Entry>
+      <Entry key="Label.Open.Verb">
+        <Value>باز کن</Value>
+      </Entry>
+      <Entry key="Label.Preview.Verb">
+        <Value>پیش نمایش</Value>
+      </Entry>
+      <Entry key="Label.FileExtensions">
+        <Value>{NotTranslated}</Value>
+      </Entry>
+      <Entry key="Label.DeleteFile">
+        <Value>فایل را حذف کن</Value>
+      </Entry>
+      <Entry key="Message.Confirm.DeleteFile">
+        <Value>آیا شما مطمئن هستید که میخواهید این فایل را حذف کنید؟</Value>
+      </Entry>
+      <Entry key="Label.DeleteFolder">
+        <Value>پوشه را حذف کن</Value>
+      </Entry>
+      <Entry key="Message.Confirm.DeleteFolder">
+        <Value>آیا شما مطمئن هستید که میخواهید این پوشه را حذف کنید؟</Value>
+      </Entry>
+      <Entry key="Label.DeleteMultipleItems">
+        <Value>حذف همزمان چند فایل</Value>
+      </Entry>
+      <Entry key="Message.Confirm.DeleteMultipleItems">
+        <Value>آیا شما مطمئن هستید که میخواهید این {0} مورد را حذف کنید؟</Value>
+      </Entry>
+      <Entry key="Label.RenameItem">
+        <Value>تغییر نام بده</Value>
+      </Entry>
+      <Entry key="Message.Prompt.RenameItem">
+        <Value>یک نام جدید برای این آیتم وارد نمائید:</Value>
+      </Entry>
+      <Entry key="Message.Error.InvalidFileName">
+        <Value>نام فایل و پوشه نمی تواند شامل کاراکترهای زیر باشد:</Value>
+      </Entry>
+      <Entry key="Label.CreateFolder">
+        <Value>پوشه بساز</Value>
+      </Entry>
+      <Entry key="Message.Prompt.CreateFolder">
+        <Value>نام پوشه جدید را وارد نمائید:</Value>
+      </Entry>
+      <Entry key="Label.AddItemsToZip">
+        <Value>به فایل فشرده اضافه کن</Value>
+      </Entry>
+      <Entry key="Message.Prompt.AddItemsToZip">
+        <Value>یک نام برای فایل های فشرده را وارد کنید:</Value>
+      </Entry>
+      <Entry key="Label.ExtractItemsFromArchive">
+        <Value>فایل ها را استخراج کن</Value>
+      </Entry>
+      <Entry key="Message.Prompt.ExtractItemsFromArchive">
+        <Value>نام پوشه ای که فایل های استخراج شده در آن ذخیره می گردند را وارد کنید:</Value>
+      </Entry>
+      <Entry key="Label.Choose">
+        <Value>انتخاب کنید</Value>
+      </Entry>
+      <Entry key="Label.FolderType">
+        <Value>نوع پوشه</Value>
+      </Entry>
+      <Entry key="Label.FileType">
+        <Value>فایل {0}</Value>
+      </Entry>
+      <Entry key="Label.File">
+        <Value>فایل</Value>
+      </Entry>
+      <Entry key="Label.Column.Name">
+        <Value>نام</Value>
+      </Entry>
+      <Entry key="Label.Column.DateModified">
+        <Value>تاریخ فایل</Value>
+      </Entry>
+      <Entry key="Label.Column.Type">
+        <Value>نوع</Value>
+      </Entry>
+      <Entry key="Label.Column.Size">
+        <Value>اندازه</Value>
+      </Entry>
+      <Entry key="Label.ByteSizeUnit.Bytes">
+        <Value>{0} بایت</Value>
+      </Entry>
+      <Entry key="Label.ByteSizeUnit.KB">
+        <Value>{0} کیلوبایت</Value>
+      </Entry>
+      <Entry key="Label.ByteSizeUnit.MB">
+        <Value>{0} مگابایت</Value>
+      </Entry>
+      <Entry key="Label.ByteSizeUnit.GB">
+        <Value>{0} گیگابایت</Value>
+      </Entry>
+      <Entry key="Label.ByteSizeUnit.TB">
+        <Value>{0} ترابایت</Value>
+      </Entry>
+      <Entry key="Message.EmptyFolder">
+        <Value>این پوشه خالی است.</Value>
+      </Entry>
+      <Entry key="Message.NoRootFolders">
+        <Value>هیچ پوشه ریشه تعریف شده است.</Value>
+      </Entry>
+      <Entry key="Message.Error.FileNotAllowed">
+        <Value>فایل '{0}'مجاز نیست.</Value>
+      </Entry>
+      <Entry key="Label.Info.AllowedFileTypes">
+        <Value>انواع فایل های مجاز: {0}</Value>
+      </Entry>
+      <Entry key="Label.Info.DeniedFileTypes">
+        <Value>انواع فایل های ممنوع: {0}</Value>
+      </Entry>
+      <Entry key="Message.Error.FolderNotAllowed">
+        <Value>پوشه '{0}'مجاز نیست.</Value>
+      </Entry>
+      <Entry key="Message.Error.CannotDiscoverPath">
+        <Value>مسیر '{0}' قابل پویش نمی باشد.</Value>
+      </Entry>
+      <Entry key="Message.Error.AccessToPathDenied">
+        <Value>دسترسی به مسیر '{0}' را فراهم نمی باشد.</Value>
+      </Entry>
+      <Entry key="Label.Info.RequiredPermissions">
+        <Value>دسترسی مورد نیاز: {0}</Value>
+      </Entry>
+      <Entry key="Label.Info.RequiredPermissionsAny">
+        <Value>دسترسی مورد نیاز (یکی از موارد): {0}</Value>
+      </Entry>
+      <Entry key="Message.Error.QuotaExceeded">
+        <Value>اندازه پوشه '{0}' از سهمیه درنظرگرفته شده فراتر رفته است.</Value>
+      </Entry>
+      <Entry key="Label.Info.DeniedFile">
+        <Value>فایل ممنوع: {0}</Value>
+      </Entry>
+      <Entry key="Label.Info.DeniedSize">
+        <Value>اندازه ممنوع: {0}</Value>
+      </Entry>
+      <Entry key="Label.Info.Limit">
+        <Value>محدودیت: {0}</Value>
+      </Entry>
+      <Entry key="Label.Info.Remaining">
+        <Value>باقیمانده: {0}</Value>
+      </Entry>
+      <Entry key="Message.Error.MaxArchiveSizeExceeded">
+        <Value>آرشیو '{0}' بیش از حداکثر اندازه مجاز می باشد.</Value>
+      </Entry>
+      <Entry key="Label.MediaFormatError">
+        <Value>خطای فرمت رسانه </Value>
+      </Entry>
+      <Entry key="Message.Error.MediaFormatError">
+        <Value>دستگاه پخش رسانه ای نمی تواند این فرمت های فایل را در این مرورگر پخش نماید. آیا مایل فایل را مستقیما مشاهده نمائید؟</Value>
+      </Entry>
+      <Entry key="Label.MediaPlayer">
+        <Value>دستگاه پخش رسانه ای</Value>
+      </Entry>
+      <Entry key="Label.DocumentViewer">
+        <Value>مشاهده گر سند</Value>
+      </Entry>
+      <Entry key="Label.ImageViewer">
+        <Value>نمایشگر تصویر</Value>
+      </Entry>
+      <Entry key="Label.CopyTo">
+        <Value>کپی به {0}</Value>
+      </Entry>
+      <Entry key="Label.MoveTo">
+        <Value>انتقال به {0}</Value>
+      </Entry>
+      <Entry key="Label.UploadTo">
+        <Value>ارسال به {0}</Value>
+      </Entry>
+      <Entry key="Label.UploadFiles">
+        <Value>بارگذاری فایل ها</Value>
+      </Entry>
+    </EntryGroup>
+    <EntryGroup key="">
+      <Entry key="Message.FileConflict">
+        <Value>در حال حاضر یک فایل با همین نام در این محل وجود دارد.</Value>
+      </Entry>
+      <Entry key="Message.FileConflictAction">
+        <Value>بر روی فایلی که می خواهید آن را نگه دارید، با کلیک انتخاب نمائید</Value>
+      </Entry>
+      <Entry key="Label.FileConflictReplace">
+        <Value>جایگزین کن</Value>
+      </Entry>
+      <Entry key="Message.FileConflictReplace">
+        <Value>فایل های موجود در پوشه مقصد را با فایل جدید جایگزین کن:</Value>
+      </Entry>
+      <Entry key="Label.FileConflictSkip">
+        <Value>نادیده بگیر</Value>
+      </Entry>
+      <Entry key="Message.FileConflictSkip">
+        <Value>فایلی تغییر نکند. این فایل را در پوشه مقصد حفظ کن</Value>
+      </Entry>
+      <Entry key="Label.FileConflictKeepBoth">
+        <Value>هر دوتا را نگه دار</Value>
+      </Entry>
+      <Entry key="Message.FileConflictKeepBoth">
+        <Value>فایل جدید را تغییر نام بده:</Value>
+      </Entry>
+      <Entry key="Message.FileConflictSameForNext">
+        <Value>این کار را برای {0} تداخل بعد درنظر بگیر</Value>
+      </Entry>
+      <Entry key="Message.FileConflictSameForAll">
+        <Value>این کار را برای همه درنظر بگیر</Value>
+      </Entry>
+      <Entry key="Label.RefreshPage">
+        <Value>صفحه را به روزرسانی کن</Value>
+      </Entry>
+      <Entry key="Message.SessionExpiredRefresh">
+        <Value>نشسته تمام شده است، صفحه به طور خودکار در {0} ثانیه به روزرسانی می گردد.</Value>
+      </Entry>
+      <Entry key="Label.ActionCanceled">
+        <Value>عملیات لغو گردید</Value>
+      </Entry>
+    </EntryGroup>
+    <EntryGroup key="FileUploader">
+      <Entry key="Message.SelectToUpload">
+        <Value>انتخاب فایل های موردنظر جهت بارگذاری</Value>
+      </Entry>
+      <Entry key="Message.UploadInProgress">
+        <Value>بارگذاری در حال انجام است</Value>
+      </Entry>
+      <Entry key="Label.AddFiles">
+        <Value>فایل ها را اضافه کن</Value>
+      </Entry>
+      <Entry key="Label.AddFolders">
+        <Value>پوشه ها را اضافه کن</Value>
+      </Entry>
+      <Entry key="Label.Remove">
+        <Value>حذف کن</Value>
+      </Entry>
+      <Entry key="Label.Clear">
+        <Value>پاک کن</Value>
+      </Entry>
+      <Entry key="Message.DragAndDrop">
+        <Value>فایل ها و پوشه های مورد نظر جهت بارگذاری را کشیده و در اینجا رها نمائید</Value>
+      </Entry>
+      <Entry key="Label.SpecificFiles">
+        <Value>فایل های خاص ({0})</Value>
+      </Entry>
+      <Entry key="Message.Error.SpecificUploadMethod">
+        <Value>روش بارگذاری '{0}' در این مرورگر ({1}) پشتیبانی نمی گردد.</Value>
+      </Entry>
+      <Entry key="Message.Error.AnyUploadMethod">
+        <Value>هیچ یک از روش های بارگذاری '{0}' در این مرورگر ({1}) پشتیبانی نمی گردد.</Value>
+      </Entry>
+      <Entry key="Label.UploadMethod">
+        <Value>روش بارگذاری</Value>
+      </Entry>
+      <Entry key="Label.AddToUploadQueue">
+        <Value>به صف بارگذاری اضافه کن</Value>
+      </Entry>
+      <Entry key="Message.DropNotRecognized">
+        <Value>امکان شناسایی مورد/موارد رها شده فراهم نیست. ممکن است به عنوان مثال این مرورگر ({0}) ممکن است این موضوع از عدم پشتیبانی این قابلیت توسط مرورگر شما باشد. لطفاً، از مرورگر به روز شده استفاده نمائید.</Value>
+      </Entry>
+      <Entry key="Label.ViewInfo">
+        <Value>اطلاعات را نمایش بده</Value>
+      </Entry>
+      <Entry key="Label.AddConflict">
+        <Value>تعارض موارد اضافه شده</Value>
+      </Entry>
+      <Entry key="Message.Error.ItemsAlreadyAdded">
+        <Value>موارد زیر را با نام مشابه، قبلا به صف بارگذاری افزوده شده اند:</Value>
+      </Entry>
+      <Entry key="Message.Error.ItemsFileTypeNotAllowed">
+        <Value>موارد زیر با توجه به نوع فایل های غیرمجاز مجاز به بارگذاری نمی باشد:</Value>
+      </Entry>
+      <Entry key="Message.Error.ItemsFileSizeNotAllowed">
+        <Value>موارد زیر به دلیل محدودیت اندازه فایل، مجاز به بارگذاری نمی باشد:</Value>
+      </Entry>
+      <Entry key="Label.Info.AllowedMaxFileSize">
+        <Value>حداکثر اندازه فایل مجاز: {0}</Value>
+      </Entry>
+      <Entry key="Label.UploadConflict">
+        <Value>تداخل بارگذاری</Value>
+      </Entry>
+      <Entry key="Label.Column.Status">
+        <Value>وضعیت</Value>
+      </Entry>
+      <Entry key="Label.Status.Pending">
+        <Value>در انتظار</Value>
+      </Entry>
+      <Entry key="Label.Status.Rejected">
+        <Value>رد شده</Value>
+      </Entry>
+      <Entry key="Label.Status.Skipped">
+        <Value>نادیده</Value>
+      </Entry>
+      <Entry key="Label.Status.Canceled">
+        <Value>لغو شد</Value>
+      </Entry>
+      <Entry key="Label.Status.Failed">
+        <Value>ناموفق</Value>
+      </Entry>
+      <Entry key="Label.Status.Completed">
+        <Value>تکمیل شده</Value>
+      </Entry>
+      <Entry key="Label.ViewStatusReason">
+        <Value>برای دیدن دلیل وضعیت را کلیک کنید</Value>
+      </Entry>
+      <Entry key="Label.TimeRemaining">
+        <Value>زمان باقی مانده</Value>
+      </Entry>
+      <Entry key="Label.ItemsRemaining">
+        <Value>آیتم های باقی مانده</Value>
+      </Entry>
+      <Entry key="Label.Speed">
+        <Value>سرعت</Value>
+      </Entry>
+      <Entry key="Label.TimeEstimate">
+        <Value>حدود {0}</Value>
+      </Entry>
+      <Entry key="Label.TimeEstimateHours">
+        <Value>{0} ساعت</Value>
+      </Entry>
+      <Entry key="Label.TimeEstimateMinutes">
+        <Value>{0} دقیقه</Value>
+      </Entry>
+      <Entry key="Label.TimeEstimateSeconds">
+        <Value>{0} ثانیه</Value>
+      </Entry>
+      <Entry key="Label.SpeedEstimate">
+        <Value>{0} بر ثانیه</Value>
+      </Entry>
+      <Entry key="Label.Calculating">
+        <Value>در حال محاسبه</Value>
+      </Entry>
+      <Entry key="Message.Confirm.UploadStillInProgress">
+        <Value>بارگذاری همچنان در حال اجرا است، آیا مطمئن هستید که میخواهید خارج شوید؟</Value>
+      </Entry>
+      <Entry key="Label.CancelAll">
+        <Value>همه را ملغی کن</Value>
+      </Entry>
+    </EntryGroup>
+    <EntryGroup key="NotUsedForNow">
+      <Entry key="FileManager.Label.Folders">
+        <Value>پوشه</Value>
+        <Comment>Currently used in FileVista only.</Comment>
+      </Entry>
+      <Entry key="FileManager.Label.Subfolders">
+        <Value>{0} پوشه</Value>
+      </Entry>
+      <Entry key="FileManager.Label.Files">
+        <Value>{0} فایل</Value>
+      </Entry>
+      <Entry key="FileManager.Label.FolderUnavailable">
+        <Value>این پوشه در دسترس نیست.</Value>
+      </Entry>
+      <Entry key="FileManager.Action.UpOneLevel">
+        <Value>برو پوشه بالاتر</Value>
+      </Entry>
+      <Entry key="FileManager.Action.CreateNewFolder">
+        <Value>پوشه جدید بساز</Value>
+      </Entry>
+      <Entry key="FileManager.Action.DownloadFiles">
+        <Value>فایل ها را دانلود کن</Value>
+      </Entry>
+      <Entry key="FileManager.Action.DownloadAsZip">
+        <Value>به صورت فایل زیپ دانلود کن</Value>
+      </Entry>
+      <Entry key="FileManager.Action.OpenWith">
+        <Value>با ... بازکن</Value>
+      </Entry>
+      <Entry key="FileManager.Action.WebBrowser">
+        <Value>مرورگر اینترنت</Value>
+      </Entry>
+      <Entry key="FileManager.Action.Explore">
+        <Value>کاوش</Value>
+      </Entry>
+      <Entry key="FileManager.Action.Folder">
+        <Value>پوشه</Value>
+      </Entry>
+      <Entry key="FileUploader.Label.NotAvailable">
+        <Value>در دسترس نیست</Value>
+      </Entry>
+      <Entry key="FileUploader.Action.NewUpload">
+        <Value>بارگذاری جدید</Value>
+      </Entry>
+      <Entry key="FileUploader.Error.EmptyFile">
+        <Value>'{0}' یک فایل خالی است (صفر بایت).</Value>
+      </Entry>
+      <Entry key="FileUploader.Label.StatusReason">
+        <Value>وضعیت دلیل</Value>
+      </Entry>
+    </EntryGroup>
+  </Body>
+</Language>

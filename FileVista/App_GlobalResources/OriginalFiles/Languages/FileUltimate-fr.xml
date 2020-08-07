@@ -7,109 +7,109 @@
       <Email></Email>
     </FirstAuthor>
     <LastTranslator>
-      <Name></Name>
-      <Email></Email>
+      <Name>Maxime Pelletier</Name>
+      <Email>maxime.pelletier@csda.ca</Email>
     </LastTranslator>
     <CreationDate>2013-02-11 22:00:00Z</CreationDate>
-    <RevisionDate>2019-07-10 10:21:10Z</RevisionDate>
+    <RevisionDate>2017-09-06 12:48:00Z</RevisionDate>
   </Head>
   <Body>
     <EntryGroup key="ExplorerView">
       <Entry key="Label.View.Noun">
-        <Value>{NotTranslated}</Value>
+        <Value>Affichage</Value>
       </Entry>
       <Entry key="Label.Panes">
-        <Value>{NotTranslated}</Value>
+        <Value>Sections</Value>
       </Entry>
       <Entry key="Label.NavigationPane">
-        <Value>{NotTranslated}</Value>
+        <Value>Navigation</Value>
       </Entry>
       <Entry key="Label.PreviewPane">
-        <Value>{NotTranslated}</Value>
+        <Value>Aperçu</Value>
       </Entry>
       <Entry key="Label.DetailsPane">
-        <Value>{NotTranslated}</Value>
+        <Value>Détails</Value>
       </Entry>
       <Entry key="Label.Layout">
-        <Value>{NotTranslated}</Value>
+        <Value>Affichage</Value>
       </Entry>
       <Entry key="Label.Layout.ExtraLargeIcons">
-        <Value>{NotTranslated}</Value>
+        <Value>Très grandes icônes</Value>
       </Entry>
       <Entry key="Label.Layout.LargeIcons">
-        <Value>{NotTranslated}</Value>
+        <Value>Grandes icônes</Value>
       </Entry>
       <Entry key="Label.Layout.MediumIcons">
-        <Value>{NotTranslated}</Value>
+        <Value>Moyennes icônes</Value>
       </Entry>
       <Entry key="Label.Layout.SmallIcons">
-        <Value>{NotTranslated}</Value>
+        <Value>Petites icônes</Value>
       </Entry>
       <Entry key="Label.Layout.List">
-        <Value>{NotTranslated}</Value>
+        <Value>Liste</Value>
       </Entry>
       <Entry key="Label.Layout.Details">
-        <Value>{NotTranslated}</Value>
+        <Value>Détails</Value>
       </Entry>
       <Entry key="Label.Layout.Tiles">
-        <Value>{NotTranslated}</Value>
+        <Value>Mosaïques</Value>
       </Entry>
       <Entry key="Label.Layout.Content">
-        <Value>{NotTranslated}</Value>
+        <Value>Content</Value>
       </Entry>
       <Entry key="Label.Home">
-        <Value>{NotTranslated}</Value>
+        <Value>Accueil</Value>
       </Entry>
       <Entry key="Label.Select">
-        <Value>{NotTranslated}</Value>
+        <Value>Sélection</Value>
       </Entry>
       <Entry key="Label.SelectAll">
         <Value>Tout sélectionner</Value>
       </Entry>
       <Entry key="Label.SelectNone">
-        <Value>{NotTranslated}</Value>
+        <Value>Déselectionner</Value>
       </Entry>
       <Entry key="Label.InvertSelection">
-        <Value>Inversez la Sélection</Value>
+        <Value>Inverser la sélection</Value>
       </Entry>
       <Entry key="Label.ShowHide">
-        <Value>{NotTranslated}</Value>
+        <Value>Voir/cacher</Value>
       </Entry>
       <Entry key="Label.ItemCheckBoxes">
-        <Value>{NotTranslated}</Value>
+        <Value>Case à cocher</Value>
       </Entry>
       <Entry key="Message.EmptyView">
-        <Value>{NotTranslated}</Value>
+        <Value>Cette vue est vide.</Value>
       </Entry>
       <Entry key="Label.ItemCount">
-        <Value>{NotTranslated}</Value>
+        <Value>{0} élément</Value>
       </Entry>
       <Entry key="Label.ItemsCount">
-        <Value>{NotTranslated}</Value>
+        <Value>{0} éléments</Value>
       </Entry>
       <Entry key="Label.SelectedItemCount">
-        <Value>{NotTranslated}</Value>
+        <Value>{0} élément sélectionné</Value>
       </Entry>
       <Entry key="Label.SelectedItemsCount">
-        <Value>{NotTranslated}</Value>
+        <Value>{0} éléments sélectionnés</Value>
       </Entry>
       <Entry key="Label.Refresh.Verb">
         <Value>Actualiser</Value>
       </Entry>
       <Entry key="Label.Expand">
-        <Value>{NotTranslated}</Value>
+        <Value>Développer</Value>
       </Entry>
       <Entry key="Label.Collapse">
-        <Value>{NotTranslated}</Value>
+        <Value>Réduire</Value>
       </Entry>
       <Entry key="Label.OK">
-        <Value>{NotTranslated}</Value>
+        <Value>OK</Value>
       </Entry>
       <Entry key="Label.Yes">
-        <Value>{NotTranslated}</Value>
+        <Value>Oui</Value>
       </Entry>
       <Entry key="Label.No">
-        <Value>{NotTranslated}</Value>
+        <Value>Non</Value>
       </Entry>
       <Entry key="Label.Cancel">
         <Value>Annuler</Value>
@@ -118,12 +118,12 @@
         <Value>Annuler</Value>
       </Entry>
       <Entry key="Label.SearchSelected">
-        <Value>{NotTranslated}</Value>
+        <Value>Rechercher {0}</Value>
       </Entry>
     </EntryGroup>
     <EntryGroup key="FileManager">
       <Entry key="Label.Clipboard">
-        <Value>{NotTranslated}</Value>
+        <Value>Presse-papier</Value>
       </Entry>
       <Entry key="Label.Cut.Verb">
         <Value>Couper</Value>
@@ -135,7 +135,7 @@
         <Value>Coller</Value>
       </Entry>
       <Entry key="Label.Organize">
-        <Value>{NotTranslated}</Value>
+        <Value>Organiser</Value>
       </Entry>
       <Entry key="Label.Delete">
         <Value>Supprimer</Value>
@@ -150,10 +150,10 @@
         <Value>Nouveau dossier</Value>
       </Entry>
       <Entry key="Label.NewFile">
-        <Value>{NotTranslated}</Value>
+        <Value>Nouveau fichier</Value>
       </Entry>
       <Entry key="Label.Transfer.Verb">
-        <Value>{NotTranslated}</Value>
+        <Value>Transfert</Value>
       </Entry>
       <Entry key="Label.Download.Verb">
         <Value>Télécharger</Value>
@@ -162,13 +162,13 @@
         <Value>Envoyer</Value>
       </Entry>
       <Entry key="Label.Compression">
-        <Value>{NotTranslated}</Value>
+        <Value>Compression</Value>
       </Entry>
       <Entry key="Label.AddToZip">
-        <Value>Compresser en Zip...</Value>
+        <Value>Ajouter au Zip...</Value>
       </Entry>
       <Entry key="Label.ExtractAll">
-        <Value>{NotTranslated}</Value>
+        <Value>Extraire tout</Value>
       </Entry>
       <Entry key="Label.ExtractAllTo">
         <Value>Extraire vers...</Value>
@@ -177,163 +177,166 @@
         <Value>Extraire ici</Value>
       </Entry>
       <Entry key="Label.Open.Verb">
-        <Value>{NotTranslated}</Value>
+        <Value>Ouvrir</Value>
       </Entry>
       <Entry key="Label.Preview.Verb">
+        <Value>Volet de visualisation</Value>
+      </Entry>
+      <Entry key="Label.FileExtensions">
         <Value>{NotTranslated}</Value>
       </Entry>
       <Entry key="Label.DeleteFile">
-        <Value>{NotTranslated}</Value>
+        <Value>Supprimer le fichier</Value>
       </Entry>
       <Entry key="Message.Confirm.DeleteFile">
-        <Value>Voulez-vous vraiment supprimer '{0}' ?</Value>
+        <Value>Voulez-vous vraiment supprimer '{0}'?</Value>
       </Entry>
       <Entry key="Label.DeleteFolder">
-        <Value>{NotTranslated}</Value>
+        <Value>Supprimer le dossier</Value>
       </Entry>
       <Entry key="Message.Confirm.DeleteFolder">
-        <Value>{NotTranslated}</Value>
+        <Value>Voulez-vous vraiment supprimer ce dossier?</Value>
       </Entry>
       <Entry key="Label.DeleteMultipleItems">
-        <Value>{NotTranslated}</Value>
+        <Value>Supprimer plusieurs éléments</Value>
       </Entry>
       <Entry key="Message.Confirm.DeleteMultipleItems">
-        <Value>Voulez-vous vraiment supprimer ces {0} éléments ?</Value>
+        <Value>Voulez-vous vraiment supprimer ces {0} éléments?</Value>
       </Entry>
       <Entry key="Label.RenameItem">
-        <Value>{NotTranslated}</Value>
+        <Value>Renommer l'élément</Value>
       </Entry>
       <Entry key="Message.Prompt.RenameItem">
-        <Value>Entrer un nouveau nom pour l'élément :</Value>
+        <Value>Entrez un nouveau nom pour l'élément :</Value>
       </Entry>
       <Entry key="Message.Error.InvalidFileName">
-        <Value>Un nom de fichier ou de dossier ne peut contenir aucun des caractères suivants :</Value>
+        <Value>Un nom de fichier ou de dossier ne peut pas contenir les caractères suivants :</Value>
       </Entry>
       <Entry key="Label.CreateFolder">
-        <Value>{NotTranslated}</Value>
+        <Value>Nouveau dossier</Value>
       </Entry>
       <Entry key="Message.Prompt.CreateFolder">
-        <Value>Nom du nouveau dossier :</Value>
+        <Value>Entrez un nom pour le nouveau dossier :</Value>
       </Entry>
       <Entry key="Label.AddItemsToZip">
-        <Value>{NotTranslated}</Value>
+        <Value>Ajouter des éléments au Zip</Value>
       </Entry>
       <Entry key="Message.Prompt.AddItemsToZip">
-        <Value>Entrer le nom du fichier zip :</Value>
+        <Value>Entrez un nom pour le fichier Zip :</Value>
       </Entry>
       <Entry key="Label.ExtractItemsFromArchive">
-        <Value>{NotTranslated}</Value>
+        <Value>Extraire les éléments du fichier d'archive</Value>
       </Entry>
       <Entry key="Message.Prompt.ExtractItemsFromArchive">
-        <Value>Nom du nouveau dossier contenant les fichiers décompressés :</Value>
+        <Value>Entrez un nom de dossier pour extraire le fichier d'archive :</Value>
       </Entry>
       <Entry key="Label.Choose">
-        <Value>{NotTranslated}</Value>
+        <Value>Choisir</Value>
       </Entry>
       <Entry key="Label.FolderType">
-        <Value>{NotTranslated}</Value>
+        <Value>Dossier de fichiers</Value>
       </Entry>
       <Entry key="Label.FileType">
-        <Value>{NotTranslated}</Value>
+        <Value>{0} fichier</Value>
       </Entry>
       <Entry key="Label.File">
-        <Value>{NotTranslated}</Value>
+        <Value>Fichier</Value>
       </Entry>
       <Entry key="Label.Column.Name">
         <Value>Nom</Value>
       </Entry>
       <Entry key="Label.Column.DateModified">
-        <Value>Date de modifiée</Value>
+        <Value>Date de modification</Value>
       </Entry>
       <Entry key="Label.Column.Type">
-        <Value>{NotTranslated}</Value>
+        <Value>Type</Value>
       </Entry>
       <Entry key="Label.Column.Size">
         <Value>Taille</Value>
       </Entry>
       <Entry key="Label.ByteSizeUnit.Bytes">
-        <Value>{NotTranslated}</Value>
+        <Value>{0} octets</Value>
       </Entry>
       <Entry key="Label.ByteSizeUnit.KB">
-        <Value>{NotTranslated}</Value>
+        <Value>{0} Ko</Value>
       </Entry>
       <Entry key="Label.ByteSizeUnit.MB">
-        <Value>{NotTranslated}</Value>
+        <Value>{0} Mo</Value>
       </Entry>
       <Entry key="Label.ByteSizeUnit.GB">
-        <Value>{NotTranslated}</Value>
+        <Value>{0} Go</Value>
       </Entry>
       <Entry key="Label.ByteSizeUnit.TB">
-        <Value>{NotTranslated}</Value>
+        <Value>{0} To</Value>
       </Entry>
       <Entry key="Message.EmptyFolder">
-        <Value>{NotTranslated}</Value>
+        <Value>Ce dossier est vide.</Value>
       </Entry>
       <Entry key="Message.NoRootFolders">
-        <Value>{NotTranslated}</Value>
+        <Value>Aucun dossier racine n'est défini.</Value>
       </Entry>
       <Entry key="Message.Error.FileNotAllowed">
         <Value>'{0}' ne correspond pas à une extension autorisée.</Value>
       </Entry>
       <Entry key="Label.Info.AllowedFileTypes">
-        <Value>{NotTranslated}</Value>
+        <Value>Types de fichiers autorisés : {0}</Value>
       </Entry>
       <Entry key="Label.Info.DeniedFileTypes">
-        <Value>{NotTranslated}</Value>
+        <Value>Types de fichiers refusés : {0}</Value>
       </Entry>
       <Entry key="Message.Error.FolderNotAllowed">
-        <Value>{NotTranslated}</Value>
+        <Value>Le dossier '{0}' n'est pas autorisé.</Value>
       </Entry>
       <Entry key="Message.Error.CannotDiscoverPath">
-        <Value>{NotTranslated}</Value>
+        <Value>Impossible d'accéder au chemin '{0}'.</Value>
       </Entry>
       <Entry key="Message.Error.AccessToPathDenied">
-        <Value>{NotTranslated}</Value>
+        <Value>L'accès au chemin '{0}' est refusé.</Value>
       </Entry>
       <Entry key="Label.Info.RequiredPermissions">
-        <Value>{NotTranslated}</Value>
+        <Value>Autorisations requises : {0}</Value>
       </Entry>
       <Entry key="Label.Info.RequiredPermissionsAny">
-        <Value>{NotTranslated}</Value>
+        <Value>Autorisations requises (tout) : {0}</Value>
       </Entry>
       <Entry key="Message.Error.QuotaExceeded">
-        <Value>{NotTranslated}</Value>
+        <Value>Le quota est dépassé pour le dossier '{0}'.</Value>
       </Entry>
       <Entry key="Label.Info.DeniedFile">
-        <Value>{NotTranslated}</Value>
+        <Value>Fichier refusé : {0}</Value>
       </Entry>
       <Entry key="Label.Info.DeniedSize">
-        <Value>{NotTranslated}</Value>
+        <Value>Taille refusée : {0}</Value>
       </Entry>
       <Entry key="Label.Info.Limit">
-        <Value>{NotTranslated}</Value>
+        <Value>Limite : {0}</Value>
       </Entry>
       <Entry key="Label.Info.Remaining">
-        <Value>{NotTranslated}</Value>
+        <Value>Restant : {0}</Value>
       </Entry>
       <Entry key="Message.Error.MaxArchiveSizeExceeded">
-        <Value>{NotTranslated}</Value>
+        <Value>L'archive '{0}' dépasse la taille maximale autorisée.</Value>
       </Entry>
       <Entry key="Label.MediaFormatError">
-        <Value>{NotTranslated}</Value>
+        <Value>Erreur de format</Value>
       </Entry>
       <Entry key="Message.Error.MediaFormatError">
-        <Value>{NotTranslated}</Value>
+        <Value>Le lecteur multimédia n'a pas pu lire ce format sur ce navigateur. Voulez-vous essayer d'ouvrir le fichier directement?</Value>
       </Entry>
       <Entry key="Label.MediaPlayer">
-        <Value>{NotTranslated}</Value>
+        <Value>Lecteur multimédia</Value>
       </Entry>
       <Entry key="Label.DocumentViewer">
-        <Value>{NotTranslated}</Value>
+        <Value>Visionneuse de document</Value>
       </Entry>
       <Entry key="Label.ImageViewer">
-        <Value>{NotTranslated}</Value>
+        <Value>Visionneuse d'image</Value>
       </Entry>
       <Entry key="Label.CopyTo">
-        <Value>{NotTranslated}</Value>
+        <Value>Copier vers {0}</Value>
       </Entry>
       <Entry key="Label.MoveTo">
-        <Value>{NotTranslated}</Value>
+        <Value>Déplacer vers {0}</Value>
       </Entry>
       <Entry key="Label.UploadTo">
         <Value>{NotTranslated}</Value>
@@ -344,34 +347,34 @@
     </EntryGroup>
     <EntryGroup key="">
       <Entry key="Message.FileConflict">
-        <Value>{NotTranslated}</Value>
+        <Value>Il existe déjà un fichier portant le même nom à cet emplacement.</Value>
       </Entry>
       <Entry key="Message.FileConflictAction">
         <Value>{NotTranslated}</Value>
       </Entry>
       <Entry key="Label.FileConflictReplace">
-        <Value>{NotTranslated}</Value>
+        <Value>Envoyer et remplacer</Value>
       </Entry>
       <Entry key="Message.FileConflictReplace">
-        <Value>{NotTranslated}</Value>
+        <Value>Remplacer le fichier dans le dossier de destination par le fichier que vous envoyez :</Value>
       </Entry>
       <Entry key="Label.FileConflictSkip">
-        <Value>{NotTranslated}</Value>
+        <Value>Ne pas envoyer</Value>
       </Entry>
       <Entry key="Message.FileConflictSkip">
-        <Value>{NotTranslated}</Value>
+        <Value>Aucun fichier ne sera modifié. Laissez ce fichier dans le dossier de destination :</Value>
       </Entry>
       <Entry key="Label.FileConflictKeepBoth">
-        <Value>{NotTranslated}</Value>
+        <Value>Envoyer, mais gardez les deux fichiers</Value>
       </Entry>
       <Entry key="Message.FileConflictKeepBoth">
-        <Value>{NotTranslated}</Value>
+        <Value>Le fichier que vous envoyez sera renommé :</Value>
       </Entry>
       <Entry key="Message.FileConflictSameForNext">
         <Value>{NotTranslated}</Value>
       </Entry>
       <Entry key="Message.FileConflictSameForAll">
-        <Value>{NotTranslated}</Value>
+        <Value>Faites ceci pour tous les conflits</Value>
       </Entry>
       <Entry key="Label.RefreshPage">
         <Value>{NotTranslated}</Value>
@@ -385,7 +388,7 @@
     </EntryGroup>
     <EntryGroup key="FileUploader">
       <Entry key="Message.SelectToUpload">
-        <Value>{NotTranslated}</Value>
+        <Value>Sélectionnez les fichiers à envoyer</Value>
       </Entry>
       <Entry key="Message.UploadInProgress">
         <Value>{NotTranslated}</Value>
@@ -400,13 +403,13 @@
         <Value>Enlever</Value>
       </Entry>
       <Entry key="Label.Clear">
-        <Value>{NotTranslated}</Value>
+        <Value>Vider</Value>
       </Entry>
       <Entry key="Message.DragAndDrop">
-        <Value>{NotTranslated}</Value>
+        <Value>Glisser et déposer les fichiers ici.</Value>
       </Entry>
       <Entry key="Label.SpecificFiles">
-        <Value>{NotTranslated}</Value>
+        <Value>Specific Files ({0})</Value>
       </Entry>
       <Entry key="Message.Error.SpecificUploadMethod">
         <Value>{NotTranslated}</Value>
@@ -415,7 +418,7 @@
         <Value>{NotTranslated}</Value>
       </Entry>
       <Entry key="Label.UploadMethod">
-        <Value>{NotTranslated}</Value>
+        <Value>Méthode d'envoi</Value>
       </Entry>
       <Entry key="Label.AddToUploadQueue">
         <Value>{NotTranslated}</Value>
@@ -430,7 +433,7 @@
         <Value>{NotTranslated}</Value>
       </Entry>
       <Entry key="Message.Error.ItemsAlreadyAdded">
-        <Value>Il y a déjà un fichier avec le nom '{0}' dans la liste !</Value>
+        <Value>Il y a déjà un fichier avec le nom '{0}' dans la liste!</Value>
       </Entry>
       <Entry key="Message.Error.ItemsFileTypeNotAllowed">
         <Value>{NotTranslated}</Value>
@@ -442,61 +445,61 @@
         <Value>{NotTranslated}</Value>
       </Entry>
       <Entry key="Label.UploadConflict">
-        <Value>{NotTranslated}</Value>
+        <Value>Conflit d'envoi</Value>
       </Entry>
       <Entry key="Label.Column.Status">
-        <Value>{NotTranslated}</Value>
+        <Value>Statut</Value>
       </Entry>
       <Entry key="Label.Status.Pending">
-        <Value>{NotTranslated}</Value>
+        <Value>En attente</Value>
       </Entry>
       <Entry key="Label.Status.Rejected">
-        <Value>{NotTranslated}</Value>
+        <Value>Rejeté</Value>
       </Entry>
       <Entry key="Label.Status.Skipped">
-        <Value>{NotTranslated}</Value>
+        <Value>Ignoré</Value>
       </Entry>
       <Entry key="Label.Status.Canceled">
-        <Value>{NotTranslated}</Value>
+        <Value>Annulé</Value>
       </Entry>
       <Entry key="Label.Status.Failed">
-        <Value>{NotTranslated}</Value>
+        <Value>Échoué</Value>
       </Entry>
       <Entry key="Label.Status.Completed">
-        <Value>{NotTranslated}</Value>
+        <Value>Terminé</Value>
       </Entry>
       <Entry key="Label.ViewStatusReason">
-        <Value>{NotTranslated}</Value>
+        <Value>Cliquez pour afficher la raison</Value>
       </Entry>
       <Entry key="Label.TimeRemaining">
-        <Value>{NotTranslated}</Value>
+        <Value>Temps restant :</Value>
       </Entry>
       <Entry key="Label.ItemsRemaining">
-        <Value>{NotTranslated}</Value>
+        <Value>Fichiers restant :</Value>
       </Entry>
       <Entry key="Label.Speed">
-        <Value>{NotTranslated}</Value>
+        <Value>Vitesse :</Value>
       </Entry>
       <Entry key="Label.TimeEstimate">
-        <Value>{NotTranslated}</Value>
+        <Value>Environ {0}</Value>
       </Entry>
       <Entry key="Label.TimeEstimateHours">
-        <Value>{NotTranslated}</Value>
+        <Value>{0} heures</Value>
       </Entry>
       <Entry key="Label.TimeEstimateMinutes">
-        <Value>{NotTranslated}</Value>
+        <Value>{0} minutes</Value>
       </Entry>
       <Entry key="Label.TimeEstimateSeconds">
-        <Value>{NotTranslated}</Value>
+        <Value>{0} secondes</Value>
       </Entry>
       <Entry key="Label.SpeedEstimate">
-        <Value>{NotTranslated}</Value>
+        <Value>{0}/seconde</Value>
       </Entry>
       <Entry key="Label.Calculating">
-        <Value>{NotTranslated}</Value>
+        <Value>Calcul...</Value>
       </Entry>
       <Entry key="Message.Confirm.UploadStillInProgress">
-        <Value>{NotTranslated}</Value>
+        <Value>L'envoi est toujours en cours. Êtes-vous certain de vouloir fermer?</Value>
       </Entry>
       <Entry key="Label.CancelAll">
         <Value>{NotTranslated}</Value>
@@ -505,6 +508,7 @@
     <EntryGroup key="NotUsedForNow">
       <Entry key="FileManager.Label.Folders">
         <Value>Dossiers</Value>
+        <Comment>Currently used in FileVista only.</Comment>
       </Entry>
       <Entry key="FileManager.Label.Subfolders">
         <Value>{0} sous-dossiers</Value>
@@ -513,7 +517,7 @@
         <Value>{0} fichiers</Value>
       </Entry>
       <Entry key="FileManager.Label.FolderUnavailable">
-        <Value>{NotTranslated}</Value>
+        <Value>Ce dossier n'est pas disponible.</Value>
       </Entry>
       <Entry key="FileManager.Action.UpOneLevel">
         <Value>Dossier parent</Value>
@@ -540,16 +544,16 @@
         <Value>Dossier</Value>
       </Entry>
       <Entry key="FileUploader.Label.NotAvailable">
-        <Value>{NotTranslated}</Value>
+        <Value>Non disponible</Value>
       </Entry>
       <Entry key="FileUploader.Action.NewUpload">
         <Value>Nouvel envoi</Value>
       </Entry>
       <Entry key="FileUploader.Error.EmptyFile">
-        <Value>{NotTranslated}</Value>
+        <Value>'{0}' est un fichier vide (zéro octet).</Value>
       </Entry>
       <Entry key="FileUploader.Label.StatusReason">
-        <Value>{NotTranslated}</Value>
+        <Value>Raison de l'état</Value>
       </Entry>
     </EntryGroup>
   </Body>
