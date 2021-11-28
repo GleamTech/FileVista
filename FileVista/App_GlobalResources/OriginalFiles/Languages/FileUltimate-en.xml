@@ -43,7 +43,7 @@ Since these tend to be longer than labels, they tend to be slightly easier to tr
       <Email>support@gleamtech.com</Email>
     </LastTranslator>
     <CreationDate>2013-02-11 22:00:00Z</CreationDate>
-    <RevisionDate>2019-07-10 10:21:10Z</RevisionDate>
+    <RevisionDate>2021-11-28 16:18:20Z</RevisionDate>
   </Head>
   <Body>
     <EntryGroup key="ExplorerView">
@@ -372,6 +372,15 @@ Since these tend to be longer than labels, they tend to be slightly easier to tr
       </Entry>
       <Entry key="Label.UploadTo">
         <Value>Upload to {0}</Value>
+      </Entry>
+      <Entry key="Label.HoldShiftToMove">
+        <Value>Hold down SHIFT to move</Value>
+      </Entry>
+      <Entry key="Label.HoldCtrlToCopy">
+        <Value>Hold down CTRL to copy</Value>
+      </Entry>
+      <Entry key="Label.PressEscToCancel">
+        <Value>Press ESC to cancel</Value>
       </Entry>
       <Entry key="Label.UploadFiles">
         <Value>Upload Files</Value>

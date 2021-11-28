@@ -11,7 +11,7 @@
       <Email></Email>
     </LastTranslator>
     <CreationDate>2013-02-11 22:00:00Z</CreationDate>
-    <RevisionDate>2019-07-10 10:21:10Z</RevisionDate>
+    <RevisionDate>2021-11-28 16:18:20Z</RevisionDate>
   </Head>
   <Body>
     <EntryGroup key="ExplorerView">
@@ -82,16 +82,16 @@
         <Value>{NotTranslated}</Value>
       </Entry>
       <Entry key="Label.ItemCount">
-        <Value>Objekt</Value>
+        <Value>{0} objekt</Value>
       </Entry>
       <Entry key="Label.ItemsCount">
-        <Value>Objekt</Value>
+        <Value>{0} objekt</Value>
       </Entry>
       <Entry key="Label.SelectedItemCount">
-        <Value>Storlek för markerat objekt</Value>
+        <Value>{0} markerat objekt</Value>
       </Entry>
       <Entry key="Label.SelectedItemsCount">
-        <Value>Storlek för samtliga markerade objekt</Value>
+        <Value>{0} markerade objekt</Value>
       </Entry>
       <Entry key="Label.Refresh.Verb">
         <Value>Uppdatera</Value>
@@ -182,6 +182,9 @@
       <Entry key="Label.Preview.Verb">
         <Value>{NotTranslated}</Value>
       </Entry>
+      <Entry key="Label.FileExtensions">
+        <Value>{NotTranslated}</Value>
+      </Entry>
       <Entry key="Label.DeleteFile">
         <Value>Ta bort</Value>
       </Entry>
@@ -198,7 +201,7 @@
         <Value>Ta bort</Value>
       </Entry>
       <Entry key="Message.Confirm.DeleteMultipleItems">
-        <Value>Vill du ta bort de här objekten permanent?</Value>
+        <Value>Vill du ta bort de här {0} objekten permanent?</Value>
       </Entry>
       <Entry key="Label.RenameItem">
         <Value>Byt namn</Value>
@@ -336,6 +339,15 @@
         <Value>{NotTranslated}</Value>
       </Entry>
       <Entry key="Label.UploadTo">
+        <Value>{NotTranslated}</Value>
+      </Entry>
+      <Entry key="Label.HoldShiftToMove">
+        <Value>{NotTranslated}</Value>
+      </Entry>
+      <Entry key="Label.HoldCtrlToCopy">
+        <Value>{NotTranslated}</Value>
+      </Entry>
+      <Entry key="Label.PressEscToCancel">
         <Value>{NotTranslated}</Value>
       </Entry>
       <Entry key="Label.UploadFiles">

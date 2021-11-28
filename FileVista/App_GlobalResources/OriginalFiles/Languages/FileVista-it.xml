@@ -11,7 +11,7 @@
       <Email></Email>
     </LastTranslator>
     <CreationDate></CreationDate>
-    <RevisionDate>2019-07-10 10:21:11Z</RevisionDate>
+    <RevisionDate>2021-11-28 16:18:20Z</RevisionDate>
   </Head>
   <Body>
     <EntryGroup key="">
@@ -47,30 +47,6 @@
       </Entry>
       <Entry key="508">
         <Value>Cartelle principali</Value>
-      </Entry>
-      <Entry key="Label.Column.Name">
-        <Value>Nome</Value>
-      </Entry>
-      <Entry key="Label.Column.FullName">
-        <Value>Nome completo</Value>
-      </Entry>
-      <Entry key="Label.Column.LoginCount">
-        <Value>Conteggio login</Value>
-      </Entry>
-      <Entry key="Label.Column.LastLoginTime">
-        <Value>Ultimo login</Value>
-      </Entry>
-      <Entry key="Label.Column.DateCreated">
-        <Value>Data Creazione</Value>
-      </Entry>
-      <Entry key="Label.Column.DateModified">
-        <Value>Data Modifica</Value>
-      </Entry>
-      <Entry key="Label.Column.Members">
-        <Value>Membri</Value>
-      </Entry>
-      <Entry key="Label.Column.Location">
-        <Value>Percorso</Value>
       </Entry>
       <Entry key="517">
         <Value>Gli utenti del gruppo Amministratori non possono essere eliminati!</Value>
@@ -188,9 +164,6 @@
       </Entry>
       <Entry key="556">
         <Value>Nome:</Value>
-      </Entry>
-      <Entry key="Label.Column.Description">
-        <Value>Descrizione:</Value>
       </Entry>
       <Entry key="558">
         <Value>Utenti membro:</Value>
@@ -374,18 +347,6 @@
       </Entry>
       <Entry key="615">
         <Value>Eventi</Value>
-      </Entry>
-      <Entry key="Label.Column.Type">
-        <Value>Tipo</Value>
-      </Entry>
-      <Entry key="617">
-        <Value>Data</Value>
-      </Entry>
-      <Entry key="618">
-        <Value>Ora</Value>
-      </Entry>
-      <Entry key="Label.Column.User">
-        <Value>Utente</Value>
       </Entry>
       <Entry key="FileVista.Event.Login">
         <Value>{NotTranslated}</Value>
@@ -908,6 +869,53 @@
       </Entry>
       <Entry key="Label.About">
         <Value>{NotTranslated}</Value>
+      </Entry>
+      <Entry key="Label.Column.FullName">
+        <Value>Nome completo</Value>
+      </Entry>
+      <Entry key="Label.Column.LoginCount">
+        <Value>Conteggio login</Value>
+      </Entry>
+      <Entry key="Label.Column.LastLoginTime">
+        <Value>Ultimo login</Value>
+      </Entry>
+      <Entry key="Label.Column.DateCreated">
+        <Value>Data Creazione</Value>
+      </Entry>
+      <Entry key="Label.Column.Members">
+        <Value>Membri</Value>
+      </Entry>
+      <Entry key="Label.Column.Location">
+        <Value>Percorso</Value>
+      </Entry>
+      <Entry key="Label.Column.Description">
+        <Value>Descrizione:</Value>
+      </Entry>
+      <Entry key="Label.Column.User">
+        <Value>Utente</Value>
+      </Entry>
+      <Entry key="Label.Column.DateTime">
+        <Value>{NotTranslated}</Value>
+      </Entry>
+      <Entry key="Label.ApplicationTitle">
+        <Value>{NotTranslated}</Value>
+      </Entry>
+    </EntryGroup>
+    <EntryGroup key="Removed">
+      <Entry key="Label.Column.Name">
+        <Value>Nome</Value>
+      </Entry>
+      <Entry key="Label.Column.DateModified">
+        <Value>Data Modifica</Value>
+      </Entry>
+      <Entry key="Label.Column.Type">
+        <Value>Tipo</Value>
+      </Entry>
+      <Entry key="617">
+        <Value>Data</Value>
+      </Entry>
+      <Entry key="618">
+        <Value>Ora</Value>
       </Entry>
     </EntryGroup>
   </Body>

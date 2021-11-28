@@ -11,7 +11,7 @@
       <Email>m.tubay@mimware.com</Email>
     </LastTranslator>
     <CreationDate>2013-02-11 22:00:00Z</CreationDate>
-    <RevisionDate>2020-02-23 20:36:06Z</RevisionDate>
+    <RevisionDate>2021-11-28 16:18:20Z</RevisionDate>
   </Head>
   <Body>
     <EntryGroup key="ExplorerView">
@@ -182,6 +182,9 @@
       <Entry key="Label.Preview.Verb">
         <Value>Önizleme</Value>
       </Entry>
+      <Entry key="Label.FileExtensions">
+        <Value>{NotTranslated}</Value>
+      </Entry>
       <Entry key="Label.DeleteFile">
         <Value>Dosyayı Sil</Value>
       </Entry>
@@ -337,6 +340,15 @@
       </Entry>
       <Entry key="Label.UploadTo">
         <Value>Yükle: {0}</Value>
+      </Entry>
+      <Entry key="Label.HoldShiftToMove">
+        <Value>{NotTranslated}</Value>
+      </Entry>
+      <Entry key="Label.HoldCtrlToCopy">
+        <Value>{NotTranslated}</Value>
+      </Entry>
+      <Entry key="Label.PressEscToCancel">
+        <Value>{NotTranslated}</Value>
       </Entry>
       <Entry key="Label.UploadFiles">
         <Value>Dosya Yükle</Value>

@@ -11,7 +11,7 @@
       <Email>maxime.pelletier@csda.ca</Email>
     </LastTranslator>
     <CreationDate>2013-02-11 22:00:00Z</CreationDate>
-    <RevisionDate>2017-09-06 12:48:00Z</RevisionDate>
+    <RevisionDate>2021-11-28 16:18:20Z</RevisionDate>
   </Head>
   <Body>
     <EntryGroup key="ExplorerView">
@@ -339,6 +339,15 @@
         <Value>Déplacer vers {0}</Value>
       </Entry>
       <Entry key="Label.UploadTo">
+        <Value>{NotTranslated}</Value>
+      </Entry>
+      <Entry key="Label.HoldShiftToMove">
+        <Value>{NotTranslated}</Value>
+      </Entry>
+      <Entry key="Label.HoldCtrlToCopy">
+        <Value>{NotTranslated}</Value>
+      </Entry>
+      <Entry key="Label.PressEscToCancel">
         <Value>{NotTranslated}</Value>
       </Entry>
       <Entry key="Label.UploadFiles">

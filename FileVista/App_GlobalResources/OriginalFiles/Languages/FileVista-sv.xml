@@ -11,15 +11,15 @@
       <Email></Email>
     </LastTranslator>
     <CreationDate></CreationDate>
-    <RevisionDate>2019-07-10 10:21:11Z</RevisionDate>
+    <RevisionDate>2021-11-28 16:18:20Z</RevisionDate>
   </Head>
   <Body>
     <EntryGroup key="">
       <Entry key="500">
-        <Value>Ange användarnamn och lösenord:</Value>
+        <Value>Välkommen till {0}</Value>
       </Entry>
       <Entry key="501">
-        <Value></Value>
+        <Value>Ange användarnamn och lösenord:</Value>
       </Entry>
       <Entry key="502">
         <Value>Användarnamn:</Value>
@@ -47,30 +47,6 @@
       </Entry>
       <Entry key="508">
         <Value>Rotkataloger</Value>
-      </Entry>
-      <Entry key="Label.Column.Name">
-        <Value>Namn</Value>
-      </Entry>
-      <Entry key="Label.Column.FullName">
-        <Value>Fullständigt namn</Value>
-      </Entry>
-      <Entry key="Label.Column.LoginCount">
-        <Value>Antal inloggningar</Value>
-      </Entry>
-      <Entry key="Label.Column.LastLoginTime">
-        <Value>Senaste inloggning</Value>
-      </Entry>
-      <Entry key="Label.Column.DateCreated">
-        <Value>Skapad</Value>
-      </Entry>
-      <Entry key="Label.Column.DateModified">
-        <Value>Ändrad</Value>
-      </Entry>
-      <Entry key="Label.Column.Members">
-        <Value>Medlemmar</Value>
-      </Entry>
-      <Entry key="Label.Column.Location">
-        <Value>Sökväg</Value>
       </Entry>
       <Entry key="517">
         <Value>Kan inte ta bort en användare som är medlem i gruppen Administrators!</Value>
@@ -188,9 +164,6 @@
       </Entry>
       <Entry key="556">
         <Value>Namn:</Value>
-      </Entry>
-      <Entry key="Label.Column.Description">
-        <Value>Beksrivning</Value>
       </Entry>
       <Entry key="558">
         <Value>Medlemmar:</Value>
@@ -374,18 +347,6 @@
       </Entry>
       <Entry key="615">
         <Value>Händelser</Value>
-      </Entry>
-      <Entry key="Label.Column.Type">
-        <Value>Typ</Value>
-      </Entry>
-      <Entry key="617">
-        <Value>Datum</Value>
-      </Entry>
-      <Entry key="618">
-        <Value>Tid</Value>
-      </Entry>
-      <Entry key="Label.Column.User">
-        <Value>Användare</Value>
       </Entry>
       <Entry key="FileVista.Event.Login">
         <Value>Inloggning</Value>
@@ -916,6 +877,53 @@
       </Entry>
       <Entry key="Label.About">
         <Value>{NotTranslated}</Value>
+      </Entry>
+      <Entry key="Label.Column.FullName">
+        <Value>Fullständigt namn</Value>
+      </Entry>
+      <Entry key="Label.Column.LoginCount">
+        <Value>Antal inloggningar</Value>
+      </Entry>
+      <Entry key="Label.Column.LastLoginTime">
+        <Value>Senaste inloggning</Value>
+      </Entry>
+      <Entry key="Label.Column.DateCreated">
+        <Value>Skapad</Value>
+      </Entry>
+      <Entry key="Label.Column.Members">
+        <Value>Medlemmar</Value>
+      </Entry>
+      <Entry key="Label.Column.Location">
+        <Value>Sökväg</Value>
+      </Entry>
+      <Entry key="Label.Column.Description">
+        <Value>Beksrivning</Value>
+      </Entry>
+      <Entry key="Label.Column.User">
+        <Value>Användare</Value>
+      </Entry>
+      <Entry key="Label.Column.DateTime">
+        <Value>{NotTranslated}</Value>
+      </Entry>
+      <Entry key="Label.ApplicationTitle">
+        <Value>{NotTranslated}</Value>
+      </Entry>
+    </EntryGroup>
+    <EntryGroup key="Removed">
+      <Entry key="Label.Column.Name">
+        <Value>Namn</Value>
+      </Entry>
+      <Entry key="Label.Column.DateModified">
+        <Value>Ändrad</Value>
+      </Entry>
+      <Entry key="Label.Column.Type">
+        <Value>Typ</Value>
+      </Entry>
+      <Entry key="617">
+        <Value>Datum</Value>
+      </Entry>
+      <Entry key="618">
+        <Value>Tid</Value>
       </Entry>
     </EntryGroup>
   </Body>

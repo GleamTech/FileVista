@@ -11,7 +11,7 @@
       <Email></Email>
     </LastTranslator>
     <CreationDate>2013-02-11 22:00:00Z</CreationDate>
-    <RevisionDate>2019-07-10 10:21:10Z</RevisionDate>
+    <RevisionDate>2021-11-28 16:18:20Z</RevisionDate>
   </Head>
   <Body>
     <EntryGroup key="ExplorerView">
@@ -182,6 +182,9 @@
       <Entry key="Label.Preview.Verb">
         <Value>{NotTranslated}</Value>
       </Entry>
+      <Entry key="Label.FileExtensions">
+        <Value>{NotTranslated}</Value>
+      </Entry>
       <Entry key="Label.DeleteFile">
         <Value>{NotTranslated}</Value>
       </Entry>
@@ -336,6 +339,15 @@
         <Value>{NotTranslated}</Value>
       </Entry>
       <Entry key="Label.UploadTo">
+        <Value>{NotTranslated}</Value>
+      </Entry>
+      <Entry key="Label.HoldShiftToMove">
+        <Value>{NotTranslated}</Value>
+      </Entry>
+      <Entry key="Label.HoldCtrlToCopy">
+        <Value>{NotTranslated}</Value>
+      </Entry>
+      <Entry key="Label.PressEscToCancel">
         <Value>{NotTranslated}</Value>
       </Entry>
       <Entry key="Label.UploadFiles">

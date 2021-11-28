@@ -11,7 +11,7 @@
       <Email>m_aminyan@yahoo.com</Email>
     </LastTranslator>
     <CreationDate>2020-06-11 20:00:00Z</CreationDate>
-    <RevisionDate>2020-06-11 22:00:00Z</RevisionDate>
+    <RevisionDate>2021-11-28 16:18:20Z</RevisionDate>
   </Head>
   <Body>
     <EntryGroup key="ExplorerView">
@@ -340,6 +340,15 @@
       </Entry>
       <Entry key="Label.UploadTo">
         <Value>ارسال به {0}</Value>
+      </Entry>
+      <Entry key="Label.HoldShiftToMove">
+        <Value>{NotTranslated}</Value>
+      </Entry>
+      <Entry key="Label.HoldCtrlToCopy">
+        <Value>{NotTranslated}</Value>
+      </Entry>
+      <Entry key="Label.PressEscToCancel">
+        <Value>{NotTranslated}</Value>
       </Entry>
       <Entry key="Label.UploadFiles">
         <Value>بارگذاری فایل ها</Value>

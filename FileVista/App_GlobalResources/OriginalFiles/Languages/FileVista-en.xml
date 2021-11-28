@@ -43,7 +43,7 @@ Since these tend to be longer than labels, they tend to be slightly easier to tr
       <Email>support@gleamtech.com</Email>
     </LastTranslator>
     <CreationDate></CreationDate>
-    <RevisionDate>2019-07-10 10:21:10Z</RevisionDate>
+    <RevisionDate>2021-11-28 16:18:20Z</RevisionDate>
   </Head>
   <Body>
     <EntryGroup key="">
@@ -913,7 +913,6 @@ Since these tend to be longer than labels, they tend to be slightly easier to tr
       <Entry key="Label.Column.FullName">
         <Value>Full Name</Value>
       </Entry>
-      
       <Entry key="Label.Column.LoginCount">
         <Value>Login Count</Value>
       </Entry>
@@ -935,16 +934,12 @@ Since these tend to be longer than labels, they tend to be slightly easier to tr
       <Entry key="Label.Column.User">
         <Value>User</Value>
       </Entry>
-
       <Entry key="Label.Column.DateTime">
         <Value>Date and Time</Value>
       </Entry>
-
       <Entry key="Label.ApplicationTitle">
         <Value>Application title</Value>
       </Entry>
-
-
     </EntryGroup>
     <EntryGroup key="Removed">
       <Entry key="Label.Column.Name">
