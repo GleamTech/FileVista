@@ -14,3 +14,6 @@ FileVista turns your web site into a web file server in few minutes and lets you
 
 ### Live Demo:
 https://demos.gleamtech.com/filevista/
+
+### Showcase videos:
+[![Web File Manager Self Hosted File Sharing, Own Cloud Storage - Getting Started](https://i.ytimg.com/vi/u-cY2X9ji9o/maxresdefault.jpg)](https://youtu.be/u-cY2X9ji9o "Web File Manager Self Hosted File Sharing, Own Cloud Storage - Getting Started")
