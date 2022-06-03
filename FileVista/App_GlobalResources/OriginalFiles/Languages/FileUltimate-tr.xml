@@ -453,6 +453,12 @@
       <Entry key="Label.Info.AllowedMaxFileSize">
         <Value>İzin verilen maksimum dosya boyutu: {0}</Value>
       </Entry>
+      <Entry key="Message.Error.ItemsFileCountNotAllowed">
+        <Value>Dosya sayısı kısıtlaması nedeniyle aşağıdaki öğelerin yüklenmesine izin verilmiyor.</Value>
+      </Entry>
+      <Entry key="Label.Info.AllowedMaxFileCount">
+        <Value>İzin verilen maksimum dosya sayısı: {0}</Value>
+      </Entry>
       <Entry key="Label.UploadConflict">
         <Value>Yükleme Çakışması</Value>
       </Entry>

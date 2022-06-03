@@ -485,6 +485,12 @@ Since these tend to be longer than labels, they tend to be slightly easier to tr
       <Entry key="Label.Info.AllowedMaxFileSize">
         <Value>Allowed maximum file size: {0}</Value>
       </Entry>
+      <Entry key="Message.Error.ItemsFileCountNotAllowed">
+        <Value>The following items are not allowed to be uploaded due to file count restriction.</Value>
+      </Entry>
+      <Entry key="Label.Info.AllowedMaxFileCount">
+        <Value>Allowed maximum file count: {0}</Value>
+      </Entry>
       <Entry key="Label.UploadConflict">
         <Value>Upload Conflict</Value>
       </Entry>
