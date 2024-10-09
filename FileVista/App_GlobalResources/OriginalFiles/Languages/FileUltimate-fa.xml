@@ -183,7 +183,7 @@
         <Value>پیش نمایش</Value>
       </Entry>
       <Entry key="Label.FileExtensions">
-        <Value>{NotTranslated}</Value>
+        <Value>نمایش پسوند نام فایل</Value>
       </Entry>
       <Entry key="Label.DeleteFile">
         <Value>فایل را حذف کن</Value>
@@ -342,13 +342,13 @@
         <Value>ارسال به {0}</Value>
       </Entry>
       <Entry key="Label.HoldShiftToMove">
-        <Value>{NotTranslated}</Value>
+        <Value>برای جابجایی کلید شیفت را نگه دارید</Value>
       </Entry>
       <Entry key="Label.HoldCtrlToCopy">
-        <Value>{NotTranslated}</Value>
+        <Value>برای تهیه نسخه کپی کلید کنترل را نگه دارید</Value>
       </Entry>
       <Entry key="Label.PressEscToCancel">
-        <Value>{NotTranslated}</Value>
+        <Value>جهت لغو کلید Esc را فشار دهید</Value>
       </Entry>
       <Entry key="Label.UploadFiles">
         <Value>بارگذاری فایل ها</Value>
