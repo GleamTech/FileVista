@@ -1,4 +1,4 @@
-﻿<%@ Page Language="C#" CodeBehind="AboutDialog.aspx.cs" Inherits="GleamTech.FileVista.Web.AboutDialogPage" %>
+<%@ Page Language="C#" CodeBehind="AboutDialog.aspx.cs" Inherits="GleamTech.FileVista.Web.AboutDialogPage" %>
 
 <!DOCTYPE html>
 
@@ -51,6 +51,10 @@
                 <tr>
                     <td>Operating System:</td>
                     <td><asp:Label ID="OperatingSystem" runat="server"></asp:Label></td>
+                </tr>
+                <tr>
+                    <td>Runtime Identifier:</td>
+                    <td><asp:Label ID="RuntimeIdentifier" runat="server"></asp:Label></td>
                 </tr>
                 <tr>
                     <td>Process Memory:</td>
