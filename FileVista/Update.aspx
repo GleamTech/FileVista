@@ -49,17 +49,21 @@
                         <table border="0" cellpadding="0" cellspacing="10" >
                             <tr>
                                 <td colspan="2" style="width: 450px">
-                                Windows user which is used to run this web application, should have <i>Modify</i> permission on the <i>App_Data</i> folder and the permission should be inherited by its subfolders. 
+                                Current or reverted identity, i.e. the Windows user which is used to run this web application, should have <i>Modify</i> permission on the <i>App_Data</i> folder and the permission should be inherited by its subfolders. 
                                 The wizard can not continue if this permission is denied. Please refresh the page after you do a permission change. 
                                 </td>
                             </tr>
                             <tr>
-                                <td>User:</td>
+                                <td>App_Data Physical Path:</td>
+                                <td><asp:Label ID="LabelAppDataPath" runat="server"></asp:Label></td>
+                            </tr>
+                            <tr>
+                                <td>Current Identity:</td>
                                 <td><asp:Label ID="LabelIdentity" runat="server"></asp:Label></td>
                             </tr>
                             <tr>
-                                <td>App_Data Physical Path:</td>
-                                <td><asp:Label ID="LabelAppDataPath" runat="server"></asp:Label></td>
+                                <td>Reverted Identity:</td>
+                                <td><asp:Label ID="LabelRevertedIdentity" runat="server"></asp:Label></td>
                             </tr>
                             <tr>
                                 <td>Permission:</td>

@@ -64,22 +64,26 @@
                                     <td>Web Framework:</td>
                                     <td><asp:Label ID="LabelWebFramework" runat="server"></asp:Label></td>
                                 </tr>
-                                <tr>
-                                    <td>Current Identity:</td>
-                                    <td><asp:Label ID="LabelIdentity" runat="server"></asp:Label></td>
-                                </tr>
                             </table>
                             <span style="font-weight: bold;">Important:</span>
                             <table border="0" cellpadding="0" cellspacing="10" >
                                 <tr>
                                     <td colspan="2" style="width: 450px">
-                                    Current Identity, ie. the windows user which is used to run this web application, should have <i>Modify</i> permission on the <i>App_Data</i> folder and the permission should be inherited by its subfolders. 
+                                    Current or reverted identity, i.e. the Windows user which is used to run this web application, should have <i>Modify</i> permission on the <i>App_Data</i> folder and the permission should be inherited by its subfolders. 
                                     The wizard can not continue if this permission is denied. Please refresh the page after you do a permission change. 
                                     </td>
                                 </tr>
                                 <tr>
                                     <td>App_Data Physical Path:</td>
                                     <td><asp:Label ID="LabelAppDataPath" runat="server"></asp:Label></td>
+                                </tr>
+                                <tr>
+                                    <td>Current Identity:</td>
+                                    <td><asp:Label ID="LabelIdentity" runat="server"></asp:Label></td>
+                                </tr>
+                                <tr>
+                                    <td>Reverted Identity:</td>
+                                    <td><asp:Label ID="LabelRevertedIdentity" runat="server"></asp:Label></td>
                                 </tr>
                                 <tr>
                                     <td>Permission:</td>
@@ -97,7 +101,7 @@
                                         <table id="tableVistaDB" border="0" cellpadding="0" cellspacing="10"  style="margin-left: 10px;">
                                             <tr>
                                                 <td colspan="2">
-                                                It is recommended that you keep the VistaDB Database file (.vdb5 file) in the default location.
+                                                It is recommended that you keep the VistaDB Database file (.vdb6 file) in the default location.
                                                 Physical and virtual paths are allowed.
                                                 </td>
                                             </tr>
@@ -107,7 +111,7 @@
                                             </tr>
                                             <tr>
                                                 <td colspan="2">
-                                                    <b>Important:</b> Current Windows Identity should have <i>Modify</i> permission on the folder that contains the .vdb5 file.
+                                                    <b>Important:</b> Current or reverted identity should have <i>Modify</i> permission on the folder that contains the .vdb6 file.
                                                 </td>
                                             </tr>
                                         </table>
@@ -150,12 +154,16 @@
                                                     Then create a user with <i>db_owner</i> role for this database as follows:
                                                     <ul>
                                                         <li>
-                                                            If <i>Trusted connection</i> is checked (Windows authentication mode), current windows identity (<%=LabelIdentity.Text%>) will be used to connect to the SQL Server.
+                                                            <p>
+                                                            If <i>Trusted connection</i> is checked (Windows authentication mode), current or reverted identity will be used to connect to the SQL Server.
                                                             So in SQL Server, create a new login and user with the same name and assign <i>db_owner</i> role for FileVista database.
+                                                            </p>
                                                         </li>
                                                         <li>
+                                                            <p>
                                                             If <i>Trusted connection</i> is unchecked (SQL Server authentication mode), you will need to enter the credentials of a SQL Server user.
                                                             So in SQL Server, create a new user and assign <i>db_owner</i> role for FileVista database.
+                                                            </p>
                                                         </li>
                                                     </ul>
                                                 </td>
@@ -164,6 +172,17 @@
 				                    </td>
 				                </tr>
 				            </table>
+                            <span style="font-weight: bold;">Information:</span>
+                            <table border="0" cellpadding="0" cellspacing="10" >
+                                <tr>
+                                    <td>Current Identity:</td>
+                                    <td><%=LabelIdentity.Text%></td>
+                                </tr>
+                                <tr>
+                                    <td>Reverted Identity:</td>
+                                    <td><%=LabelRevertedIdentity.Text%></td>
+                                </tr>
+                            </table>
                         </div>
 <%break;%>
 <%case 3:%>
