@@ -1,0 +1,575 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<Language version="2.0">
+  <Head>
+    <FirstAuthor>
+      <Name>Jakub Berkovský</Name>
+      <Email>jakub.berkovsky@seznam.cz</Email>
+    </FirstAuthor>
+    <LastTranslator>
+      <Name></Name>
+      <Email></Email>
+    </LastTranslator>
+    <CreationDate>2025-08-15 12:00:00Z</CreationDate>
+    <RevisionDate></RevisionDate>
+  </Head>
+  <Body>
+    <EntryGroup key="ExplorerView">
+      <Entry key="Label.View.Noun">
+        <Value>Zobrazení</Value>
+      </Entry>
+      <Entry key="Label.Panes">
+        <Value>Podokna</Value>
+      </Entry>
+      <Entry key="Label.NavigationPane">
+        <Value>Navigační podokno</Value>
+      </Entry>
+      <Entry key="Label.PreviewPane">
+        <Value>Panel náhledu</Value>
+      </Entry>
+      <Entry key="Label.DetailsPane">
+        <Value>Podokno podrobností</Value>
+      </Entry>
+      <Entry key="Label.Layout">
+        <Value>Rozložení</Value>
+      </Entry>
+      <Entry key="Label.Layout.ExtraLargeIcons">
+        <Value>Největší ikony</Value>
+      </Entry>
+      <Entry key="Label.Layout.LargeIcons">
+        <Value>Velké ikony</Value>
+      </Entry>
+      <Entry key="Label.Layout.MediumIcons">
+        <Value>Střední ikony</Value>
+      </Entry>
+      <Entry key="Label.Layout.SmallIcons">
+        <Value>Malé ikony</Value>
+      </Entry>
+      <Entry key="Label.Layout.List">
+        <Value>Seznam</Value>
+      </Entry>
+      <Entry key="Label.Layout.Details">
+        <Value>Podrobnosti</Value>
+      </Entry>
+      <Entry key="Label.Layout.Tiles">
+        <Value>Dlaždice</Value>
+      </Entry>
+      <Entry key="Label.Layout.Content">
+        <Value>Obsah</Value>
+      </Entry>
+      <Entry key="Label.Home">
+        <Value>Domů</Value>
+      </Entry>
+      <Entry key="Label.Select">
+        <Value>Vybrat</Value>
+      </Entry>
+      <Entry key="Label.SelectAll">
+        <Value>Vybrat vše</Value>
+      </Entry>
+      <Entry key="Label.SelectNone">
+        <Value>Vybrat nic</Value>
+      </Entry>
+      <Entry key="Label.InvertSelection">
+        <Value>Invertovat výběr</Value>
+      </Entry>
+      <Entry key="Label.ShowHide">
+        <Value>Zobrazit či skrýt</Value>
+      </Entry>
+      <Entry key="Label.ItemCheckBoxes">
+        <Value>Zaškrtávací políčka položek</Value>
+      </Entry>
+      <Entry key="Message.EmptyView">
+        <Value>Tento pohled je prázdný.</Value>
+      </Entry>
+      <Entry key="Label.ItemCount">
+        <Value>Počet položek: {0}</Value>
+      </Entry>
+      <Entry key="Label.ItemsCount">
+        <Value>Počet položek: {0}</Value>
+      </Entry>
+      <Entry key="Label.SelectedItemCount">
+        <Value>Počet vybraných položek: {0}</Value>
+      </Entry>
+      <Entry key="Label.SelectedItemsCount">
+        <Value>Počet vybraných položek: {0}</Value>
+      </Entry>
+      <Entry key="Label.Refresh.Verb">
+        <Value>Obnovit</Value>
+      </Entry>
+      <Entry key="Label.Expand">
+        <Value>Rozšířit</Value>
+      </Entry>
+      <Entry key="Label.Collapse">
+        <Value>Kolaps</Value>
+      </Entry>
+      <Entry key="Label.OK">
+        <Value>OK</Value>
+      </Entry>
+      <Entry key="Label.Yes">
+        <Value>Ano</Value>
+      </Entry>
+      <Entry key="Label.No">
+        <Value>Ne</Value>
+      </Entry>
+      <Entry key="Label.Cancel">
+        <Value>Zrušit</Value>
+      </Entry>
+      <Entry key="Label.Close">
+        <Value>Zavřít</Value>
+      </Entry>
+      <Entry key="Label.SearchSelected">
+        <Value>Prohledat: {0}</Value>
+      </Entry>
+    </EntryGroup>
+    <EntryGroup key="FileManager">
+      <Entry key="Label.Clipboard">
+        <Value>Schránka</Value>
+      </Entry>
+      <Entry key="Label.Cut.Verb">
+        <Value>Vyjmout</Value>
+      </Entry>
+      <Entry key="Label.Copy.Verb">
+        <Value>Kopírovat</Value>
+      </Entry>
+      <Entry key="Label.Paste.Verb">
+        <Value>Vložit</Value>
+      </Entry>
+      <Entry key="Label.Organize">
+        <Value>Organizovat</Value>
+      </Entry>
+      <Entry key="Label.Delete">
+        <Value>Odstranit</Value>
+      </Entry>
+      <Entry key="Label.Rename">
+        <Value>Přejmenovat</Value>
+      </Entry>
+      <Entry key="Label.New">
+        <Value>Nový</Value>
+      </Entry>
+      <Entry key="Label.NewFolder">
+        <Value>Nová složka</Value>
+      </Entry>
+      <Entry key="Label.NewFile">
+        <Value>Nový soubor</Value>
+      </Entry>
+      <Entry key="Label.Transfer.Verb">
+        <Value>Přenos</Value>
+      </Entry>
+      <Entry key="Label.Download.Verb">
+        <Value>Stáhnout</Value>
+      </Entry>
+      <Entry key="Label.Upload.Verb">
+        <Value>Nahrát</Value>
+      </Entry>
+      <Entry key="Label.Compression">
+        <Value>Komprese</Value>
+      </Entry>
+      <Entry key="Label.AddToZip">
+        <Value>Přidat do zipu...</Value>
+      </Entry>
+      <Entry key="Label.ExtractAll">
+        <Value>Extrahuj vše</Value>
+      </Entry>
+      <Entry key="Label.ExtractAllTo">
+        <Value>Extrahuj vše do...</Value>
+      </Entry>
+      <Entry key="Label.ExtractAllHere">
+        <Value>Extrahuj vše zde</Value>
+      </Entry>
+      <Entry key="Label.Open.Verb">
+        <Value>Otevři</Value>
+      </Entry>
+      <Entry key="Label.Preview.Verb">
+        <Value>Náhled</Value>
+      </Entry>
+      <Entry key="Label.FileExtensions">
+        <Value>Přípony názvů souborů</Value>
+      </Entry>
+      <Entry key="Label.DeleteFile">
+        <Value>Smazat soubor</Value>
+      </Entry>
+      <Entry key="Message.Confirm.DeleteFile">
+        <Value>Jste si jisti, že chcete tento soubor smazat?</Value>
+      </Entry>
+      <Entry key="Label.DeleteFolder">
+        <Value>Smazat složku</Value>
+      </Entry>
+      <Entry key="Message.Confirm.DeleteFolder">
+        <Value>Opravdu chcete tuto složku smazat?</Value>
+      </Entry>
+      <Entry key="Label.DeleteMultipleItems">
+        <Value>Smazat více položek</Value>
+      </Entry>
+      <Entry key="Message.Confirm.DeleteMultipleItems">
+        <Value>Are you sure you want to delete these {0} items?</Value>
+      </Entry>
+      <Entry key="Label.RenameItem">
+        <Value>Přejmenovat položku</Value>
+      </Entry>
+      <Entry key="Message.Prompt.RenameItem">
+        <Value>Zadejte nový název položky:</Value>
+      </Entry>
+      <Entry key="Message.Error.InvalidFileName">
+        <Value>Název souboru nebo složky nesmí obsahovat žádný z následujících znaků:</Value>
+      </Entry>
+      <Entry key="Label.CreateFolder">
+        <Value>Vytvořit složku</Value>
+      </Entry>
+      <Entry key="Message.Prompt.CreateFolder">
+        <Value>Zadejte název nové složky:</Value>
+      </Entry>
+      <Entry key="Label.AddItemsToZip">
+        <Value>Přidat položky do Zip</Value>
+      </Entry>
+      <Entry key="Message.Prompt.AddItemsToZip">
+        <Value>Zadejte název souboru ZIP:</Value>
+      </Entry>
+      <Entry key="Label.ExtractItemsFromArchive">
+        <Value>Extrahujte položky z archivu</Value>
+      </Entry>
+      <Entry key="Message.Prompt.ExtractItemsFromArchive">
+        <Value>Zadejte název složky, do které chcete archivní soubor extrahovat:</Value>
+      </Entry>
+      <Entry key="Label.Choose">
+        <Value>Vybrat</Value>
+      </Entry>
+      <Entry key="Label.FolderType">
+        <Value>Složka souborů</Value>
+      </Entry>
+      <Entry key="Label.FileType">
+        <Value>{0} File</Value>
+      </Entry>
+      <Entry key="Label.File">
+        <Value>Soubor</Value>
+      </Entry>
+      <Entry key="Label.Column.Name">
+        <Value>Jméno</Value>
+      </Entry>
+      <Entry key="Label.Column.DateModified">
+        <Value>Datum změny</Value>
+      </Entry>
+      <Entry key="Label.Column.Type">
+        <Value>Typ</Value>
+      </Entry>
+      <Entry key="Label.Column.Size">
+        <Value>Velikost</Value>
+      </Entry>
+      <Entry key="Label.ByteSizeUnit.Bytes">
+        <Value>{0} bajtů</Value>
+      </Entry>
+      <Entry key="Label.ByteSizeUnit.KB">
+        <Value>{0} KB</Value>
+      </Entry>
+      <Entry key="Label.ByteSizeUnit.MB">
+        <Value>{0} MB</Value>
+      </Entry>
+      <Entry key="Label.ByteSizeUnit.GB">
+        <Value>{0} GB</Value>
+      </Entry>
+      <Entry key="Label.ByteSizeUnit.TB">
+        <Value>{0} TB</Value>
+      </Entry>
+      <Entry key="Message.EmptyFolder">
+        <Value>Tato složka je prázdná.</Value>
+      </Entry>
+      <Entry key="Message.NoRootFolders">
+        <Value>Nejsou definovány žádné kořenové složky.</Value>
+      </Entry>
+      <Entry key="Message.Error.FileNotAllowed">
+        <Value>Soubor '{0}' není povolen.</Value>
+      </Entry>
+      <Entry key="Label.Info.AllowedFileTypes">
+        <Value>Povolené typy souborů: {0}</Value>
+      </Entry>
+      <Entry key="Label.Info.DeniedFileTypes">
+        <Value>Zakázané typy souborů: {0}</Value>
+      </Entry>
+      <Entry key="Message.Error.FolderNotAllowed">
+        <Value>Složka '{0}' není povolena.</Value>
+      </Entry>
+      <Entry key="Message.Error.CannotDiscoverPath">
+        <Value>Cesta '{0}' nelze vyhledat.</Value>
+      </Entry>
+      <Entry key="Message.Error.AccessToPathDenied">
+        <Value>Přístup k cestě '{0}' je zamítnut.</Value>
+      </Entry>
+      <Entry key="Label.Info.RequiredPermissions">
+        <Value>Požadovaná oprávnění: {0}</Value>
+      </Entry>
+      <Entry key="Label.Info.RequiredPermissionsAny">
+        <Value>Required permissions (any): {0}</Value>
+      </Entry>
+      <Entry key="Message.Error.QuotaExceeded">
+        <Value>Quota is exceeded for the folder '{0}'.</Value>
+      </Entry>
+      <Entry key="Label.Info.DeniedFile">
+        <Value>Zamítnutý soubor: {0}</Value>
+      </Entry>
+      <Entry key="Label.Info.DeniedSize">
+        <Value>Zamítnutá velikost: {0}</Value>
+      </Entry>
+      <Entry key="Label.Info.Limit">
+        <Value>Limit: {0}</Value>
+      </Entry>
+      <Entry key="Label.Info.Remaining">
+        <Value>Zbývající: {0}</Value>
+      </Entry>
+      <Entry key="Message.Error.MaxArchiveSizeExceeded">
+        <Value>Archiv '{0}' překračuje maximální povolenou velikost.</Value>
+      </Entry>
+      <Entry key="Label.MediaFormatError">
+        <Value>Chyba formátu média</Value>
+      </Entry>
+      <Entry key="Message.Error.MediaFormatError">
+        <Value>Přehrávač médií nemohl v tomto prohlížeči přehrát tento formát médií. Chcete zkusit soubor otevřít přímo?</Value>
+      </Entry>
+      <Entry key="Label.MediaPlayer">
+        <Value>Media Player</Value>
+      </Entry>
+      <Entry key="Label.DocumentViewer">
+        <Value>Prohlížeč dokumentů</Value>
+      </Entry>
+      <Entry key="Label.ImageViewer">
+        <Value>Prohlížeč obrázků</Value>
+      </Entry>
+      <Entry key="Label.CopyTo">
+        <Value>Kopírovat do {0}</Value>
+      </Entry>
+      <Entry key="Label.MoveTo">
+        <Value>Přesunout do {0}</Value>
+      </Entry>
+      <Entry key="Label.UploadTo">
+        <Value>Přesunout do {0}</Value>
+      </Entry>
+      <Entry key="Label.HoldShiftToMove">
+        <Value>Podržte stisknutou klávesu SHIFT pro pohyb</Value>
+      </Entry>
+      <Entry key="Label.HoldCtrlToCopy">
+        <Value>Podržte stisknutou klávesu CTRL pro kopírování</Value>
+      </Entry>
+      <Entry key="Label.PressEscToCancel">
+        <Value>Pro zrušení stiskněte ESC</Value>
+      </Entry>
+      <Entry key="Label.UploadFiles">
+        <Value>Nahrát soubory</Value>
+      </Entry>
+    </EntryGroup>
+    <EntryGroup key="">
+      <Entry key="Message.FileConflict">
+        <Value>V tomto umístění již existuje soubor se stejným názvem.</Value>
+      </Entry>
+      <Entry key="Message.FileConflictAction">
+        <Value>Klikněte na soubor, který chcete ponechat</Value>
+      </Entry>
+      <Entry key="Label.FileConflictReplace">
+        <Value>Nahradit</Value>
+      </Entry>
+      <Entry key="Message.FileConflictReplace">
+        <Value>Nahraďte soubor v cílové složce novým souborem:</Value>
+      </Entry>
+      <Entry key="Label.FileConflictSkip">
+        <Value>Přeskočit</Value>
+      </Entry>
+      <Entry key="Message.FileConflictSkip">
+        <Value>Žádné soubory nebudou změněny. Tento soubor ponechte v cílové složce:</Value>
+      </Entry>
+      <Entry key="Label.FileConflictKeepBoth">
+        <Value>Nechte si obojí</Value>
+      </Entry>
+      <Entry key="Message.FileConflictKeepBoth">
+        <Value>Nový soubor bude přejmenován:</Value>
+      </Entry>
+      <Entry key="Message.FileConflictSameForNext">
+        <Value>Udělejte to pro další {0} konflikty</Value>
+      </Entry>
+      <Entry key="Message.FileConflictSameForAll">
+        <Value>Udělejte to pro všechny konflikty</Value>
+      </Entry>
+      <Entry key="Label.RefreshPage">
+        <Value>Obnovit stránku</Value>
+      </Entry>
+      <Entry key="Message.SessionExpiredRefresh">
+        <Value>Relace vypršela, stránka bude automaticky obnovena za {0} sekund.</Value>
+      </Entry>
+      <Entry key="Label.ActionCanceled">
+        <Value>Akce zrušena</Value>
+      </Entry>
+    </EntryGroup>
+    <EntryGroup key="FileUploader">
+      <Entry key="Message.SelectToUpload">
+        <Value>Vyberte soubory k nahrání</Value>
+      </Entry>
+      <Entry key="Message.UploadInProgress">
+        <Value>Nahrávání probíhá</Value>
+      </Entry>
+      <Entry key="Label.AddFiles">
+        <Value>Přidat soubory...</Value>
+      </Entry>
+      <Entry key="Label.AddFolders">
+        <Value>Přidat složky...</Value>
+      </Entry>
+      <Entry key="Label.Remove">
+        <Value>Odstranit</Value>
+      </Entry>
+      <Entry key="Label.Clear">
+        <Value>Clear</Value>
+      </Entry>
+      <Entry key="Message.DragAndDrop">
+        <Value>Přetáhněte sem soubory a složky.</Value>
+      </Entry>
+      <Entry key="Label.SpecificFiles">
+        <Value>Specifické soubory ({0})</Value>
+      </Entry>
+      <Entry key="Message.Error.SpecificUploadMethod">
+        <Value>Nepodařilo se načíst metodu nahrávání "{0}" v tomto prohlížeči ({1}).</Value>
+      </Entry>
+      <Entry key="Message.Error.AnyUploadMethod">
+        <Value>Nepodařilo se načíst žádnou ze zadaných metod nahrávání "{0}" v tomto prohlížeči ({1}).</Value>
+      </Entry>
+      <Entry key="Label.UploadMethod">
+        <Value>Způsob nahrávání</Value>
+      </Entry>
+      <Entry key="Label.AddToUploadQueue">
+        <Value>Přidat do fronty pro nahrávání</Value>
+      </Entry>
+      <Entry key="Message.DropNotRecognized">
+        <Value>Přetažené položky nebyly rozpoznány. Například tento prohlížeč ({0}) může podporovat přetažení pouze souborů, nikoli složek. Pokud potřebujete přetáhnout složky, můžete to zkusit v jiném novějším prohlížeči.</Value>
+      </Entry>
+      <Entry key="Label.ViewInfo">
+        <Value>Zobrazit informace</Value>
+      </Entry>
+      <Entry key="Label.AddConflict">
+        <Value>Přidat konflikt</Value>
+      </Entry>
+      <Entry key="Message.Error.ItemsAlreadyAdded">
+        <Value>Následující položky se stejnými názvy již byly přidány do fronty pro nahrávání.</Value>
+      </Entry>
+      <Entry key="Message.Error.ItemsFileTypeNotAllowed">
+        <Value>Následující položky nelze nahrát z důvodu omezení typu souboru.</Value>
+      </Entry>
+      <Entry key="Message.Error.ItemsFileSizeNotAllowed">
+        <Value>Následující položky nelze nahrát z důvodu omezení velikosti souboru.</Value>
+      </Entry>
+      <Entry key="Label.Info.AllowedMaxFileSize">
+        <Value>Povolená maximální velikost souboru: {0}</Value>
+      </Entry>
+      <Entry key="Message.Error.ItemsFileCountNotAllowed">
+        <Value>Následující položky nelze nahrát z důvodu omezení počtu souborů.</Value>
+      </Entry>
+      <Entry key="Label.Info.AllowedMaxFileCount">
+        <Value>Maximální povolený počet souborů: {0}</Value>
+      </Entry>
+      <Entry key="Label.UploadConflict">
+        <Value>Konflikt nahrávání</Value>
+      </Entry>
+      <Entry key="Label.Column.Status">
+        <Value>Status</Value>
+      </Entry>
+      <Entry key="Label.Status.Pending">
+        <Value>Čeká na vyřízení</Value>
+      </Entry>
+      <Entry key="Label.Status.Rejected">
+        <Value>Odmítnuto</Value>
+      </Entry>
+      <Entry key="Label.Status.Skipped">
+        <Value>Přeskočeno</Value>
+      </Entry>
+      <Entry key="Label.Status.Canceled">
+        <Value>Zrušeno</Value>
+      </Entry>
+      <Entry key="Label.Status.Failed">
+        <Value>Nepodařilo se</Value>
+      </Entry>
+      <Entry key="Label.Status.Completed">
+        <Value>Dokončeno</Value>
+      </Entry>
+      <Entry key="Label.ViewStatusReason">
+        <Value>Kliknutím zobrazíte důvod stavu</Value>
+      </Entry>
+      <Entry key="Label.TimeRemaining">
+        <Value>Zbývající čas</Value>
+      </Entry>
+      <Entry key="Label.ItemsRemaining">
+        <Value>Zbývající položky</Value>
+      </Entry>
+      <Entry key="Label.Speed">
+        <Value>Rychlost</Value>
+      </Entry>
+      <Entry key="Label.TimeEstimate">
+        <Value>About {0}</Value>
+      </Entry>
+      <Entry key="Label.TimeEstimateHours">
+        <Value>{0} hodin</Value>
+      </Entry>
+      <Entry key="Label.TimeEstimateMinutes">
+        <Value>{0} minut</Value>
+      </Entry>
+      <Entry key="Label.TimeEstimateSeconds">
+        <Value>{0} sekund</Value>
+      </Entry>
+      <Entry key="Label.SpeedEstimate">
+        <Value>{0}/sekund</Value>
+      </Entry>
+      <Entry key="Label.Calculating">
+        <Value>Počítání...</Value>
+      </Entry>
+      <Entry key="Message.Confirm.UploadStillInProgress">
+        <Value>Nahrávání stále probíhá, chcete opravdu odejít?</Value>
+      </Entry>
+      <Entry key="Label.CancelAll">
+        <Value>Zrušit vše</Value>
+      </Entry>
+    </EntryGroup>
+    <EntryGroup key="NotUsedForNow">
+      <Entry key="FileManager.Label.Folders">
+        <Value>Složky</Value>
+        <Comment>Aktuálně se používá pouze ve FileVista.</Comment>
+      </Entry>
+      <Entry key="FileManager.Label.Subfolders">
+        <Value>{0} podsložky</Value>
+      </Entry>
+      <Entry key="FileManager.Label.Files">
+        <Value>{0} soubory</Value>
+      </Entry>
+      <Entry key="FileManager.Label.FolderUnavailable">
+        <Value>Tato složka není k dispozici.</Value>
+      </Entry>
+      <Entry key="FileManager.Action.UpOneLevel">
+        <Value>O úroveň výš</Value>
+      </Entry>
+      <Entry key="FileManager.Action.CreateNewFolder">
+        <Value>Vytvořit novou složku</Value>
+      </Entry>
+      <Entry key="FileManager.Action.DownloadFiles">
+        <Value>Stáhnout soubory</Value>
+      </Entry>
+      <Entry key="FileManager.Action.DownloadAsZip">
+        <Value>Stáhnout jako zip</Value>
+      </Entry>
+      <Entry key="FileManager.Action.OpenWith">
+        <Value>Otevřít pomocí</Value>
+      </Entry>
+      <Entry key="FileManager.Action.WebBrowser">
+        <Value>Webový prohlížeč</Value>
+      </Entry>
+      <Entry key="FileManager.Action.Explore">
+        <Value>Prozkoumat</Value>
+      </Entry>
+      <Entry key="FileManager.Action.Folder">
+        <Value>Složka</Value>
+      </Entry>
+      <Entry key="FileUploader.Label.NotAvailable">
+        <Value>Není k dispozici</Value>
+      </Entry>
+      <Entry key="FileUploader.Action.NewUpload">
+        <Value>Nové nahrání</Value>
+      </Entry>
+      <Entry key="FileUploader.Error.EmptyFile">
+        <Value>'{0}' je prázdný (nula bajtů) soubor.</Value>
+      </Entry>
+      <Entry key="FileUploader.Label.StatusReason">
+        <Value>Důvod stavu</Value>
+      </Entry>
+    </EntryGroup>
+  </Body>
+</Language>

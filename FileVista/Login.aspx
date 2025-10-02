@@ -13,12 +13,12 @@
 	<body>
         <form id="formLogin" runat="server" method="post" onsubmit="return login();">
             <input type="hidden" id="loginAction" value="<%=LoginAction%>"/>
-            <div id="divLogin" style="position: absolute; visibility: hidden">
+            <div id="divLogin" style="position: absolute; visibility: hidden; min-width: 300px;">
                 <div class="gt-panel" style="padding: 5px">
-				    <table border="0" cellpadding="0" cellspacing="5" style="width: 280px;">
+				    <table border="0" cellpadding="0" cellspacing="5" align="center">
                         <tr>
                             <td colspan="2">
-			                    <table border="0" cellpadding="5" cellspacing="0" style="width: 280px;">
+			                    <table border="0" cellpadding="5" cellspacing="0">
 				                    <tr>
 					                    <td style="text-align: center"><img style="border: none; width: 48px; height: 48px" src="<%=LoginImageUrl%>" alt="" /></td>
 					                    <td><%=Language.GetEntry("500", Title)%><br /><%=Language.GetEntry("501")%></td>
@@ -53,6 +53,8 @@
 			        </table>
                 </div>
                 <asp:Literal ID="Literal1" runat="server"></asp:Literal>
+                <br />
+                <asp:Literal ID="LiteralAutoLogin" runat="server"></asp:Literal>
                 <br />
 		        <%=DemoInfo%>
             </div>		
